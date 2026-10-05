@@ -2,50 +2,23 @@ function json(res, status, data){
   res.status(status).setHeader('Content-Type','application/json; charset=utf-8');
   return res.end(JSON.stringify(data));
 }
-
 async function supaFetch(url, opts, serviceKey){
-  const headers={
-    ...(opts.headers||{}),
-    apikey:serviceKey,
-    Authorization:`Bearer ${serviceKey}`,
-    'Content-Type':'application/json'
-  };
+  const headers={...(opts.headers||{}),apikey:serviceKey,Authorization:`Bearer ${serviceKey}`,'Content-Type':'application/json'};
   return fetch(url,{...opts,headers});
 }
-
 module.exports = async function handler(req,res){
-  if(req.method!=='POST'){
-    return json(res,405,{error:'Método não permitido.'});
-  }
-
+  if(req.method!=='POST') return json(res,405,{error:'Método não permitido.'});
   const base=process.env.SUPABASE_URL;
   const serviceKey=process.env.SUPABASE_SERVICE_ROLE_KEY;
+  if(!base||!serviceKey) return json(res,500,{error:'Variáveis SUPABASE_URL e SUPABASE_SERVICE_ROLE_KEY não configuradas na Vercel.'});
 
-  if(!base||!serviceKey){
-    return json(res,500,{
-      error:'Variáveis SUPABASE_URL e SUPABASE_SERVICE_ROLE_KEY não configuradas na Vercel.'
-    });
-  }
-
-  const auth=(req.headers.authorization||'')
-    .replace(/^Bearer\s+/i,'')
-    .trim();
-
-  if(!auth){
-    return json(res,401,{error:'Sessão ausente.'});
-  }
+  const auth=(req.headers.authorization||'').replace(/^Bearer\s+/i,'').trim();
+  if(!auth) return json(res,401,{error:'Sessão ausente.'});
 
   const userResp=await fetch(`${base}/auth/v1/user`,{
-    headers:{
-      apikey:serviceKey,
-      Authorization:`Bearer ${auth}`
-    }
+    headers:{apikey:serviceKey,Authorization:`Bearer ${auth}`}
   });
-
-  if(!userResp.ok){
-    return json(res,401,{error:'Sessão inválida ou expirada.'});
-  }
-
+  if(!userResp.ok) return json(res,401,{error:'Sessão inválida ou expirada.'});
   const caller=await userResp.json();
 
   const admResp=await supaFetch(
@@ -54,18 +27,12 @@ module.exports = async function handler(req,res){
     serviceKey
   );
 
-  if(!admResp.ok){
-    return json(res,500,{
-      error:'Não foi possível validar a administradora.'
-    });
-  }
+  if(!admResp.ok) return json(res,500,{error:'Não foi possível validar a administradora.'});
 
   const rows=await admResp.json();
 
   if(!Array.isArray(rows)||!rows.length){
-    return json(res,403,{
-      error:'Acesso restrito à administradora.'
-    });
+    return json(res,403,{error:'Acesso restrito à administradora.'});
   }
 
   const body=req.body||{};
@@ -130,6 +97,24 @@ module.exports = async function handler(req,res){
     if(!r.ok){
       return json(res,r.status,{
         error:d.msg||d.message||'Falha ao criar usuário.'
+      });
+    }
+
+    const approvalResp=await supaFetch(
+      `${base}/rest/v1/profiles?id=eq.${encodeURIComponent(d.id)}`,
+      {
+        method:'PATCH',
+        headers:{Prefer:'return=minimal'},
+        body:JSON.stringify({
+          is_approved:true
+        })
+      },
+      serviceKey
+    );
+
+    if(!approvalResp.ok){
+      return json(res,500,{
+        error:'Usuário criado, mas não foi possível liberar o acesso automaticamente.'
       });
     }
 
