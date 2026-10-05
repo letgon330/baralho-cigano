@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Enciclopédia Cigana — 36 Cartas • V12 Login + Admin</title>
+<title>Enciclopédia Cigana — 36 Cartas • V14 Acesso Controlado + Admin</title>
 <meta name="description" content="Enciclopédia do Baralho Cigano com 36 cartas, combinações, métodos, perguntas, áreas da vida, histórico e assistente de interpretação.">
 <style>
 :root{--bg:#fff7fa;--bg2:#f9eef2;--card:#fff;--ink:#432f37;--muted:#7e6771;--line:#ebd4dd;--rose:#c78097;--rose2:#b8637f;--gold:#c4a06b;--night:#0e1322;--night2:#121827;--shadow:0 14px 34px rgba(107,61,79,.12);--radius:22px}
@@ -73,16 +73,31 @@ header{position:sticky;top:0;z-index:50;background:rgba(255,248,251,.95);backdro
 @media(max-width:620px){.authShell{padding:22px 16px}.authBrand{font-size:26px}.accountMini{width:100%}}
 </style>
 
+
+<style>
+.adminModal{position:fixed;inset:0;z-index:10020;background:rgba(55,34,43,.48);display:none;align-items:center;justify-content:center;padding:18px}
+.adminModal.open{display:flex}
+.adminModalCard{width:min(980px,96vw);max-height:90vh;overflow:auto;background:#fff;border:1px solid var(--line);border-radius:24px;box-shadow:var(--shadow);padding:22px}
+.adminModalHead{display:flex;align-items:flex-start;justify-content:space-between;gap:14px;position:sticky;top:-22px;background:#fff;padding:22px 0 12px;z-index:2;border-bottom:1px solid var(--line)}
+.adminReadingMeta{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin:14px 0}
+.adminReadingMeta .textCard{margin:0}
+.adminReadingCards{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:10px}
+.adminReadingCard{border:1px solid var(--line);border-radius:16px;padding:12px;background:#fff}
+.adminReadingCard strong{display:block;margin-bottom:5px}
+.adminReadingActions{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+.adminReadingPreview{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+@media(max-width:620px){.adminModal{padding:8px}.adminModalCard{padding:14px}.adminModalHead{top:-14px;padding:14px 0 10px}}
+</style>
+
 </head>
 <body>
 <div id="authGate" class="authGate">
   <div class="authShell">
     <div class="authBrand">Enciclopédia Cigana <span>•</span> 36 cartas</div>
-    <p class="authLead">Entre na sua conta para acessar a enciclopédia e manter seu histórico de tiragens sincronizado entre seus aparelhos.</p>
+    <p class="authLead">Acesso somente para usuários autorizados pela administradora. Entre com seu e-mail e sua senha para acessar a enciclopédia e seu histórico.</p>
 
     <div class="authTabs">
       <button type="button" class="authTab active" data-auth-tab="login">Entrar</button>
-      <button type="button" class="authTab" data-auth-tab="signup">Criar conta</button>
       <button type="button" class="authTab" data-auth-tab="recover">Esqueci a senha</button>
     </div>
 
@@ -92,15 +107,6 @@ header{position:sticky;top:0;z-index:50;background:rgba(255,248,251,.95);backdro
       <label>E-mail<input id="loginEmail" type="email" autocomplete="email" required></label>
       <label>Senha<input id="loginPassword" type="password" autocomplete="current-password" required minlength="6"></label>
       <button class="authPrimary" type="submit">Entrar</button>
-    </form>
-
-    <form id="signupForm" class="authForm" data-auth-panel="signup">
-      <label>Nome<input id="signupName" type="text" autocomplete="name" required></label>
-      <label>E-mail<input id="signupEmail" type="email" autocomplete="email" required></label>
-      <label>Senha<input id="signupPassword" type="password" autocomplete="new-password" required minlength="6"></label>
-      <label>Confirmar senha<input id="signupPassword2" type="password" autocomplete="new-password" required minlength="6"></label>
-      <button class="authPrimary" type="submit">Criar minha conta</button>
-      <small>A conta poderá exigir confirmação por e-mail, conforme a configuração do Supabase.</small>
     </form>
 
     <form id="recoverForm" class="authForm" data-auth-panel="recover">
@@ -381,6 +387,14 @@ init();
     CURRENT_PROFILE=data||null;
     const {data:isAdmin,error:adminErr}=await sb.rpc('is_admin');
     CURRENT_IS_ADMIN=!adminErr&&isAdmin===true;
+    if(!CURRENT_IS_ADMIN && CURRENT_PROFILE?.is_approved!==true){
+      await sb.auth.signOut();
+      CURRENT_USER=null;CURRENT_PROFILE=null;CURRENT_IS_ADMIN=false;
+      gate.classList.remove('hidden');
+      showAuthPanel('login');
+      authMessage('Esta conta ainda não foi autorizada pela administradora.','err');
+      return false;
+    }
     document.getElementById('adminNavBtn').style.display=CURRENT_IS_ADMIN?'inline-block':'none';
     document.getElementById('accountMini').style.display='flex';
     document.getElementById('accountMiniText').textContent=(CURRENT_PROFILE?.full_name||CURRENT_USER.email||'Usuário');
@@ -391,7 +405,8 @@ init();
   async function afterLogin(user){
     CURRENT_USER=user;
     gate.classList.add('hidden');
-    await loadProfile();
+    const ok=await loadProfile();
+    if(ok===false)return;
     await loadCloudHistory();
     if(CURRENT_IS_ADMIN) await renderAdmin();
   }
@@ -410,20 +425,6 @@ init();
     const {data,error}=await sb.auth.signInWithPassword({email,password});
     if(error)return authMessage(error.message,'err');
     await afterLogin(data.user);
-  };
-
-  document.getElementById('signupForm').onsubmit=async(e)=>{
-    e.preventDefault();
-    const full_name=document.getElementById('signupName').value.trim();
-    const email=document.getElementById('signupEmail').value.trim();
-    const p1=document.getElementById('signupPassword').value,p2=document.getElementById('signupPassword2').value;
-    if(p1!==p2)return authMessage('As senhas não conferem.','err');
-    authMessage('Criando sua conta...','ok');
-    const {data,error}=await sb.auth.signUp({email,password:p1,options:{data:{full_name},emailRedirectTo:location.origin}});
-    if(error)return authMessage(error.message,'err');
-    if(data.session&&data.user){await afterLogin(data.user);return}
-    authMessage('Conta criada. Verifique seu e-mail para confirmar o cadastro e depois entre no aplicativo.','ok');
-    showAuthPanel('login');
   };
 
   document.getElementById('recoverForm').onsubmit=async(e)=>{
@@ -478,6 +479,63 @@ init();
     return data;
   }
 
+  function adminCardName(id){
+    const c=cardById[id];
+    return c?(c.shortName||c.name):('Carta '+id);
+  }
+
+  function openAdminReading(r,user){
+    const modal=document.getElementById('adminReadingModal');
+    const body=document.getElementById('adminReadingBody');
+    const title=document.getElementById('adminReadingTitle');
+    const cards=Array.isArray(r.cards)?r.cards:[];
+    const meta=(r.positions&&typeof r.positions==='object'&&!Array.isArray(r.positions))?r.positions:{};
+    title.textContent=r.question||'Tiragem sem pergunta';
+    body.innerHTML=`
+      <div class="adminReadingMeta">
+        <div class="textCard"><strong>Consulente</strong><p>${esc(user?.full_name||user?.email||r.user_id)}</p></div>
+        <div class="textCard"><strong>E-mail</strong><p>${esc(user?.email||'—')}</p></div>
+        <div class="textCard"><strong>Assunto</strong><p>${esc(THEME_LABELS[r.topic]||r.topic||'—')}</p></div>
+        <div class="textCard"><strong>Método</strong><p>${esc(r.method||'—')}</p></div>
+        <div class="textCard"><strong>Data</strong><p>${esc(fmtDate(r.created_at))}</p></div>
+      </div>
+      <h3 class="sectionTitle" style="font-size:23px">Pergunta</h3>
+      <div class="textCard"><p style="white-space:pre-wrap">${esc(r.question||'Não informada.')}</p></div>
+
+      <h3 class="sectionTitle" style="font-size:23px">Cartas e posições</h3>
+      <div class="adminReadingCards">
+        ${cards.map((cc,i)=>{
+          const c=cardById[cc.id];
+          return `<div class="adminReadingCard">
+            <strong>${i+1}. ${esc(c?`${c.id} · ${c.shortName||c.name}`:cc.id||'Carta')}</strong>
+            <div><b>Posição:</b> ${esc(cc.position||'—')}</div>
+            ${cc.houseNumber?`<div><b>Casa:</b> ${esc(cc.houseNumber)}</div>`:''}
+          </div>`
+        }).join('')||'<div class="historyEmpty">Nenhuma carta registrada.</div>'}
+      </div>
+
+      <h3 class="sectionTitle" style="font-size:23px">Interpretação do consulente</h3>
+      <div class="textCard"><p style="white-space:pre-wrap">${esc(r.user_notes||'Não preenchida.')}</p></div>
+
+      <h3 class="sectionTitle" style="font-size:23px">Leitura guiada salva</h3>
+      <div class="textCard"><p style="white-space:pre-wrap">${esc(r.interpretation||meta.localReading||'Não registrada.')}</p></div>
+
+      <div class="adminReadingActions">
+        <button class="smallBtn dangerBtn" id="adminModalDelete" type="button">Excluir tiragem</button>
+        <button class="smallBtn" type="button" disabled title="Recurso previsto para uma próxima versão">Exportar PDF — em breve</button>
+      </div>`;
+    modal.classList.add('open');
+    modal.setAttribute('aria-hidden','false');
+    document.getElementById('adminModalDelete').onclick=async()=>{
+      if(!confirm('Excluir permanentemente esta tiragem?'))return;
+      const {error}=await sb.from('reading_history').delete().eq('id',r.id);
+      if(error){alert(error.message);return}
+      modal.classList.remove('open');
+      modal.setAttribute('aria-hidden','true');
+      await renderAdmin();
+    };
+  }
+
   async function renderAdmin(){
     if(!CURRENT_IS_ADMIN)return;
     try{
@@ -487,10 +545,13 @@ init();
       ]);
       if(histRes.error)throw histRes.error;
       const users=authData.users||[], hist=histRes.data||[];
+      const userMap=Object.fromEntries(users.map(u=>[u.id,u]));
       const counts={};hist.forEach(x=>counts[x.user_id]=(counts[x.user_id]||0)+1);
+
       document.getElementById('adminSummary').innerHTML=
         `<div class="metaCard"><strong>Usuários</strong><span>${users.length}</span></div>`+
         `<div class="metaCard"><strong>Tiragens salvas</strong><span>${hist.length}</span></div>`;
+
       document.getElementById('adminUsersMount').innerHTML=users.map(u=>{
         const banned=!!u.banned_until;
         const self=CURRENT_USER&&u.id===CURRENT_USER.id;
@@ -523,15 +584,51 @@ init();
         }catch(e){alert(e.message||String(e))}
       });
 
-      document.getElementById('adminHistoryMount').innerHTML=hist.slice(0,50).map(r=>
-        `<div class="adminUser"><strong>${esc(r.question||'Tiragem sem pergunta')}</strong><br><small>${esc(r.topic||'geral')} · ${esc(r.method||'')} · ${esc(fmtDate(r.created_at))}</small><br><small>Usuário: ${esc(r.user_id)}</small></div>`
-      ).join('')||'<div class="historyEmpty">Nenhuma tiragem.</div>';
+      document.getElementById('adminHistoryMount').innerHTML=hist.slice(0,100).map(r=>{
+        const u=userMap[r.user_id]||{};
+        const cards=Array.isArray(r.cards)?r.cards:[];
+        return `<div class="adminUser">
+          <strong>${esc(r.question||'Tiragem sem pergunta')}</strong><br>
+          <small>${esc(u.full_name||u.email||r.user_id)} · ${esc(THEME_LABELS[r.topic]||r.topic||'geral')} · ${esc(r.method||'')} · ${esc(fmtDate(r.created_at))}</small>
+          <div class="adminReadingPreview"><small>${cards.length} carta(s): ${esc(cards.map(c=>adminCardName(c.id)).join(' · ')||'—')}</small></div>
+          <div class="historyActions" style="margin-top:10px">
+            <button class="smallBtn" data-reading-view="${esc(r.id)}">Ver detalhes</button>
+            <button class="smallBtn dangerBtn" data-reading-delete="${esc(r.id)}">Excluir tiragem</button>
+            <button class="smallBtn" type="button" disabled title="Recurso previsto para uma próxima versão">Exportar PDF — em breve</button>
+          </div>
+        </div>`
+      }).join('')||'<div class="historyEmpty">Nenhuma tiragem.</div>';
+
+      document.querySelectorAll('[data-reading-view]').forEach(btn=>btn.onclick=()=>{
+        const r=hist.find(x=>x.id===btn.dataset.readingView);
+        if(r)openAdminReading(r,userMap[r.user_id]||{});
+      });
+
+      document.querySelectorAll('[data-reading-delete]').forEach(btn=>btn.onclick=async()=>{
+        if(!confirm('Excluir permanentemente esta tiragem?'))return;
+        const {error}=await sb.from('reading_history').delete().eq('id',btn.dataset.readingDelete);
+        if(error){alert(error.message);return}
+        await renderAdmin();
+      });
+
     }catch(e){
       document.getElementById('adminUsersMount').innerHTML=`<div class="notice"><strong>Configuração administrativa pendente:</strong> ${esc(e.message||String(e))}</div>`;
     }
   }
   window.renderAdmin=renderAdmin;
   document.getElementById('adminRefreshBtn').onclick=renderAdmin;
+
+  document.getElementById('adminReadingClose').onclick=()=>{
+    const m=document.getElementById('adminReadingModal');
+    m.classList.remove('open');m.setAttribute('aria-hidden','true');
+  };
+  document.getElementById('adminReadingModal').onclick=(e)=>{
+    if(e.target.id==='adminReadingModal'){
+      e.currentTarget.classList.remove('open');
+      e.currentTarget.setAttribute('aria-hidden','true');
+    }
+  };
+
   document.getElementById('adminCreateUserForm').onsubmit=async(e)=>{
     e.preventDefault();
     try{
@@ -559,6 +656,20 @@ init();
   })();
 })();
 </script>
+
+
+<div id="adminReadingModal" class="adminModal" aria-hidden="true">
+  <div class="adminModalCard">
+    <div class="adminModalHead">
+      <div>
+        <div class="kicker">Tiragem completa</div>
+        <h2 id="adminReadingTitle" class="sectionTitle" style="margin:4px 0 0">Detalhes da tiragem</h2>
+      </div>
+      <button id="adminReadingClose" class="smallBtn" type="button">Fechar</button>
+    </div>
+    <div id="adminReadingBody"></div>
+  </div>
+</div>
 
 <button id="pwaInstallBtn" type="button" aria-label="Instalar aplicativo">Instalar aplicativo</button>
 <div id="pwaOfflineBadge" role="status">Modo offline</div>
