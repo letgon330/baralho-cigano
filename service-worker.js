@@ -1,4 +1,4 @@
-const CACHE_NAME = 'enciclopedia-cigana-pwa-v1';
+const CACHE_NAME = 'enciclopedia-cigana-pwa-v2-login';
 const APP_SHELL = [
   './',
   './index.html',
