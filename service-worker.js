@@ -1,4 +1,4 @@
-const CACHE_NAME = 'enciclopedia-cigana-pwa-v5-acesso-controlado';
+const CACHE_NAME = 'enciclopedia-cigana-pwa-v6-atualizacao-automatica';
 const APP_SHELL = [
   './',
   './index.html',
@@ -9,8 +9,14 @@ const APP_SHELL = [
 ];
 
 self.addEventListener('install', event => {
-  self.skipWaiting();
   event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(APP_SHELL)));
+});
+
+
+self.addEventListener('message', event => {
+  if (event.data && event.data.type === 'SKIP_WAITING') {
+    self.skipWaiting();
+  }
 });
 
 self.addEventListener('activate', event => {

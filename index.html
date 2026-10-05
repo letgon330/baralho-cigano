@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Enciclopédia Cigana — 36 Cartas • V14 Acesso Controlado + Admin</title>
+<title>Enciclopédia Cigana — 36 Cartas • V15 Atualização Automática</title>
 <meta name="description" content="Enciclopédia do Baralho Cigano com 36 cartas, combinações, métodos, perguntas, áreas da vida, histórico e assistente de interpretação.">
 <style>
 :root{--bg:#fff7fa;--bg2:#f9eef2;--card:#fff;--ink:#432f37;--muted:#7e6771;--line:#ebd4dd;--rose:#c78097;--rose2:#b8637f;--gold:#c4a06b;--night:#0e1322;--night2:#121827;--shadow:0 14px 34px rgba(107,61,79,.12);--radius:22px}
@@ -87,6 +87,33 @@ header{position:sticky;top:0;z-index:50;background:rgba(255,248,251,.95);backdro
 .adminReadingActions{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
 .adminReadingPreview{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
 @media(max-width:620px){.adminModal{padding:8px}.adminModalCard{padding:14px}.adminModalHead{top:-14px;padding:14px 0 10px}}
+</style>
+
+
+<style>
+#pwaUpdateNotice{
+  position:fixed;left:50%;bottom:18px;transform:translateX(-50%);
+  z-index:10010;width:min(560px,calc(100vw - 24px));
+  background:#fff;border:1px solid #e8bccb;border-radius:20px;
+  box-shadow:0 16px 44px rgba(91,52,69,.22);padding:16px 18px;
+  display:none;color:#5c3544
+}
+#pwaUpdateNotice.show{display:block}
+#pwaUpdateNotice .updateTitle{font-family:Georgia,serif;font-size:20px;font-weight:700;margin:0 0 4px}
+#pwaUpdateNotice .updateText{margin:0 0 12px;line-height:1.45;color:#7d5966}
+#pwaUpdateNotice .updateActions{display:flex;gap:8px;flex-wrap:wrap}
+#pwaUpdateNow{
+  border:1px solid #b8637f;background:linear-gradient(135deg,#c78097,#b8637f);
+  color:#fff;padding:10px 16px;border-radius:999px;font-weight:800;cursor:pointer
+}
+#pwaUpdateLater{
+  border:1px solid #e8bccb;background:#fff;color:#7a4a5b;
+  padding:10px 16px;border-radius:999px;font-weight:700;cursor:pointer
+}
+@media(max-width:640px){
+  #pwaUpdateNotice{bottom:12px;padding:14px}
+  #pwaUpdateNotice .updateTitle{font-size:18px}
+}
 </style>
 
 </head>
@@ -671,6 +698,16 @@ init();
   </div>
 </div>
 
+
+<div id="pwaUpdateNotice" role="status" aria-live="polite">
+  <div class="updateTitle">✨ Nova versão disponível</div>
+  <p class="updateText">Há uma atualização da Enciclopédia Cigana pronta para instalar.</p>
+  <div class="updateActions">
+    <button id="pwaUpdateNow" type="button">Atualizar agora</button>
+    <button id="pwaUpdateLater" type="button">Depois</button>
+  </div>
+</div>
+
 <button id="pwaInstallBtn" type="button" aria-label="Instalar aplicativo">Instalar aplicativo</button>
 <div id="pwaOfflineBadge" role="status">Modo offline</div>
 <script>
@@ -683,8 +720,79 @@ init();
   function updateOffline(){ if(offlineBadge) offlineBadge.style.display=navigator.onLine?'none':'block'; }
   window.addEventListener('online',updateOffline); window.addEventListener('offline',updateOffline); updateOffline();
 
+  const updateNotice=document.getElementById('pwaUpdateNotice');
+  const updateNowBtn=document.getElementById('pwaUpdateNow');
+  const updateLaterBtn=document.getElementById('pwaUpdateLater');
+  let waitingWorker=null;
+  let reloadingForUpdate=false;
+
+  function showUpdate(worker){
+    waitingWorker=worker||waitingWorker;
+    if(updateNotice) updateNotice.classList.add('show');
+  }
+
+  function hideUpdate(){
+    if(updateNotice) updateNotice.classList.remove('show');
+  }
+
   if('serviceWorker' in navigator){
-    window.addEventListener('load',()=>navigator.serviceWorker.register('./service-worker.js').catch(()=>{}));
+    window.addEventListener('load',async()=>{
+      try{
+        const reg=await navigator.serviceWorker.register('./service-worker.js');
+
+        // Se já existe uma atualização esperando, avisa imediatamente.
+        if(reg.waiting && navigator.serviceWorker.controller){
+          showUpdate(reg.waiting);
+        }
+
+        // Procura atualização a cada abertura do app/site.
+        try{ await reg.update(); }catch(e){}
+
+        reg.addEventListener('updatefound',()=>{
+          const newWorker=reg.installing;
+          if(!newWorker)return;
+
+          newWorker.addEventListener('statechange',()=>{
+            if(newWorker.state==='installed' && navigator.serviceWorker.controller){
+              showUpdate(newWorker);
+            }
+          });
+        });
+
+        // Ao voltar ao app depois de algum tempo, procura nova versão novamente.
+        document.addEventListener('visibilitychange',()=>{
+          if(document.visibilityState==='visible'){
+            reg.update().catch(()=>{});
+          }
+        });
+
+        // Verificação periódica enquanto o app estiver aberto.
+        setInterval(()=>reg.update().catch(()=>{}),15*60*1000);
+
+      }catch(e){}
+    });
+
+    navigator.serviceWorker.addEventListener('controllerchange',()=>{
+      if(reloadingForUpdate)return;
+      reloadingForUpdate=true;
+      window.location.reload();
+    });
+  }
+
+  if(updateNowBtn){
+    updateNowBtn.addEventListener('click',()=>{
+      if(waitingWorker){
+        updateNowBtn.disabled=true;
+        updateNowBtn.textContent='Atualizando...';
+        waitingWorker.postMessage({type:'SKIP_WAITING'});
+      }else{
+        window.location.reload();
+      }
+    });
+  }
+
+  if(updateLaterBtn){
+    updateLaterBtn.addEventListener('click',hideUpdate);
   }
 
   window.addEventListener('beforeinstallprompt',(e)=>{
