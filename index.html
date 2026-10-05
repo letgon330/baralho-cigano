@@ -41,6 +41,24 @@ header{position:sticky;top:0;z-index:50;background:rgba(255,248,251,.95);backdro
 @media(max-width:700px){.cardTabs{top:154px;overflow-x:auto;flex-wrap:nowrap}.cardTabs button{white-space:nowrap}.cardTopicPanel{padding:14px}}
 
 </style>
+
+<!-- PWA -->
+<link rel="manifest" href="./manifest.webmanifest">
+<meta name="theme-color" content="#c78097">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Enciclopédia Cigana">
+<link rel="apple-touch-icon" href="./apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="192x192" href="./icon-192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="./icon-512.png">
+<style>
+#pwaInstallBtn{position:fixed;right:18px;bottom:18px;z-index:9999;border:1px solid #b8637f;background:linear-gradient(135deg,#c78097,#b8637f);color:#fff;padding:12px 16px;border-radius:999px;box-shadow:0 10px 28px rgba(107,61,79,.26);font-weight:800;cursor:pointer;display:none}
+#pwaInstallBtn:active{transform:translateY(1px)}
+#pwaOfflineBadge{position:fixed;left:14px;bottom:14px;z-index:9998;background:#fff3f8;color:#875167;border:1px solid #f1cad9;border-radius:999px;padding:8px 12px;font-size:12px;display:none;box-shadow:0 8px 18px rgba(107,61,79,.12)}
+@media(max-width:640px){#pwaInstallBtn{right:12px;bottom:12px;padding:11px 14px;font-size:13px}#pwaOfflineBadge{left:12px;bottom:12px}}
+</style>
+
 </head>
 <body>
 <header><div class="wrap top"><div class="brand">Enciclopédia Cigana <span style="color:var(--gold)">•</span> 36 cartas</div><div class="badge">✓ 36 cartas</div><div class="badge">✓ conteúdo consolidado</div><nav class="navLinks" id="mainNav">
@@ -176,4 +194,49 @@ function init(){renderCardGrid();renderCardDetail(cardById['01']);renderMethods(
 const themeSel=document.getElementById('flowTheme');themeSel.innerHTML=Object.entries(THEME_LABELS).map(([k,l])=>`<option value="${k}">${l}</option>`).join('');themeSel.value='geral';const catSel=document.getElementById('flowCategory');catSel.innerHTML=Object.entries(CATEGORY_LABELS).filter(([k])=>!['sexualidade','pessoa','interpretacoes','amizades','simbolos_arquetipos','luciferiana'].includes(k)).map(([k,l])=>`<option value="${k}">${l}</option>`).join('');catSel.value='geral';themeSel.onchange=()=>{catSel.value=categoryFromTheme(themeSel.value);updateFlowMethods(false);renderFlowSubjectChoices()};catSel.onchange=()=>{};document.getElementById('flowMethod').onchange=renderFlowPositions;document.getElementById('flowQuestion').oninput=()=>{};document.getElementById('flowQuestionNext').onclick=()=>{if(!document.getElementById('flowQuestion').value.trim()){alert('Escreva a pergunta antes de continuar.');return}state.flowMax=Math.max(state.flowMax,3);setFlowStage(3,true)};document.getElementById('flowMethodNext').onclick=()=>{if(document.getElementById('flowMethod').value===''){alert('Escolha um método.');return}state.flowMax=Math.max(state.flowMax,4);setFlowStage(4,true)};document.querySelectorAll('[data-flow-back]').forEach(b=>b.onclick=()=>setFlowStage(+b.dataset.flowBack,true));document.getElementById('localInterpretBtn').onclick=runLocal;document.getElementById('saveHistoryBtn').onclick=()=>saveCurrentHistory({});document.getElementById('clearFlowBtn').onclick=clearFlow;renderFlowSubjectChoices();updateFlowMethods(false);state.flowStage=1;state.flowMax=1;setFlowStage(1,true);renderHistory();document.getElementById('exportHistoryBtn').onclick=exportHistory;document.getElementById('clearHistoryBtn').onclick=()=>{if(confirm('Apagar todo o histórico local?'))setHistory([])};document.getElementById('ritualText').textContent=DATA.rituals?.text||'';showView('inicio')}
 init();
 </script>
+
+<button id="pwaInstallBtn" type="button" aria-label="Instalar aplicativo">Instalar aplicativo</button>
+<div id="pwaOfflineBadge" role="status">Modo offline</div>
+<script>
+(function(){
+  const installBtn=document.getElementById('pwaInstallBtn');
+  const offlineBadge=document.getElementById('pwaOfflineBadge');
+  let deferredPrompt=null;
+  const isStandalone=()=>window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone===true;
+  const isIOS=/iphone|ipad|ipod/i.test(navigator.userAgent);
+  function updateOffline(){ if(offlineBadge) offlineBadge.style.display=navigator.onLine?'none':'block'; }
+  window.addEventListener('online',updateOffline); window.addEventListener('offline',updateOffline); updateOffline();
+
+  if('serviceWorker' in navigator){
+    window.addEventListener('load',()=>navigator.serviceWorker.register('./service-worker.js').catch(()=>{}));
+  }
+
+  window.addEventListener('beforeinstallprompt',(e)=>{
+    e.preventDefault(); deferredPrompt=e;
+    if(installBtn && !isStandalone()) installBtn.style.display='block';
+  });
+
+  if(isIOS && !isStandalone() && installBtn){
+    installBtn.style.display='block';
+    installBtn.textContent='Adicionar à tela inicial';
+  }
+
+  if(installBtn){
+    installBtn.addEventListener('click',async()=>{
+      if(isStandalone()){ installBtn.style.display='none'; return; }
+      if(deferredPrompt){
+        deferredPrompt.prompt();
+        try{ await deferredPrompt.userChoice; }catch(e){}
+        deferredPrompt=null; installBtn.style.display='none';
+      }else if(isIOS){
+        alert('No iPhone/iPad: abra este site no Safari, toque em Compartilhar e escolha “Adicionar à Tela de Início”.');
+      }else{
+        alert('Abra o menu do navegador e escolha “Instalar app” ou “Adicionar à tela inicial”.');
+      }
+    });
+  }
+  window.addEventListener('appinstalled',()=>{ if(installBtn) installBtn.style.display='none'; });
+})();
+</script>
+
 </body></html>
