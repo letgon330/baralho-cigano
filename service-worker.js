@@ -1,4 +1,4 @@
-const CACHE_NAME = 'enciclopedia-cigana-pwa-v6-atualizacao-automatica';
+const CACHE_NAME = 'enciclopedia-cigana-pwa-v7-exportar-pdf';
 const APP_SHELL = [
   './',
   './index.html',

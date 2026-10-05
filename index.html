@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Enciclopédia Cigana — 36 Cartas • V15 Atualização Automática</title>
+<title>Enciclopédia Cigana — 36 Cartas • V16 Exportar PDF</title>
 <meta name="description" content="Enciclopédia do Baralho Cigano com 36 cartas, combinações, métodos, perguntas, áreas da vida, histórico e assistente de interpretação.">
 <style>
 :root{--bg:#fff7fa;--bg2:#f9eef2;--card:#fff;--ink:#432f37;--muted:#7e6771;--line:#ebd4dd;--rose:#c78097;--rose2:#b8637f;--gold:#c4a06b;--night:#0e1322;--night2:#121827;--shadow:0 14px 34px rgba(107,61,79,.12);--radius:22px}
@@ -113,6 +113,101 @@ header{position:sticky;top:0;z-index:50;background:rgba(255,248,251,.95);backdro
 @media(max-width:640px){
   #pwaUpdateNotice{bottom:12px;padding:14px}
   #pwaUpdateNotice .updateTitle{font-size:18px}
+}
+</style>
+
+
+<style>
+#pdfPrintArea{display:none}
+@media print{
+  @page{size:A4;margin:14mm}
+  html,body{background:#fff!important}
+  body>*:not(#pdfPrintArea){display:none!important}
+  #pdfPrintArea{
+    display:block!important;
+    position:static!important;
+    width:auto!important;
+    margin:0!important;
+    padding:0!important;
+    color:#4f303d!important;
+    background:#fff!important;
+    font-family:Arial,Helvetica,sans-serif!important;
+    font-size:11pt!important;
+    line-height:1.45!important;
+  }
+  #pdfPrintArea .pdfBrand{
+    border-bottom:2px solid #c78097;
+    padding-bottom:10px;
+    margin-bottom:18px;
+  }
+  #pdfPrintArea .pdfBrand h1{
+    margin:0;
+    font-family:Georgia,serif;
+    font-size:23pt;
+    color:#4d2c39;
+  }
+  #pdfPrintArea .pdfBrand p{margin:4px 0 0;color:#8c6573}
+  #pdfPrintArea .pdfMeta{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:8px 16px;
+    border:1px solid #edccd7;
+    border-radius:12px;
+    padding:12px;
+    margin:0 0 16px;
+  }
+  #pdfPrintArea .pdfMeta div{break-inside:avoid}
+  #pdfPrintArea h2{
+    font-family:Georgia,serif;
+    font-size:16pt;
+    color:#6f4051;
+    margin:18px 0 8px;
+    border-bottom:1px solid #edccd7;
+    padding-bottom:4px;
+  }
+  #pdfPrintArea .pdfQuestion,
+  #pdfPrintArea .pdfText{
+    white-space:pre-wrap;
+    border:1px solid #efd4dd;
+    border-radius:10px;
+    padding:10px 12px;
+    margin:0 0 12px;
+    break-inside:avoid;
+  }
+  #pdfPrintArea .pdfCards{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:10px;
+  }
+  #pdfPrintArea .pdfCard{
+    border:1px solid #efd4dd;
+    border-radius:10px;
+    padding:9px;
+    break-inside:avoid;
+    display:grid;
+    grid-template-columns:54px 1fr;
+    gap:10px;
+    align-items:start;
+  }
+  #pdfPrintArea .pdfCard img{
+    width:54px;
+    height:auto;
+    border-radius:7px;
+    border:1px solid #efd4dd;
+  }
+  #pdfPrintArea .pdfCard strong{
+    display:block;
+    font-family:Georgia,serif;
+    font-size:12pt;
+    margin-bottom:3px;
+  }
+  #pdfPrintArea .pdfFooter{
+    margin-top:18px;
+    padding-top:9px;
+    border-top:1px solid #edccd7;
+    color:#92717d;
+    font-size:9pt;
+  }
 }
 </style>
 
@@ -511,6 +606,93 @@ init();
     return c?(c.shortName||c.name):('Carta '+id);
   }
 
+
+  function buildPrintableReading(r,user){
+    const cards=Array.isArray(r.cards)?r.cards:[];
+    const meta=(r.positions&&typeof r.positions==='object'&&!Array.isArray(r.positions))?r.positions:{};
+    const guided=r.interpretation||meta.localReading||'Não registrada.';
+    const cardHtml=cards.map((cc,i)=>{
+      const c=cardById[cc.id];
+      const name=c?`${c.id} · ${c.shortName||c.name}`:(cc.id||'Carta');
+      const img=c?.imageUrl?`<img src="${c.imageUrl}" alt="${esc(name)}">`:'';
+      return `<div class="pdfCard">
+        ${img}
+        <div>
+          <strong>${i+1}. ${esc(name)}</strong>
+          <div><b>Posição:</b> ${esc(cc.position||'—')}</div>
+          ${cc.houseNumber?`<div><b>Casa:</b> ${esc(String(cc.houseNumber))}</div>`:''}
+        </div>
+      </div>`;
+    }).join('');
+
+    return `
+      <div class="pdfBrand">
+        <h1>Enciclopédia Cigana — Tiragem</h1>
+        <p>Registro de consulta simbólica/oracular</p>
+      </div>
+
+      <div class="pdfMeta">
+        <div><b>Consulente:</b><br>${esc(user?.full_name||user?.email||r.user_id||'—')}</div>
+        <div><b>E-mail:</b><br>${esc(user?.email||'—')}</div>
+        <div><b>Assunto:</b><br>${esc(THEME_LABELS[r.topic]||r.topic||'—')}</div>
+        <div><b>Método:</b><br>${esc(r.method||'—')}</div>
+        <div><b>Data e horário:</b><br>${esc(fmtDate(r.created_at))}</div>
+        <div><b>Quantidade de cartas:</b><br>${cards.length}</div>
+      </div>
+
+      <h2>Pergunta</h2>
+      <div class="pdfQuestion">${esc(r.question||'Não informada.')}</div>
+
+      <h2>Cartas e posições</h2>
+      <div class="pdfCards">${cardHtml||'<div class="pdfText">Nenhuma carta registrada.</div>'}</div>
+
+      <h2>Interpretação do consulente</h2>
+      <div class="pdfText">${esc(r.user_notes||'Não preenchida.')}</div>
+
+      <h2>Leitura guiada salva</h2>
+      <div class="pdfText">${esc(guided)}</div>
+
+      <div class="pdfFooter">
+        Enciclopédia Cigana. Conteúdo de estudo simbólico/oracular. Em temas de saúde,
+        gravidez, morte, infidelidade ou outros assuntos delicados, esta leitura não
+        constitui diagnóstico, comprovação factual ou substituto de orientação profissional.
+      </div>`;
+  }
+
+  function exportReadingPDF(r,user){
+    const existing=document.getElementById('pdfPrintArea');
+    if(existing)existing.remove();
+
+    const area=document.createElement('section');
+    area.id='pdfPrintArea';
+    area.setAttribute('aria-hidden','true');
+    area.innerHTML=buildPrintableReading(r,user);
+    document.body.appendChild(area);
+
+    let cleaned=false;
+    const cleanup=()=>{
+      if(cleaned)return;
+      cleaned=true;
+      const el=document.getElementById('pdfPrintArea');
+      if(el)el.remove();
+    };
+
+    window.addEventListener('afterprint',cleanup,{once:true});
+
+    // Dá tempo para imagens incorporadas entrarem no layout antes da impressão.
+    setTimeout(()=>{
+      try{
+        window.print();
+      }catch(e){
+        alert('Não foi possível abrir a exportação. Tente novamente.');
+        cleanup();
+      }
+    },250);
+
+    // Fallback silencioso caso o navegador não dispare afterprint.
+    setTimeout(cleanup,60000);
+  }
+
   function openAdminReading(r,user){
     const modal=document.getElementById('adminReadingModal');
     const body=document.getElementById('adminReadingBody');
@@ -549,7 +731,7 @@ init();
 
       <div class="adminReadingActions">
         <button class="smallBtn dangerBtn" id="adminModalDelete" type="button">Excluir tiragem</button>
-        <button class="smallBtn" type="button" disabled title="Recurso previsto para uma próxima versão">Exportar PDF — em breve</button>
+        <button class="smallBtn" id="adminModalPdf" type="button">Exportar PDF</button>
       </div>`;
     modal.classList.add('open');
     modal.setAttribute('aria-hidden','false');
@@ -561,6 +743,7 @@ init();
       modal.setAttribute('aria-hidden','true');
       await renderAdmin();
     };
+    document.getElementById('adminModalPdf').onclick=()=>exportReadingPDF(r,user);
   }
 
   async function renderAdmin(){
@@ -621,7 +804,7 @@ init();
           <div class="historyActions" style="margin-top:10px">
             <button class="smallBtn" data-reading-view="${esc(r.id)}">Ver detalhes</button>
             <button class="smallBtn dangerBtn" data-reading-delete="${esc(r.id)}">Excluir tiragem</button>
-            <button class="smallBtn" type="button" disabled title="Recurso previsto para uma próxima versão">Exportar PDF — em breve</button>
+            <button class="smallBtn" data-reading-pdf="${esc(r.id)}" type="button">Exportar PDF</button>
           </div>
         </div>`
       }).join('')||'<div class="historyEmpty">Nenhuma tiragem.</div>';
@@ -629,6 +812,11 @@ init();
       document.querySelectorAll('[data-reading-view]').forEach(btn=>btn.onclick=()=>{
         const r=hist.find(x=>x.id===btn.dataset.readingView);
         if(r)openAdminReading(r,userMap[r.user_id]||{});
+      });
+
+      document.querySelectorAll('[data-reading-pdf]').forEach(btn=>btn.onclick=()=>{
+        const r=hist.find(x=>x.id===btn.dataset.readingPdf);
+        if(r)exportReadingPDF(r,userMap[r.user_id]||{});
       });
 
       document.querySelectorAll('[data-reading-delete]').forEach(btn=>btn.onclick=async()=>{
