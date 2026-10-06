@@ -833,17 +833,48 @@ init();
   window.renderAdmin=renderAdmin;
   document.getElementById('adminRefreshBtn').onclick=renderAdmin;
 
-  document.getElementById('adminReadingClose').onclick=()=>{
+  if(document.getElementById('adminReadingClose')) document.getElementById('adminReadingClose').onclick=()=>{
     const m=document.getElementById('adminReadingModal');
     m.classList.remove('open');m.setAttribute('aria-hidden','true');
   };
-  document.getElementById('adminReadingModal').onclick=(e)=>{
+  if(document.getElementById('adminReadingModal')) document.getElementById('adminReadingModal').onclick=(e)=>{
     if(e.target.id==='adminReadingModal'){
       e.currentTarget.classList.remove('open');
       e.currentTarget.setAttribute('aria-hidden','true');
     }
   };
+document.addEventListener('click',(e)=>{
+  const modal=document.getElementById('adminReadingModal');
 
+  if(e.target && e.target.closest && e.target.closest('#adminReadingClose')){
+    e.preventDefault();
+
+    if(modal){
+      modal.classList.remove('open');
+      modal.setAttribute('aria-hidden','true');
+      document.body.style.overflow='';
+    }
+    return;
+  }
+
+  if(modal && e.target===modal){
+    modal.classList.remove('open');
+    modal.setAttribute('aria-hidden','true');
+    document.body.style.overflow='';
+  }
+});
+
+document.addEventListener('keydown',(e)=>{
+  if(e.key==='Escape'){
+    const modal=document.getElementById('adminReadingModal');
+
+    if(modal && modal.classList.contains('open')){
+      modal.classList.remove('open');
+      modal.setAttribute('aria-hidden','true');
+      document.body.style.overflow='';
+    }
+  }
+});
   document.getElementById('adminCreateUserForm').onsubmit=async(e)=>{
     e.preventDefault();
     try{
