@@ -1,4 +1,4 @@
-const CACHE_NAME = 'enciclopedia-cigana-pwa-v7-exportar-pdf';
+const CACHE_NAME = enciclopedia-cigana-pwa-v9-abrir-jogo;
 const APP_SHELL = [
   './',
   './index.html',
