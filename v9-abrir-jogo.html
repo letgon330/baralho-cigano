@@ -2,10 +2,938 @@
 <html lang="pt-BR">
 <head>
 <meta charset="utf-8">
-<title>Enciclopédia Cigana V9</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Enciclopédia Cigana — Abrir Jogo V9</title>
+
+<style>
+:root{
+  --rosa:#f7dbe6;
+  --rosa2:#fff3f7;
+  --rosa3:#eeb5ca;
+  --vinho:#7b2f4e;
+  --ouro:#b88a2d;
+  --texto:#4a3340;
+  --muted:#806a75;
+  --branco:#fff;
+}
+
+*{box-sizing:border-box}
+
+body{
+  margin:0;
+  font-family:Arial,sans-serif;
+  background:linear-gradient(180deg,#fff8fb,#fff,#fff8fb);
+  color:var(--texto);
+}
+
+.wrap{
+  max-width:1000px;
+  margin:auto;
+  padding:20px 14px 70px;
+}
+
+.hero{
+  background:linear-gradient(135deg,#fff,#fff3f7,#fff8df);
+  border:1px solid #eed7e1;
+  border-radius:28px;
+  padding:25px;
+  box-shadow:0 12px 35px rgba(100,40,70,.10);
+}
+
+h1,h2{
+  font-family:Georgia,serif;
+  color:var(--vinho);
+}
+
+h1{
+  margin:5px 0;
+  font-size:clamp(32px,6vw,50px);
+}
+
+.hero p{
+  color:var(--muted);
+  line-height:1.5;
+}
+
+.badge{
+  display:inline-block;
+  background:#fff6d9;
+  border:1px solid #e4bf63;
+  color:#74591a;
+  padding:6px 10px;
+  border-radius:999px;
+  font-size:12px;
+  font-weight:bold;
+}
+
+.card{
+  background:#fff;
+  border:1px solid #efd9e2;
+  border-radius:22px;
+  padding:20px;
+  margin-top:15px;
+  box-shadow:0 8px 24px rgba(100,40,70,.06);
+}
+
+.hidden{display:none}
+
+.grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(190px,1fr));
+  gap:10px;
+}
+
+.topic,.question,.method{
+  border:1px solid #ead3dd;
+  border-radius:16px;
+  background:#fff;
+  padding:13px;
+  cursor:pointer;
+  text-align:left;
+  color:var(--texto);
+}
+
+.topic:hover,.question:hover,.method:hover{
+  border-color:#c99f49;
+  background:#fffaf0;
+}
+
+.topic b,.method b{
+  display:block;
+  color:var(--vinho);
+  margin-bottom:4px;
+}
+
+.question{
+  width:100%;
+  margin:6px 0;
+}
+
+.question.active,.method.active{
+  border-color:#b88a2d;
+  background:#fff7df;
+}
+
+.row{
+  display:flex;
+  gap:8px;
+  flex-wrap:wrap;
+  margin-top:12px;
+}
+
+button{
+  font:inherit;
+}
+
+.btn{
+  border:0;
+  border-radius:13px;
+  padding:11px 15px;
+  cursor:pointer;
+  font-weight:bold;
+}
+
+.primary{
+  background:linear-gradient(135deg,#a3496e,#7b2f4e);
+  color:#fff;
+}
+
+.secondary{
+  background:#fff2f7;
+  color:var(--vinho);
+  border:1px solid #e6cbd6;
+}
+
+.gold{
+  background:#fff7df;
+  color:#735819;
+  border:1px solid #dfbd66;
+}
+
+textarea{
+  width:100%;
+  min-height:100px;
+  border:1px solid #e5cfd9;
+  border-radius:15px;
+  padding:12px;
+  margin-top:10px;
+  font:inherit;
+}
+
+.method .tag{
+  display:inline-block;
+  background:#fff0c8;
+  color:#725716;
+  padding:4px 8px;
+  border-radius:999px;
+  font-size:11px;
+  font-weight:bold;
+  margin-bottom:6px;
+}
+
+.summary{
+  background:linear-gradient(135deg,#fff7fa,#fffaf0);
+}
+
+.summary p{
+  margin:9px 0;
+  line-height:1.5;
+}
+
+.notice{
+  background:#fff8e8;
+  border:1px solid #ecd08d;
+  color:#725a20;
+  padding:12px;
+  border-radius:14px;
+  margin-top:12px;
+  font-size:13px;
+  line-height:1.5;
+}
+
+.progress{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:6px;
+  margin-top:18px;
+}
+
+.progress span{
+  height:6px;
+  background:#eee4e8;
+  border-radius:999px;
+}
+
+.progress span.on{
+  background:linear-gradient(90deg,#eeb5ca,#c99f49);
+}
+
+footer{
+  color:var(--muted);
+  font-size:12px;
+  text-align:center;
+  margin-top:25px;
+  line-height:1.5;
+}
+
+@media(max-width:600px){
+  .grid{grid-template-columns:1fr 1fr}
+  .hero,.card{border-radius:19px}
+}
+</style>
 </head>
+
 <body>
-<h1>🔮 V9 — Abrir Jogo Inteligente</h1>
-<p>Teste funcionando.</p>
+
+<div class="wrap">
+
+<section class="hero">
+  <span class="badge">✨ ENCICLOPÉDIA CIGANA • V9</span>
+  <h1>🔮 Abrir jogo</h1>
+  <p>
+    Escolha o assunto, encontre uma pergunta adequada e veja os métodos
+    recomendados para sua tiragem.
+  </p>
+
+  <div class="progress">
+    <span id="p1" class="on"></span>
+    <span id="p2"></span>
+    <span id="p3"></span>
+    <span id="p4"></span>
+  </div>
+</section>
+
+<section class="card">
+  <h2>1. Qual é o assunto?</h2>
+  <p>Escolha o tema principal da sua consulta.</p>
+  <div id="topics" class="grid"></div>
+</section>
+
+<section id="step2" class="card hidden">
+  <h2>2. Perguntas indicadas</h2>
+  <p id="topicTitle"></p>
+
+  <div id="questions"></div>
+  <div id="extraQuestions" class="hidden"></div>
+
+  <div class="row">
+    <button id="moreBtn" class="btn secondary">Ver mais perguntas</button>
+    <button id="customBtn" class="btn gold">✍️ Escrever minha própria pergunta</button>
+  </div>
+
+  <div id="customBox" class="hidden">
+    <textarea id="customQuestion"
+      placeholder="Escreva uma pergunta clara, com apenas um foco principal."></textarea>
+
+    <div class="row">
+      <button id="useCustom" class="btn primary">Usar esta pergunta</button>
+    </div>
+  </div>
+</section>
+
+<section id="step3" class="card hidden">
+  <h2>3. Métodos recomendados</h2>
+  <p id="chosenQuestion"></p>
+  <div id="methods" class="grid"></div>
+</section>
+
+<section id="step4" class="card summary hidden">
+  <h2>4. Pronto para abrir o jogo</h2>
+
+  <p><b>Assunto:</b> <span id="sumTopic"></span></p>
+  <p><b>Pergunta:</b> <span id="sumQuestion"></span></p>
+  <p><b>Método:</b> <span id="sumMethod"></span></p>
+
+  <div class="notice">
+    O método é uma recomendação. A pergunta e o contexto da consulta continuam
+    sendo fundamentais para a interpretação das cartas.
+  </div>
+
+  <div class="row">
+    <button id="copyBtn" class="btn primary">Copiar resumo</button>
+    <button id="restartBtn" class="btn secondary">Começar novamente</button>
+  </div>
+</section>
+
+<footer>
+  As leituras possuem caráter simbólico/oracular. Tendências não representam
+  fatos inevitáveis e não substituem orientação médica, psicológica, jurídica
+  ou financeira.
+</footer>
+
+</div>
+
+<script>
+
+const DATA={
+
+"Amor e relacionamento":{
+icon:"❤️",
+questions:[
+"Como está a energia atual desta relação?",
+"O que preciso compreender sobre esta relação neste momento?",
+"Como essa relação tende a evoluir?",
+"O que fortalece nosso vínculo?",
+"O que está enfraquecendo a relação?",
+"Existe reciprocidade emocional entre nós?",
+"Qual é o principal desafio entre nós?",
+"O que essa relação veio me ensinar?",
+"O que precisa mudar para essa relação evoluir?",
+"Qual atitude favorece essa conexão?",
+"Como a outra pessoa percebe nossa relação?",
+"Existe espaço para compromisso?",
+"O que não estou enxergando nesta relação?"
+],
+methods:[
+"Templo de Afrodite — 7 cartas",
+"Taça do Amor — 7 cartas",
+"Tiragem rápida de amor — 6 cartas",
+"Questão amorosa — 5 cartas",
+"Jogada de 15 cartas"
+]
+},
+
+"Sentimentos":{
+icon:"💗",
+questions:[
+"O que essa pessoa sente por mim neste momento?",
+"Qual é a natureza dos sentimentos dessa pessoa por mim?",
+"Existe reciprocidade emocional?",
+"O que essa pessoa sente, mas não demonstra?",
+"Como os sentimentos dela estão evoluindo?",
+"Existe saudade?",
+"Existe atração além do envolvimento emocional?",
+"Existe carinho, paixão, apego ou amor?",
+"O que bloqueia a expressão dos sentimentos?",
+"O sentimento está crescendo, diminuindo ou permanecendo?",
+"Essa pessoa tenta esconder o que sente?",
+"O que desperto emocionalmente nessa pessoa?",
+"Existe medo de se envolver?",
+"Como ela se sente quando pensa em mim?"
+],
+methods:[
+"Templo de Afrodite — 7 cartas",
+"Intenções — 9 cartas",
+"Questão amorosa — 5 cartas"
+]
+},
+
+"Pensamentos":{
+icon:"🧠",
+questions:[
+"O que essa pessoa pensa sobre mim?",
+"Como essa pessoa me enxerga?",
+"O que passa pela mente dela quando pensa em mim?",
+"Qual é a principal preocupação dela em relação a nós?",
+"Como ela interpreta minhas atitudes?",
+"O que ela ainda não compreendeu sobre nossa relação?",
+"Que imagem ela formou de mim?",
+"Existe conflito entre aquilo que pensa e aquilo que sente?"
+],
+methods:[
+"Templo de Afrodite — 7 cartas",
+"Intenções — 9 cartas",
+"Método de Confiança — 4 cartas"
+]
+},
+
+"Intenções e atitudes":{
+icon:"🎯",
+questions:[
+"Quais são as verdadeiras intenções dessa pessoa comigo?",
+"Essa pessoa pretende se aproximar?",
+"Existe intenção de construir algo comigo?",
+"Qual tende a ser a próxima atitude dessa pessoa?",
+"O que impede uma atitude neste momento?",
+"Existe intenção de compromisso?",
+"O que essa pessoa gostaria de fazer, mesmo que ainda não faça?",
+"O que pode fazê-la agir?",
+"Existe tendência de contato?",
+"Como devo agir diante dessa situação?",
+"O que acontece se eu não tomar nenhuma iniciativa?"
+],
+methods:[
+"Intenções — 9 cartas",
+"Templo de Afrodite — 7 cartas",
+"Método de Confiança — 4 cartas",
+"Situação — Ação — Solução"
+]
+},
+
+"Ex e reconciliação":{
+icon:"💔",
+questions:[
+"O que meu ex sente atualmente por mim?",
+"Existe intenção de voltar?",
+"O que realmente levou ao término?",
+"O que mudou desde a separação?",
+"Existe possibilidade de reconciliação?",
+"O que precisaria mudar para uma volta funcionar?",
+"Como seria a relação se retomássemos?",
+"É melhor insistir ou seguir em frente?",
+"Qual aprendizado preciso levar dessa relação?",
+"Qual é o principal obstáculo para uma reconciliação?"
+],
+methods:[
+"Ex em Foco — 5 cartas",
+"Tirada do Ex — 5 cartas",
+"Reconciliação — 5 cartas",
+"Reconciliação — 4 cartas",
+"Ficar ou Partir — 6 cartas"
+]
+},
+
+"Novo amor":{
+icon:"🌹",
+questions:[
+"Existe abertura para um novo relacionamento?",
+"Que energia amorosa estou atraindo?",
+"O que preciso mudar para me abrir a um novo amor?",
+"Que tipo de relacionamento tende a surgir?",
+"Qual é a tendência para minha vida amorosa nos próximos meses?",
+"O que está impedindo novas conexões?",
+"Como reconhecerei uma oportunidade amorosa saudável?",
+"Que padrão antigo ainda influencia minha vida amorosa?"
+],
+methods:[
+"Novos Romances — 3 cartas",
+"Passado, Presente e Futuro — 3 cartas",
+"Momento Certo — 5 cartas"
+]
+},
+
+"Trabalho e carreira":{
+icon:"💼",
+questions:[
+"Como está minha vida profissional neste momento?",
+"O que está bloqueando meu crescimento?",
+"Onde está minha melhor oportunidade?",
+"O que devo desenvolver profissionalmente?",
+"Existe tendência de mudança de emprego?",
+"Como aumentar minhas chances de conseguir uma vaga?",
+"O ambiente atual favorece minha permanência?",
+"Devo buscar uma nova direção profissional?",
+"Qual talento devo explorar mais?",
+"Qual atitude pode melhorar minha carreira?"
+],
+methods:[
+"Situação — Ação — Solução",
+"Método de Esclarecimento — 5 cartas",
+"Método Geral — 8 cartas",
+"Cruz Céltica — 10 cartas"
+]
+},
+
+"Dinheiro e prosperidade":{
+icon:"💰",
+questions:[
+"Como está minha energia financeira?",
+"O que está bloqueando minha prosperidade?",
+"O que preciso parar de fazer financeiramente?",
+"O que devo começar a fazer para melhorar minhas finanças?",
+"Onde existe maior potencial de crescimento?",
+"Qual atitude favorece minha estabilidade financeira?",
+"Como melhorar minha relação com dinheiro?",
+"Qual tendência financeira aparece para os próximos meses?"
+],
+methods:[
+"Porta da Riqueza — 7 cartas",
+"Método Financeiro — 5 cartas",
+"Panorama Comercial — 8 cartas",
+"Método Geral — 8 cartas"
+]
+},
+
+"Família e lar":{
+icon:"🏠",
+questions:[
+"Como está a energia familiar neste momento?",
+"O que está causando tensão em casa?",
+"Como melhorar essa convivência?",
+"Qual é meu papel nesta situação familiar?",
+"O que precisa ser esclarecido?",
+"Existe algo não dito afetando a família?",
+"Como essa situação tende a evoluir?",
+"Que atitude pode trazer mais equilíbrio ao lar?"
+],
+methods:[
+"Método Geral — 8 cartas",
+"Método de Esclarecimento — 5 cartas",
+"Situação — Ação — Solução",
+"Cruz Céltica — 10 cartas"
+]
+},
+
+"Amizades":{
+icon:"🤝",
+questions:[
+"Qual é a energia desta amizade?",
+"Essa amizade é recíproca?",
+"Como essa pessoa realmente me vê?",
+"O que preciso compreender sobre essa amizade?",
+"Existe algo desgastando nosso vínculo?",
+"Existe confiança entre nós?",
+"Quais são as intenções dessa pessoa na amizade?",
+"O que essa amizade veio me ensinar?"
+],
+methods:[
+"Método de Confiança — 4 cartas",
+"Método de Esclarecimento — 5 cartas",
+"Situação — Ação — Solução"
+]
+},
+
+"Decisões e caminhos":{
+icon:"🛤️",
+questions:[
+"Qual caminho está mais alinhado ao meu momento atual?",
+"O que favorece a opção A e a opção B?",
+"Qual opção oferece maior possibilidade de crescimento?",
+"O que estou deixando de considerar nesta decisão?",
+"Qual é o maior risco de cada caminho?",
+"O que ganho e o que perco em cada escolha?",
+"É o momento certo para tomar essa decisão?",
+"Que influência externa afeta minha decisão?"
+],
+methods:[
+"Jogo dos Caminhos — 8 cartas",
+"Paradoxo da Escolha — 6 cartas",
+"Momento Certo — 5 cartas"
+]
+},
+
+"Futuro e tendências":{
+icon:"🔮",
+questions:[
+"Como essa situação tende a evoluir?",
+"Qual é a tendência para as próximas semanas?",
+"O que está se aproximando?",
+"Qual acontecimento merece minha atenção?",
+"O que pode alterar essa tendência?",
+"Qual é o provável resultado se tudo continuar como está?",
+"Que obstáculo pode surgir no caminho?",
+"Que oportunidade tende a aparecer?",
+"Como meu presente está influenciando o futuro?"
+],
+methods:[
+"Linha do Tempo — 5 cartas",
+"Ferradura do Destino — 7 cartas",
+"Passado, Presente e Futuro — 3 cartas",
+"Mesa Real / Grand Tableau — 36 cartas"
+]
+},
+
+"Autoconhecimento":{
+icon:"🪞",
+questions:[
+"O que preciso compreender sobre mim neste momento?",
+"Qual padrão estou repetindo?",
+"O que estou evitando enxergar?",
+"Qual parte de mim precisa ser fortalecida?",
+"O que preciso deixar para trás?",
+"Qual talento não estou usando?",
+"Se minha versão futura pudesse me dar um conselho agora, qual seria?",
+"O que minha energia revela antes mesmo de eu abrir a boca?",
+"O que o Universo tenta me mostrar quando tudo parece dar errado?",
+"O que eu vim ensinar — mesmo quando não percebo que estou ensinando?",
+"Como eu me vejo e como os outros me veem?",
+"Qual mudança interna precisa acontecer agora?"
+],
+methods:[
+"Os Espelhos — 3 cartas",
+"A Árvore — 10 cartas",
+"Maiêutica — 9 cartas",
+"Metamorfose — 7 cartas",
+"Psique Emocional — 12 cartas"
+]
+},
+
+"Espiritualidade":{
+icon:"✨",
+questions:[
+"Qual é minha energia espiritual atual?",
+"O que preciso desenvolver espiritualmente?",
+"O que está bloqueando minha percepção intuitiva?",
+"Qual aprendizado espiritual estou atravessando?",
+"Como fortalecer minha conexão interior?",
+"O que preciso compreender sobre este momento espiritual?",
+"Qual conselho simbólico o baralho apresenta para meu caminho?",
+"O que favorece minha clareza interior?"
+],
+methods:[
+"Nó Energético — 3 cartas",
+"Método de Esclarecimento — 5 cartas",
+"Método Geral — 8 cartas"
+]
+},
+
+"Estudos":{
+icon:"📚",
+questions:[
+"Como está minha energia para os estudos?",
+"O que está prejudicando minha concentração?",
+"Qual estratégia favorece meu aprendizado?",
+"Como posso melhorar meu desempenho?",
+"O que preciso priorizar agora?",
+"Qual é a tendência para este projeto ou prova?",
+"O que está me distraindo?",
+"Qual habilidade precisa ser desenvolvida?"
+],
+methods:[
+"Situação — Ação — Solução",
+"Método de Esclarecimento — 5 cartas",
+"Passado, Presente e Futuro — 3 cartas"
+]
+},
+
+"Situação geral":{
+icon:"🌙",
+questions:[
+"Qual é a energia principal da minha vida neste momento?",
+"O que está exigindo mais atenção?",
+"O que está favorecendo meu caminho?",
+"Qual é meu principal obstáculo?",
+"O que não estou enxergando?",
+"Que mudança está se aproximando?",
+"Qual conselho devo levar para este momento?",
+"Que área da vida merece prioridade?",
+"Qual oportunidade não devo ignorar?"
+],
+methods:[
+"Método Geral — 8 cartas",
+"Jogada de 9 cartas — visão ampliada",
+"Ferradura do Destino — 7 cartas",
+"Mesa Real / Grand Tableau — 36 cartas"
+]
+}
+
+};
+
+const DESC={
+"Templo de Afrodite — 7 cartas":"Compara pensamentos, sentimentos e intenções das duas pessoas.",
+"Taça do Amor — 7 cartas":"Analisa a relação, cada pessoa, fatores do vínculo, futuro e conselho.",
+"Tiragem rápida de amor — 6 cartas":"Energia do vínculo, consulente, parceiro, aprendizado, futuro próximo e conselho.",
+"Questão amorosa — 5 cartas":"Sentimentos, afastamento, interesse, atitudes e possíveis desfechos.",
+"Jogada de 15 cartas":"Leitura mais ampla do relacionamento.",
+"Intenções — 9 cartas":"Três blocos: sentimentos, pensamentos e atitudes.",
+"Método de Confiança — 4 cartas":"Aparência, essência, motivações e intenções.",
+"Situação — Ação — Solução":"Situação atual, atitude indicada e provável consequência.",
+"Ex em Foco — 5 cartas":"Sentimento, intenção de voltar, motivo do término, futuro e conselho.",
+"Tirada do Ex — 5 cartas":"Sentimento, intenção, mudança de atitude, futuro e conselho.",
+"Reconciliação — 5 cartas":"Estado das duas pessoas, sentimento, expectativa e retorno.",
+"Reconciliação — 4 cartas":"Versão mais objetiva para reconciliação.",
+"Ficar ou Partir — 6 cartas":"Compara permanecer e partir e fecha com conselho.",
+"Novos Romances — 3 cartas":"Passado amoroso, momento atual e tendência para novas relações.",
+"Passado, Presente e Futuro — 3 cartas":"Antecedentes, situação atual e tendência.",
+"Momento Certo — 5 cartas":"Energia, influências, riscos, oportunidade e conselho.",
+"Método de Esclarecimento — 5 cartas":"Situação, percepção, ação, ponto cego e propósito.",
+"Método Geral — 8 cartas":"Panorama geral das principais áreas da vida.",
+"Cruz Céltica — 10 cartas":"Análise ampla de uma situação complexa.",
+"Porta da Riqueza — 7 cartas":"Situação financeira, potencial, hábitos, mudança e resultado.",
+"Método Financeiro — 5 cartas":"Caminho financeiro, bloqueios e áreas de foco.",
+"Panorama Comercial — 8 cartas":"Produto, mercado, público, dinheiro, futuro e conselho.",
+"Jogo dos Caminhos — 8 cartas":"Compara duas opções utilizando os mesmos critérios.",
+"Paradoxo da Escolha — 6 cartas":"Dois grupos de três cartas para comparar alternativas.",
+"Linha do Tempo — 5 cartas":"Evolução temporal da situação.",
+"Ferradura do Destino — 7 cartas":"Passado, presente, futuro, influências, obstáculos e resultado.",
+"Mesa Real / Grand Tableau — 36 cartas":"Panorama completo utilizando as 36 cartas.",
+"Os Espelhos — 3 cartas":"Como você se vê, como é visto e sua essência.",
+"A Árvore — 10 cartas":"Passado, presente, potenciais futuros e frutos.",
+"Maiêutica — 9 cartas":"Talentos, percepção, expressão e vocação.",
+"Metamorfose — 7 cartas":"Mudança, perdas, ganhos, resultado e conselho.",
+"Psique Emocional — 12 cartas":"Mapa simbólico de estados e recursos emocionais.",
+"Nó Energético — 3 cartas":"Bloqueio simbólico, consequência e orientação.",
+"Jogada de 9 cartas — visão ampliada":"Quadro 3×3 para uma visão mais ampla."
+};
+
+let state={
+topic:null,
+question:null,
+method:null
+};
+
+const $=id=>document.getElementById(id);
+
+function setProgress(n){
+for(let i=1;i<=4;i++){
+$("p"+i).classList.toggle("on",i<=n);
+}
+}
+
+function renderTopics(){
+
+$("topics").innerHTML=
+Object.entries(DATA).map(([name,data])=>`
+<button class="topic" data-topic="${name}">
+<b>${data.icon} ${name}</b>
+<small>Ver perguntas indicadas</small>
+</button>
+`).join("");
+
+document.querySelectorAll("[data-topic]").forEach(btn=>{
+btn.onclick=()=>chooseTopic(btn.dataset.topic);
+});
+
+}
+
+function chooseTopic(topic){
+
+state={
+topic,
+question:null,
+method:null
+};
+
+$("topicTitle").textContent=
+"Perguntas indicadas para "+topic;
+
+const qs=DATA[topic].questions;
+
+$("questions").innerHTML=
+qs.slice(0,5).map(q=>
+`<button class="question" data-question="${encodeURIComponent(q)}">${q}</button>`
+).join("");
+
+$("extraQuestions").innerHTML=
+qs.slice(5).map(q=>
+`<button class="question" data-question="${encodeURIComponent(q)}">${q}</button>`
+).join("");
+
+bindQuestions();
+
+$("extraQuestions").classList.add("hidden");
+$("moreBtn").textContent="Ver mais perguntas";
+$("customBox").classList.add("hidden");
+
+$("step2").classList.remove("hidden");
+$("step3").classList.add("hidden");
+$("step4").classList.add("hidden");
+
+setProgress(2);
+
+$("step2").scrollIntoView({
+behavior:"smooth"
+});
+
+}
+
+function bindQuestions(){
+
+document.querySelectorAll("[data-question]").forEach(btn=>{
+
+btn.onclick=()=>{
+
+document.querySelectorAll(".question")
+.forEach(x=>x.classList.remove("active"));
+
+btn.classList.add("active");
+
+chooseQuestion(
+decodeURIComponent(btn.dataset.question)
+);
+
+};
+
+});
+
+}
+
+function chooseQuestion(question){
+
+state.question=question;
+state.method=null;
+
+$("chosenQuestion").innerHTML=
+"<b>Pergunta escolhida:</b> "+question;
+
+const methods=DATA[state.topic].methods;
+
+$("methods").innerHTML=
+methods.map((m,i)=>`
+<button class="method" data-method="${encodeURIComponent(m)}">
+${i===0?'<span class="tag">⭐ MAIS INDICADO</span>':""}
+<b>${m}</b>
+<small>${DESC[m]||""}</small>
+</button>
+`).join("");
+
+document.querySelectorAll("[data-method]").forEach(btn=>{
+
+btn.onclick=()=>chooseMethod(
+decodeURIComponent(btn.dataset.method),
+btn
+);
+
+});
+
+$("step3").classList.remove("hidden");
+$("step4").classList.add("hidden");
+
+setProgress(3);
+
+$("step3").scrollIntoView({
+behavior:"smooth"
+});
+
+}
+
+function chooseMethod(method,btn){
+
+state.method=method;
+
+document.querySelectorAll(".method")
+.forEach(x=>x.classList.remove("active"));
+
+btn.classList.add("active");
+
+$("sumTopic").textContent=state.topic;
+$("sumQuestion").textContent=state.question;
+$("sumMethod").textContent=state.method;
+
+$("step4").classList.remove("hidden");
+
+localStorage.setItem(
+"enciclopedia-cigana-v9-jogo",
+JSON.stringify(state)
+);
+
+setProgress(4);
+
+$("step4").scrollIntoView({
+behavior:"smooth"
+});
+
+}
+
+$("moreBtn").onclick=()=>{
+
+$("extraQuestions").classList.toggle("hidden");
+
+$("moreBtn").textContent=
+$("extraQuestions").classList.contains("hidden")
+?"Ver mais perguntas"
+:"Ocultar perguntas";
+
+};
+
+$("customBtn").onclick=()=>{
+
+$("customBox").classList.toggle("hidden");
+
+};
+
+$("useCustom").onclick=()=>{
+
+const q=$("customQuestion").value.trim();
+
+if(!q){
+alert("Escreva uma pergunta antes de continuar.");
+return;
+}
+
+document.querySelectorAll(".question")
+.forEach(x=>x.classList.remove("active"));
+
+chooseQuestion(q);
+
+};
+
+$("copyBtn").onclick=async()=>{
+
+const text=
+`🔮 Tiragem
+Assunto: ${state.topic}
+Pergunta: ${state.question}
+Método: ${state.method}`;
+
+try{
+
+await navigator.clipboard.writeText(text);
+
+$("copyBtn").textContent=
+"✓ Resumo copiado";
+
+setTimeout(()=>{
+$("copyBtn").textContent=
+"Copiar resumo";
+},1600);
+
+}catch(e){
+
+alert(text);
+
+}
+
+};
+
+$("restartBtn").onclick=()=>{
+
+state={
+topic:null,
+question:null,
+method:null
+};
+
+localStorage.removeItem(
+"enciclopedia-cigana-v9-jogo"
+);
+
+$("step2").classList.add("hidden");
+$("step3").classList.add("hidden");
+$("step4").classList.add("hidden");
+
+setProgress(1);
+
+window.scrollTo({
+top:0,
+behavior:"smooth"
+});
+
+};
+
+renderTopics();
+
+</script>
+
 </body>
 </html>
