@@ -288,6 +288,7 @@ footer{
     O método é uma recomendação. A pergunta e o contexto da consulta continuam
     sendo fundamentais para a interpretação das cartas.
   </div>
+  <div id="methodDetails" class="hidden"></div>
 
   <div class="row">
     <button id="copyBtn" class="btn primary">Copiar resumo</button>
@@ -685,7 +686,48 @@ const DESC={
 "Nó Energético — 3 cartas":"Bloqueio simbólico, consequência e orientação.",
 "Jogada de 9 cartas — visão ampliada":"Quadro 3×3 para uma visão mais ampla."
 };
+const METHOD_DETAILS={
 
+"Templo de Afrodite — 7 cartas":{
+  title:"Templo de Afrodite — 7 cartas",
+  subtitle:"Comparação entre pensamentos, sentimentos e intenções das duas pessoas.",
+  cards:7,
+
+  layout:[
+    ["1","2"],
+    ["3","4"],
+    ["5","6"],
+    ["7"]
+  ],
+
+  positions:[
+    "1. Seus pensamentos.",
+    "2. Pensamentos dele(a).",
+    "3. Seus sentimentos.",
+    "4. Sentimentos dele(a).",
+    "5. Suas intenções.",
+    "6. Intenções dele(a).",
+    "7. Possível futuro."
+  ],
+
+  howTo:[
+    "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+    "Embaralhe o baralho mantendo a pergunta em mente.",
+    "Retire 7 cartas e disponha-as exatamente na ordem numerada do esquema.",
+    "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+    "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+  ],
+
+  readingGuide:[
+    "Compare as cartas 1 e 2 para observar como cada pessoa pensa sobre a situação.",
+    "Compare as cartas 3 e 4 para analisar os sentimentos dos dois lados.",
+    "Compare as cartas 5 e 6 para compreender as intenções de cada pessoa.",
+    "Use a carta 7 como tendência de evolução ou possível futuro da relação.",
+    "Depois das comparações por pares, observe as combinações entre cartas próximas e integre tudo à pergunta realizada."
+  ]
+}
+
+};
 let state={
 topic:null,
 question:null,
@@ -829,7 +871,85 @@ btn.classList.add("active");
 $("sumTopic").textContent=state.topic;
 $("sumQuestion").textContent=state.question;
 $("sumMethod").textContent=state.method;
+const details=METHOD_DETAILS[state.method];
+const detailsBox=$("methodDetails");
 
+if(details && detailsBox){
+
+  const layoutHtml=details.layout.map(row=>`
+    <div style="display:flex;justify-content:center;gap:14px;margin:8px 0;">
+      ${row.map(n=>`
+        <span style="
+          width:46px;
+          height:64px;
+          border:1px solid #d8a94d;
+          border-radius:10px;
+          display:flex;
+          align-items:center;
+          justify-content:center;
+          background:#fff8e8;
+          color:#7b2f4e;
+          font-weight:bold;
+          font-size:18px;
+        ">${n}</span>
+      `).join("")}
+    </div>
+  `).join("");
+
+  detailsBox.innerHTML=`
+    <div style="
+      margin-top:18px;
+      padding:18px;
+      border:1px solid #ead3dc;
+      border-radius:16px;
+      background:#fff;
+    ">
+
+      <h3 style="color:#7b2f4e;margin-top:0;">
+        🔮 Como fazer esta tiragem
+      </h3>
+
+      <p>${details.subtitle}</p>
+
+      <ol>
+        ${details.howTo.map(item=>`<li style="margin-bottom:8px;">${item}</li>`).join("")}
+      </ol>
+
+      <h3 style="color:#7b2f4e;">
+        🃏 Disposição das cartas
+      </h3>
+
+      <div style="padding:10px 0;">
+        ${layoutHtml}
+      </div>
+
+      <h3 style="color:#7b2f4e;">
+        📍 Significado de cada posição
+      </h3>
+
+      <ol style="padding-left:22px;">
+        ${details.positions.map(item=>`<li style="margin-bottom:7px;">${item}</li>`).join("")}
+      </ol>
+
+      <h3 style="color:#7b2f4e;">
+        ✨ Como interpretar
+      </h3>
+
+      <ul style="padding-left:22px;">
+        ${details.readingGuide.map(item=>`<li style="margin-bottom:8px;">${item}</li>`).join("")}
+      </ul>
+
+    </div>
+  `;
+
+  detailsBox.classList.remove("hidden");
+
+}else if(detailsBox){
+
+  detailsBox.innerHTML="";
+  detailsBox.classList.add("hidden");
+
+}
 $("step4").classList.remove("hidden");
 
 localStorage.setItem(
