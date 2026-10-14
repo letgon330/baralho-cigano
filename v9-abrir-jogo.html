@@ -307,748 +307,2037 @@ footer{
 <script>
 
 const DATA={
-
-"Amor e relacionamento":{
-icon:"❤️",
-questions:[
-"Como está a energia atual desta relação?",
-"O que preciso compreender sobre esta relação neste momento?",
-"Como essa relação tende a evoluir?",
-"O que fortalece nosso vínculo?",
-"O que está enfraquecendo a relação?",
-"Existe reciprocidade emocional entre nós?",
-"Qual é o principal desafio entre nós?",
-"O que essa relação veio me ensinar?",
-"O que precisa mudar para essa relação evoluir?",
-"Qual atitude favorece essa conexão?",
-"Como a outra pessoa percebe nossa relação?",
-"Existe espaço para compromisso?",
-"O que não estou enxergando nesta relação?"
-],
-methods:[
-"Templo de Afrodite — 7 cartas",
-"Taça do Amor — 7 cartas",
-"Tiragem rápida de amor — 6 cartas",
-"Questão amorosa — 5 cartas",
-"Jogada de 15 cartas"
-]
-},
-
-"Sentimentos":{
-icon:"💗",
-questions:[
-"O que essa pessoa sente por mim neste momento?",
-"Qual é a natureza dos sentimentos dessa pessoa por mim?",
-"Existe reciprocidade emocional?",
-"O que essa pessoa sente, mas não demonstra?",
-"Como os sentimentos dela estão evoluindo?",
-"Existe saudade?",
-"Existe atração além do envolvimento emocional?",
-"Existe carinho, paixão, apego ou amor?",
-"O que bloqueia a expressão dos sentimentos?",
-"O sentimento está crescendo, diminuindo ou permanecendo?",
-"Essa pessoa tenta esconder o que sente?",
-"O que desperto emocionalmente nessa pessoa?",
-"Existe medo de se envolver?",
-"Como ela se sente quando pensa em mim?"
-],
-methods:[
-"Templo de Afrodite — 7 cartas",
-"Intenções — 9 cartas",
-"Questão amorosa — 5 cartas"
-]
-},
-
-"Pensamentos":{
-icon:"🧠",
-questions:[
-"O que essa pessoa pensa sobre mim?",
-"Como essa pessoa me enxerga?",
-"O que passa pela mente dela quando pensa em mim?",
-"Qual é a principal preocupação dela em relação a nós?",
-"Como ela interpreta minhas atitudes?",
-"O que ela ainda não compreendeu sobre nossa relação?",
-"Que imagem ela formou de mim?",
-"Existe conflito entre aquilo que pensa e aquilo que sente?"
-],
-methods:[
-"Templo de Afrodite — 7 cartas",
-"Intenções — 9 cartas",
-"Método de Confiança — 4 cartas"
-]
-},
-
-"Intenções e atitudes":{
-icon:"🎯",
-questions:[
-"Quais são as verdadeiras intenções dessa pessoa comigo?",
-"Essa pessoa pretende se aproximar?",
-"Existe intenção de construir algo comigo?",
-"Qual tende a ser a próxima atitude dessa pessoa?",
-"O que impede uma atitude neste momento?",
-"Existe intenção de compromisso?",
-"O que essa pessoa gostaria de fazer, mesmo que ainda não faça?",
-"O que pode fazê-la agir?",
-"Existe tendência de contato?",
-"Como devo agir diante dessa situação?",
-"O que acontece se eu não tomar nenhuma iniciativa?"
-],
-methods:[
-"Intenções — 9 cartas",
-"Templo de Afrodite — 7 cartas",
-"Método de Confiança — 4 cartas",
-"Situação — Ação — Solução"
-]
-},
-
-"Ex e reconciliação":{
-icon:"💔",
-questions:[
-"O que meu ex sente atualmente por mim?",
-"Existe intenção de voltar?",
-"O que realmente levou ao término?",
-"O que mudou desde a separação?",
-"Existe possibilidade de reconciliação?",
-"O que precisaria mudar para uma volta funcionar?",
-"Como seria a relação se retomássemos?",
-"É melhor insistir ou seguir em frente?",
-"Qual aprendizado preciso levar dessa relação?",
-"Qual é o principal obstáculo para uma reconciliação?"
-],
-methods:[
-"Ex em Foco — 5 cartas",
-"Tirada do Ex — 5 cartas",
-"Reconciliação — 5 cartas",
-"Reconciliação — 4 cartas",
-"Ficar ou Partir — 6 cartas"
-]
-},
-
-"Novo amor":{
-icon:"🌹",
-questions:[
-"Existe abertura para um novo relacionamento?",
-"Que energia amorosa estou atraindo?",
-"O que preciso mudar para me abrir a um novo amor?",
-"Que tipo de relacionamento tende a surgir?",
-"Qual é a tendência para minha vida amorosa nos próximos meses?",
-"O que está impedindo novas conexões?",
-"Como reconhecerei uma oportunidade amorosa saudável?",
-"Que padrão antigo ainda influencia minha vida amorosa?"
-],
-methods:[
-"Novos Romances — 3 cartas",
-"Passado, Presente e Futuro — 3 cartas",
-"Momento Certo — 5 cartas"
-]
-},
-
-"Trabalho e carreira":{
-icon:"💼",
-questions:[
-"Como está minha vida profissional neste momento?",
-"O que está bloqueando meu crescimento?",
-"Onde está minha melhor oportunidade?",
-"O que devo desenvolver profissionalmente?",
-"Existe tendência de mudança de emprego?",
-"Como aumentar minhas chances de conseguir uma vaga?",
-"O ambiente atual favorece minha permanência?",
-"Devo buscar uma nova direção profissional?",
-"Qual talento devo explorar mais?",
-"Qual atitude pode melhorar minha carreira?"
-],
-methods:[
-"Situação — Ação — Solução",
-"Método de Esclarecimento — 5 cartas",
-"Método Geral — 8 cartas",
-"Cruz Céltica — 10 cartas"
-]
-},
-
-"Dinheiro e prosperidade":{
-icon:"💰",
-questions:[
-"Como está minha energia financeira?",
-"O que está bloqueando minha prosperidade?",
-"O que preciso parar de fazer financeiramente?",
-"O que devo começar a fazer para melhorar minhas finanças?",
-"Onde existe maior potencial de crescimento?",
-"Qual atitude favorece minha estabilidade financeira?",
-"Como melhorar minha relação com dinheiro?",
-"Qual tendência financeira aparece para os próximos meses?"
-],
-methods:[
-"Porta da Riqueza — 7 cartas",
-"Método Financeiro — 5 cartas",
-"Panorama Comercial — 8 cartas",
-"Método Geral — 8 cartas"
-]
-},
-
-"Família e lar":{
-icon:"🏠",
-questions:[
-"Como está a energia familiar neste momento?",
-"O que está causando tensão em casa?",
-"Como melhorar essa convivência?",
-"Qual é meu papel nesta situação familiar?",
-"O que precisa ser esclarecido?",
-"Existe algo não dito afetando a família?",
-"Como essa situação tende a evoluir?",
-"Que atitude pode trazer mais equilíbrio ao lar?"
-],
-methods:[
-"Método Geral — 8 cartas",
-"Método de Esclarecimento — 5 cartas",
-"Situação — Ação — Solução",
-"Cruz Céltica — 10 cartas"
-]
-},
-
-"Amizades":{
-icon:"🤝",
-questions:[
-"Qual é a energia desta amizade?",
-"Essa amizade é recíproca?",
-"Como essa pessoa realmente me vê?",
-"O que preciso compreender sobre essa amizade?",
-"Existe algo desgastando nosso vínculo?",
-"Existe confiança entre nós?",
-"Quais são as intenções dessa pessoa na amizade?",
-"O que essa amizade veio me ensinar?"
-],
-methods:[
-"Método de Confiança — 4 cartas",
-"Método de Esclarecimento — 5 cartas",
-"Situação — Ação — Solução"
-]
-},
-
-"Decisões e caminhos":{
-icon:"🛤️",
-questions:[
-"Qual caminho está mais alinhado ao meu momento atual?",
-"O que favorece a opção A e a opção B?",
-"Qual opção oferece maior possibilidade de crescimento?",
-"O que estou deixando de considerar nesta decisão?",
-"Qual é o maior risco de cada caminho?",
-"O que ganho e o que perco em cada escolha?",
-"É o momento certo para tomar essa decisão?",
-"Que influência externa afeta minha decisão?"
-],
-methods:[
-"Jogo dos Caminhos — 8 cartas",
-"Paradoxo da Escolha — 6 cartas",
-"Momento Certo — 5 cartas"
-]
-},
-
-"Futuro e tendências":{
-icon:"🔮",
-questions:[
-"Como essa situação tende a evoluir?",
-"Qual é a tendência para as próximas semanas?",
-"O que está se aproximando?",
-"Qual acontecimento merece minha atenção?",
-"O que pode alterar essa tendência?",
-"Qual é o provável resultado se tudo continuar como está?",
-"Que obstáculo pode surgir no caminho?",
-"Que oportunidade tende a aparecer?",
-"Como meu presente está influenciando o futuro?"
-],
-methods:[
-"Linha do Tempo — 5 cartas",
-"Ferradura do Destino — 7 cartas",
-"Passado, Presente e Futuro — 3 cartas",
-"Mesa Real / Grand Tableau — 36 cartas"
-]
-},
-
-"Autoconhecimento":{
-icon:"🪞",
-questions:[
-"O que preciso compreender sobre mim neste momento?",
-"Qual padrão estou repetindo?",
-"O que estou evitando enxergar?",
-"Qual parte de mim precisa ser fortalecida?",
-"O que preciso deixar para trás?",
-"Qual talento não estou usando?",
-"Se minha versão futura pudesse me dar um conselho agora, qual seria?",
-"O que minha energia revela antes mesmo de eu abrir a boca?",
-"O que o Universo tenta me mostrar quando tudo parece dar errado?",
-"O que eu vim ensinar — mesmo quando não percebo que estou ensinando?",
-"Como eu me vejo e como os outros me veem?",
-"Qual mudança interna precisa acontecer agora?"
-],
-methods:[
-"Os Espelhos — 3 cartas",
-"A Árvore — 10 cartas",
-"Maiêutica — 9 cartas",
-"Metamorfose — 7 cartas",
-"Psique Emocional — 12 cartas"
-]
-},
-
-"Espiritualidade":{
-icon:"✨",
-questions:[
-"Qual é minha energia espiritual atual?",
-"O que preciso desenvolver espiritualmente?",
-"O que está bloqueando minha percepção intuitiva?",
-"Qual aprendizado espiritual estou atravessando?",
-"Como fortalecer minha conexão interior?",
-"O que preciso compreender sobre este momento espiritual?",
-"Qual conselho simbólico o baralho apresenta para meu caminho?",
-"O que favorece minha clareza interior?"
-],
-methods:[
-"Nó Energético — 3 cartas",
-"Método de Esclarecimento — 5 cartas",
-"Método Geral — 8 cartas"
-]
-},
-
-"Estudos":{
-icon:"📚",
-questions:[
-"Como está minha energia para os estudos?",
-"O que está prejudicando minha concentração?",
-"Qual estratégia favorece meu aprendizado?",
-"Como posso melhorar meu desempenho?",
-"O que preciso priorizar agora?",
-"Qual é a tendência para este projeto ou prova?",
-"O que está me distraindo?",
-"Qual habilidade precisa ser desenvolvida?"
-],
-methods:[
-"Situação — Ação — Solução",
-"Método de Esclarecimento — 5 cartas",
-"Passado, Presente e Futuro — 3 cartas"
-]
-},
-
-"Situação geral":{
-icon:"🌙",
-questions:[
-"Qual é a energia principal da minha vida neste momento?",
-"O que está exigindo mais atenção?",
-"O que está favorecendo meu caminho?",
-"Qual é meu principal obstáculo?",
-"O que não estou enxergando?",
-"Que mudança está se aproximando?",
-"Qual conselho devo levar para este momento?",
-"Que área da vida merece prioridade?",
-"Qual oportunidade não devo ignorar?"
-],
-methods:[
-"Método Geral — 8 cartas",
-"Jogada de 9 cartas — visão ampliada",
-"Ferradura do Destino — 7 cartas",
-"Mesa Real / Grand Tableau — 36 cartas"
-]
-}
-
+  "Amor e relacionamento": {
+    "icon": "❤️",
+    "questions": [
+      "Como está a energia atual desta relação?",
+      "O que preciso compreender sobre esta relação neste momento?",
+      "Como essa relação tende a evoluir?",
+      "O que fortalece nosso vínculo?",
+      "O que está enfraquecendo a relação?",
+      "Existe reciprocidade emocional entre nós?",
+      "Qual é o principal desafio entre nós?",
+      "O que essa relação veio me ensinar?",
+      "O que precisa mudar para essa relação evoluir?",
+      "Qual atitude favorece essa conexão?",
+      "Como a outra pessoa percebe nossa relação?",
+      "Existe espaço para compromisso?",
+      "O que não estou enxergando nesta relação?"
+    ],
+    "methods": [
+      "Templo de Afrodite — 7 cartas",
+      "Taça do Amor — 7 cartas",
+      "Tiragem rápida de amor — 6 cartas",
+      "Questão amorosa — 5 cartas",
+      "Jogada de 15 cartas"
+    ]
+  },
+  "Sentimentos": {
+    "icon": "💗",
+    "questions": [
+      "O que essa pessoa sente por mim neste momento?",
+      "Qual é a natureza dos sentimentos dessa pessoa por mim?",
+      "Existe reciprocidade emocional?",
+      "O que essa pessoa sente, mas não demonstra?",
+      "Como os sentimentos dela estão evoluindo?",
+      "Existe saudade?",
+      "Existe atração além do envolvimento emocional?",
+      "Existe carinho, paixão, apego ou amor?",
+      "O que bloqueia a expressão dos sentimentos?",
+      "O sentimento está crescendo, diminuindo ou permanecendo?",
+      "Essa pessoa tenta esconder o que sente?",
+      "O que desperto emocionalmente nessa pessoa?",
+      "Existe medo de se envolver?",
+      "Como ela se sente quando pensa em mim?"
+    ],
+    "methods": [
+      "Templo de Afrodite — 7 cartas",
+      "Intenções — 9 cartas",
+      "Questão amorosa — 5 cartas"
+    ]
+  },
+  "Pensamentos": {
+    "icon": "🧠",
+    "questions": [
+      "O que essa pessoa pensa sobre mim?",
+      "Como essa pessoa me enxerga?",
+      "O que passa pela mente dela quando pensa em mim?",
+      "Qual é a principal preocupação dela em relação a nós?",
+      "Como ela interpreta minhas atitudes?",
+      "O que ela ainda não compreendeu sobre nossa relação?",
+      "Que imagem ela formou de mim?",
+      "Existe conflito entre aquilo que pensa e aquilo que sente?"
+    ],
+    "methods": [
+      "Templo de Afrodite — 7 cartas",
+      "Intenções — 9 cartas",
+      "Método de Confiança — 4 cartas"
+    ]
+  },
+  "Intenções e atitudes": {
+    "icon": "🎯",
+    "questions": [
+      "Quais são as verdadeiras intenções dessa pessoa comigo?",
+      "Essa pessoa pretende se aproximar?",
+      "Existe intenção de construir algo comigo?",
+      "Qual tende a ser a próxima atitude dessa pessoa?",
+      "O que impede uma atitude neste momento?",
+      "Existe intenção de compromisso?",
+      "O que essa pessoa gostaria de fazer, mesmo que ainda não faça?",
+      "O que pode fazê-la agir?",
+      "Existe tendência de contato?",
+      "Como devo agir diante dessa situação?",
+      "O que acontece se eu não tomar nenhuma iniciativa?"
+    ],
+    "methods": [
+      "Intenções — 9 cartas",
+      "Templo de Afrodite — 7 cartas",
+      "Método de Confiança — 4 cartas",
+      "Situação — Ação — Solução"
+    ]
+  },
+  "Ex e reconciliação": {
+    "icon": "💔",
+    "questions": [
+      "O que meu ex sente atualmente por mim?",
+      "Existe intenção de voltar?",
+      "O que realmente levou ao término?",
+      "O que mudou desde a separação?",
+      "Existe possibilidade de reconciliação?",
+      "O que precisaria mudar para uma volta funcionar?",
+      "Como seria a relação se retomássemos?",
+      "É melhor insistir ou seguir em frente?",
+      "Qual aprendizado preciso levar dessa relação?",
+      "Qual é o principal obstáculo para uma reconciliação?"
+    ],
+    "methods": [
+      "Ex em Foco — 5 cartas",
+      "Tirada do Ex — 5 cartas",
+      "Reconciliação — 5 cartas",
+      "Reconciliação — 4 cartas",
+      "Ficar ou Partir — 6 cartas"
+    ]
+  },
+  "Novo amor": {
+    "icon": "🌹",
+    "questions": [
+      "Existe abertura para um novo relacionamento?",
+      "Que energia amorosa estou atraindo?",
+      "O que preciso mudar para me abrir a um novo amor?",
+      "Que tipo de relacionamento tende a surgir?",
+      "Qual é a tendência para minha vida amorosa nos próximos meses?",
+      "O que está impedindo novas conexões?",
+      "Como reconhecerei uma oportunidade amorosa saudável?",
+      "Que padrão antigo ainda influencia minha vida amorosa?"
+    ],
+    "methods": [
+      "Novos Romances — 3 cartas",
+      "Passado, Presente e Futuro — 3 cartas",
+      "Momento Certo — 5 cartas"
+    ]
+  },
+  "Trabalho e carreira": {
+    "icon": "💼",
+    "questions": [
+      "Como está minha vida profissional neste momento?",
+      "O que está bloqueando meu crescimento?",
+      "Onde está minha melhor oportunidade?",
+      "O que devo desenvolver profissionalmente?",
+      "Existe tendência de mudança de emprego?",
+      "Como aumentar minhas chances de conseguir uma vaga?",
+      "O ambiente atual favorece minha permanência?",
+      "Devo buscar uma nova direção profissional?",
+      "Qual talento devo explorar mais?",
+      "Qual atitude pode melhorar minha carreira?"
+    ],
+    "methods": [
+      "Situação — Ação — Solução",
+      "Método de Esclarecimento — 5 cartas",
+      "Método Geral — 8 cartas",
+      "Cruz Céltica — 10 cartas"
+    ]
+  },
+  "Dinheiro e prosperidade": {
+    "icon": "💰",
+    "questions": [
+      "Como está minha energia financeira?",
+      "O que está bloqueando minha prosperidade?",
+      "O que preciso parar de fazer financeiramente?",
+      "O que devo começar a fazer para melhorar minhas finanças?",
+      "Onde existe maior potencial de crescimento?",
+      "Qual atitude favorece minha estabilidade financeira?",
+      "Como melhorar minha relação com dinheiro?",
+      "Qual tendência financeira aparece para os próximos meses?"
+    ],
+    "methods": [
+      "Porta da Riqueza — 7 cartas",
+      "Método Financeiro — 5 cartas",
+      "Panorama Comercial — 8 cartas",
+      "Método Geral — 8 cartas"
+    ]
+  },
+  "Família e lar": {
+    "icon": "🏠",
+    "questions": [
+      "Como está a energia familiar neste momento?",
+      "O que está causando tensão em casa?",
+      "Como melhorar essa convivência?",
+      "Qual é meu papel nesta situação familiar?",
+      "O que precisa ser esclarecido?",
+      "Existe algo não dito afetando a família?",
+      "Como essa situação tende a evoluir?",
+      "Que atitude pode trazer mais equilíbrio ao lar?"
+    ],
+    "methods": [
+      "Método Geral — 8 cartas",
+      "Método de Esclarecimento — 5 cartas",
+      "Situação — Ação — Solução",
+      "Cruz Céltica — 10 cartas"
+    ]
+  },
+  "Amizades": {
+    "icon": "🤝",
+    "questions": [
+      "Qual é a energia desta amizade?",
+      "Essa amizade é recíproca?",
+      "Como essa pessoa realmente me vê?",
+      "O que preciso compreender sobre essa amizade?",
+      "Existe algo desgastando nosso vínculo?",
+      "Existe confiança entre nós?",
+      "Quais são as intenções dessa pessoa na amizade?",
+      "O que essa amizade veio me ensinar?"
+    ],
+    "methods": [
+      "Método de Confiança — 4 cartas",
+      "Método de Esclarecimento — 5 cartas",
+      "Situação — Ação — Solução"
+    ]
+  },
+  "Decisões e caminhos": {
+    "icon": "🛤️",
+    "questions": [
+      "Qual caminho está mais alinhado ao meu momento atual?",
+      "O que favorece a opção A e a opção B?",
+      "Qual opção oferece maior possibilidade de crescimento?",
+      "O que estou deixando de considerar nesta decisão?",
+      "Qual é o maior risco de cada caminho?",
+      "O que ganho e o que perco em cada escolha?",
+      "É o momento certo para tomar essa decisão?",
+      "Que influência externa afeta minha decisão?"
+    ],
+    "methods": [
+      "Jogo dos Caminhos — 8 cartas",
+      "Paradoxo da Escolha — 6 cartas",
+      "Momento Certo — 5 cartas"
+    ]
+  },
+  "Futuro e tendências": {
+    "icon": "🔮",
+    "questions": [
+      "Como essa situação tende a evoluir?",
+      "Qual é a tendência para as próximas semanas?",
+      "O que está se aproximando?",
+      "Qual acontecimento merece minha atenção?",
+      "O que pode alterar essa tendência?",
+      "Qual é o provável resultado se tudo continuar como está?",
+      "Que obstáculo pode surgir no caminho?",
+      "Que oportunidade tende a aparecer?",
+      "Como meu presente está influenciando o futuro?"
+    ],
+    "methods": [
+      "Linha do Tempo — 5 cartas",
+      "Ferradura do Destino — 7 cartas",
+      "Passado, Presente e Futuro — 3 cartas",
+      "Mesa Real / Grand Tableau — 36 cartas"
+    ]
+  },
+  "Autoconhecimento": {
+    "icon": "🪞",
+    "questions": [
+      "O que preciso compreender sobre mim neste momento?",
+      "Qual padrão estou repetindo?",
+      "O que estou evitando enxergar?",
+      "Qual parte de mim precisa ser fortalecida?",
+      "O que preciso deixar para trás?",
+      "Qual talento não estou usando?",
+      "Se minha versão futura pudesse me dar um conselho agora, qual seria?",
+      "O que minha energia revela antes mesmo de eu abrir a boca?",
+      "O que o Universo tenta me mostrar quando tudo parece dar errado?",
+      "O que eu vim ensinar — mesmo quando não percebo que estou ensinando?",
+      "Como eu me vejo e como os outros me veem?",
+      "Qual mudança interna precisa acontecer agora?"
+    ],
+    "methods": [
+      "Os Espelhos — 3 cartas",
+      "A Árvore — 10 cartas",
+      "Maiêutica — 9 cartas",
+      "Metamorfose — 7 cartas",
+      "Psique Emocional — 12 cartas"
+    ]
+  },
+  "Espiritualidade": {
+    "icon": "✨",
+    "questions": [
+      "Qual é minha energia espiritual atual?",
+      "O que preciso desenvolver espiritualmente?",
+      "O que está bloqueando minha percepção intuitiva?",
+      "Qual aprendizado espiritual estou atravessando?",
+      "Como fortalecer minha conexão interior?",
+      "O que preciso compreender sobre este momento espiritual?",
+      "Qual conselho simbólico o baralho apresenta para meu caminho?",
+      "O que favorece minha clareza interior?"
+    ],
+    "methods": [
+      "Nó Energético — 3 cartas",
+      "Método de Esclarecimento — 5 cartas",
+      "Método Geral — 8 cartas"
+    ]
+  },
+  "Estudos": {
+    "icon": "📚",
+    "questions": [
+      "Como está minha energia para os estudos?",
+      "O que está prejudicando minha concentração?",
+      "Qual estratégia favorece meu aprendizado?",
+      "Como posso melhorar meu desempenho?",
+      "O que preciso priorizar agora?",
+      "Qual é a tendência para este projeto ou prova?",
+      "O que está me distraindo?",
+      "Qual habilidade precisa ser desenvolvida?"
+    ],
+    "methods": [
+      "Situação — Ação — Solução",
+      "Método de Esclarecimento — 5 cartas",
+      "Passado, Presente e Futuro — 3 cartas"
+    ]
+  },
+  "Situação geral": {
+    "icon": "🌙",
+    "questions": [
+      "Qual é a energia principal da minha vida neste momento?",
+      "O que está exigindo mais atenção?",
+      "O que está favorecendo meu caminho?",
+      "Qual é meu principal obstáculo?",
+      "O que não estou enxergando?",
+      "Que mudança está se aproximando?",
+      "Qual conselho devo levar para este momento?",
+      "Que área da vida merece prioridade?",
+      "Qual oportunidade não devo ignorar?"
+    ],
+    "methods": [
+      "Método Geral — 8 cartas",
+      "Jogada de 9 cartas — visão ampliada",
+      "Ferradura do Destino — 7 cartas",
+      "Mesa Real / Grand Tableau — 36 cartas"
+    ]
+  }
 };
 
 const DESC={
-"Templo de Afrodite — 7 cartas":"Compara pensamentos, sentimentos e intenções das duas pessoas.",
-"Taça do Amor — 7 cartas":"Analisa a relação, cada pessoa, fatores do vínculo, futuro e conselho.",
-"Tiragem rápida de amor — 6 cartas":"Energia do vínculo, consulente, parceiro, aprendizado, futuro próximo e conselho.",
-"Questão amorosa — 5 cartas":"Sentimentos, afastamento, interesse, atitudes e possíveis desfechos.",
-"Jogada de 15 cartas":"Leitura mais ampla do relacionamento.",
-"Intenções — 9 cartas":"Três blocos: sentimentos, pensamentos e atitudes.",
-"Método de Confiança — 4 cartas":"Aparência, essência, motivações e intenções.",
-"Situação — Ação — Solução":"Situação atual, atitude indicada e provável consequência.",
-"Ex em Foco — 5 cartas":"Sentimento, intenção de voltar, motivo do término, futuro e conselho.",
-"Tirada do Ex — 5 cartas":"Sentimento, intenção, mudança de atitude, futuro e conselho.",
-"Reconciliação — 5 cartas":"Estado das duas pessoas, sentimento, expectativa e retorno.",
-"Reconciliação — 4 cartas":"Versão mais objetiva para reconciliação.",
-"Ficar ou Partir — 6 cartas":"Compara permanecer e partir e fecha com conselho.",
-"Novos Romances — 3 cartas":"Passado amoroso, momento atual e tendência para novas relações.",
-"Passado, Presente e Futuro — 3 cartas":"Antecedentes, situação atual e tendência.",
-"Momento Certo — 5 cartas":"Energia, influências, riscos, oportunidade e conselho.",
-"Método de Esclarecimento — 5 cartas":"Situação, percepção, ação, ponto cego e propósito.",
-"Método Geral — 8 cartas":"Panorama geral das principais áreas da vida.",
-"Cruz Céltica — 10 cartas":"Análise ampla de uma situação complexa.",
-"Porta da Riqueza — 7 cartas":"Situação financeira, potencial, hábitos, mudança e resultado.",
-"Método Financeiro — 5 cartas":"Caminho financeiro, bloqueios e áreas de foco.",
-"Panorama Comercial — 8 cartas":"Produto, mercado, público, dinheiro, futuro e conselho.",
-"Jogo dos Caminhos — 8 cartas":"Compara duas opções utilizando os mesmos critérios.",
-"Paradoxo da Escolha — 6 cartas":"Dois grupos de três cartas para comparar alternativas.",
-"Linha do Tempo — 5 cartas":"Evolução temporal da situação.",
-"Ferradura do Destino — 7 cartas":"Passado, presente, futuro, influências, obstáculos e resultado.",
-"Mesa Real / Grand Tableau — 36 cartas":"Panorama completo utilizando as 36 cartas.",
-"Os Espelhos — 3 cartas":"Como você se vê, como é visto e sua essência.",
-"A Árvore — 10 cartas":"Passado, presente, potenciais futuros e frutos.",
-"Maiêutica — 9 cartas":"Talentos, percepção, expressão e vocação.",
-"Metamorfose — 7 cartas":"Mudança, perdas, ganhos, resultado e conselho.",
-"Psique Emocional — 12 cartas":"Mapa simbólico de estados e recursos emocionais.",
-"Nó Energético — 3 cartas":"Bloqueio simbólico, consequência e orientação.",
-"Jogada de 9 cartas — visão ampliada":"Quadro 3×3 para uma visão mais ampla."
+  "Templo de Afrodite — 7 cartas": "Compara pensamentos, sentimentos e intenções das duas pessoas.",
+  "Taça do Amor — 7 cartas": "Analisa a relação, cada pessoa, fatores do vínculo, futuro e conselho.",
+  "Tiragem rápida de amor — 6 cartas": "Energia do vínculo, consulente, parceiro, aprendizado, futuro próximo e conselho.",
+  "Questão amorosa — 5 cartas": "Sentimentos, afastamento, interesse, atitudes e possíveis desfechos.",
+  "Jogada de 15 cartas": "Leitura mais ampla do relacionamento.",
+  "Intenções — 9 cartas": "Três blocos: sentimentos, pensamentos e atitudes.",
+  "Método de Confiança — 4 cartas": "Aparência, essência, motivações e intenções.",
+  "Situação — Ação — Solução": "Situação atual, atitude indicada e provável consequência.",
+  "Ex em Foco — 5 cartas": "Sentimento, intenção de voltar, motivo do término, futuro e conselho.",
+  "Tirada do Ex — 5 cartas": "Sentimento, intenção, mudança de atitude, futuro e conselho.",
+  "Reconciliação — 5 cartas": "Estado das duas pessoas, sentimento, expectativa e retorno.",
+  "Reconciliação — 4 cartas": "Versão mais objetiva para reconciliação.",
+  "Ficar ou Partir — 6 cartas": "Compara permanecer e partir e fecha com conselho.",
+  "Novos Romances — 3 cartas": "Passado amoroso, momento atual e tendência para novas relações.",
+  "Passado, Presente e Futuro — 3 cartas": "Antecedentes, situação atual e tendência.",
+  "Momento Certo — 5 cartas": "Energia, influências, riscos, oportunidade e conselho.",
+  "Método de Esclarecimento — 5 cartas": "Situação, percepção, ação, ponto cego e propósito.",
+  "Método Geral — 8 cartas": "Panorama geral das principais áreas da vida.",
+  "Cruz Céltica — 10 cartas": "Análise ampla de uma situação complexa.",
+  "Porta da Riqueza — 7 cartas": "Situação financeira, potencial, hábitos, mudança e resultado.",
+  "Método Financeiro — 5 cartas": "Caminho financeiro, bloqueios e áreas de foco.",
+  "Panorama Comercial — 8 cartas": "Produto, mercado, público, dinheiro, futuro e conselho.",
+  "Jogo dos Caminhos — 8 cartas": "Compara duas opções utilizando os mesmos critérios.",
+  "Paradoxo da Escolha — 6 cartas": "Dois grupos de três cartas para comparar alternativas.",
+  "Linha do Tempo — 5 cartas": "Evolução temporal da situação.",
+  "Ferradura do Destino — 7 cartas": "Passado, presente, futuro, influências, obstáculos e resultado.",
+  "Mesa Real / Grand Tableau — 36 cartas": "Panorama completo utilizando as 36 cartas.",
+  "Os Espelhos — 3 cartas": "Como você se vê, como é visto e sua essência.",
+  "A Árvore — 10 cartas": "Passado, presente, potenciais futuros e frutos.",
+  "Maiêutica — 9 cartas": "Talentos, percepção, expressão e vocação.",
+  "Metamorfose — 7 cartas": "Mudança, perdas, ganhos, resultado e conselho.",
+  "Psique Emocional — 12 cartas": "Mapa simbólico de estados e recursos emocionais.",
+  "Nó Energético — 3 cartas": "Bloqueio simbólico, consequência e orientação.",
+  "Jogada de 9 cartas — visão ampliada": "Quadro 3×3 para uma visão mais ampla."
 };
+
 const METHOD_DETAILS={
-
-"Templo de Afrodite — 7 cartas":{
-  title:"Templo de Afrodite — 7 cartas",
-  subtitle:"Comparação entre pensamentos, sentimentos e intenções das duas pessoas.",
-  cards:7,
-
-  layout:[
-    ["1","2"],
-    ["3","4"],
-    ["5","6"],
-    ["7"]
-  ],
-
-  positions:[
-    "1. Seus pensamentos.",
-    "2. Pensamentos dele(a).",
-    "3. Seus sentimentos.",
-    "4. Sentimentos dele(a).",
-    "5. Suas intenções.",
-    "6. Intenções dele(a).",
-    "7. Possível futuro."
-  ],
-
-  howTo:[
-    "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
-    "Embaralhe o baralho mantendo a pergunta em mente.",
-    "Retire 7 cartas e disponha-as exatamente na ordem numerada do esquema.",
-    "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
-    "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
-  ],
-
-  readingGuide:[
-    "Compare as cartas 1 e 2 para observar como cada pessoa pensa sobre a situação.",
-    "Compare as cartas 3 e 4 para analisar os sentimentos dos dois lados.",
-    "Compare as cartas 5 e 6 para compreender as intenções de cada pessoa.",
-    "Use a carta 7 como tendência de evolução ou possível futuro da relação.",
-    "Depois das comparações por pares, observe as combinações entre cartas próximas e integre tudo à pergunta realizada."
-  ]
-}
-
+  "Templo de Afrodite — 7 cartas": {
+    "subtitle": "Compara pensamentos, sentimentos e intenções das duas pessoas.",
+    "layout": [
+      [
+        "1",
+        "2"
+      ],
+      [
+        "3",
+        "4"
+      ],
+      [
+        "5",
+        "6"
+      ],
+      [
+        "7"
+      ]
+    ],
+    "positions": [
+      "1. Seus pensamentos.",
+      "2. Pensamentos dele(a).",
+      "3. Seus sentimentos.",
+      "4. Sentimentos dele(a).",
+      "5. Suas intenções.",
+      "6. Intenções dele(a).",
+      "7. Possível futuro."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 7 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Compare as cartas 1 e 2 para observar como cada pessoa pensa sobre a situação.",
+      "Compare as cartas 3 e 4 para analisar os sentimentos dos dois lados.",
+      "Compare as cartas 5 e 6 para compreender as intenções de cada pessoa.",
+      "Use a carta 7 como tendência de evolução ou possível futuro da relação.",
+      "Depois das comparações por pares, observe as combinações entre cartas próximas e integre tudo à pergunta realizada."
+    ]
+  },
+  "Taça do Amor — 7 cartas": {
+    "subtitle": "Analisa a relação, cada pessoa, fatores do vínculo, futuro e conselho.",
+    "layout": [
+      [
+        "5"
+      ],
+      [
+        "4"
+      ],
+      [
+        "3"
+      ],
+      [
+        "2"
+      ],
+      [
+        "1"
+      ],
+      [
+        "6",
+        "7"
+      ]
+    ],
+    "positions": [
+      "1. Como está a relação / como está meu relacionamento?",
+      "2. Como você se sente nessa relação?",
+      "3. Como ele(a) / o(a) parceiro(a) está nessa relação ou situação?",
+      "4. Variação A: o que houve com o relacionamento? Variação B: o que favorece no relacionamento?",
+      "5. O que não favorece no relacionamento.",
+      "6. Futuro próximo da relação.",
+      "7. Conselho final."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 7 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Comece pela carta 1 para compreender o estado geral do vínculo.",
+      "Compare as cartas 2 e 3 para observar como cada pessoa se encontra na relação.",
+      "Na carta 4, preserve a variação escolhida para a leitura: causa/acontecimento ou fator favorável.",
+      "Leia a carta 5 como aquilo que desfavorece ou dificulta o vínculo.",
+      "Finalize com a tendência da carta 6 e o conselho da carta 7."
+    ],
+    "note": "A posição 4 aparece com duas funções diferentes nos materiais. As duas variações foram preservadas em vez de escolher apenas uma."
+  },
+  "Tiragem rápida de amor — 6 cartas": {
+    "subtitle": "Energia do vínculo, consulente, parceiro, aprendizado, futuro próximo e conselho.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3"
+      ],
+      [
+        "4",
+        "5",
+        "6"
+      ]
+    ],
+    "positions": [
+      "1. Energia do vínculo.",
+      "2. Consulente.",
+      "3. Parceiro(a).",
+      "4. Aprendizado.",
+      "5. Futuro próximo.",
+      "6. Conselho."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 6 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Use a carta 1 para estabelecer o clima atual do vínculo.",
+      "Compare as cartas 2 e 3 para observar os dois lados da relação.",
+      "A carta 4 mostra o aprendizado associado à situação.",
+      "A carta 5 apresenta a tendência de futuro próximo.",
+      "Feche a leitura com a orientação da carta 6."
+    ],
+    "note": "As seis funções acima já faziam parte da descrição do método na V9 e foram mantidas sem acrescentar funções novas."
+  },
+  "Questão amorosa — 5 cartas": {
+    "subtitle": "Sentimentos, afastamento, interesse, atitudes e possíveis desfechos.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    ],
+    "positions": [
+      "1. Sentimentos envolvidos.",
+      "2. Motivos de afastamento.",
+      "3. Nível de interesse do(a) parceiro(a).",
+      "4. Atitudes que podem ser tomadas em relação à relação.",
+      "5. Possíveis desfechos para a questão amorosa."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 5 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Leia a carta 1 como base emocional da questão.",
+      "Relacione a carta 2 ao que provoca distância, retraimento ou dificuldade.",
+      "Use a carta 3 para avaliar o interesse dentro do contexto da pergunta.",
+      "A carta 4 orienta atitudes possíveis.",
+      "A carta 5 encerra com os desfechos ou a tendência da questão."
+    ]
+  },
+  "Jogada de 15 cartas": {
+    "subtitle": "Leitura mais ampla do relacionamento.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3"
+      ],
+      [
+        "4",
+        "5",
+        "6"
+      ],
+      [
+        "7",
+        "8",
+        "9"
+      ],
+      [
+        "10",
+        "11",
+        "12"
+      ],
+      [
+        "13",
+        "14",
+        "15"
+      ]
+    ],
+    "positions": [
+      "1–3. Imagem que a outra pessoa tem do consulente.",
+      "4–6. Sentimentos.",
+      "7–9. Intenções — primeira parte.",
+      "10–12. Intenções — segunda parte; leia 7–12 em conjunto para planos, expectativas, ações, movimentos ou hesitações.",
+      "13–15. Passado e experiências da outra pessoa que influenciam o comportamento atual."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 15 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Leia cada linha como um bloco antes de cruzar informações entre linhas.",
+      "Diferencie claramente como a pessoa vê o consulente, o que sente e o que pretende.",
+      "As cartas 7 a 12 formam um conjunto maior para intenções e possíveis movimentos.",
+      "Use as cartas 13 a 15 para reconhecer influências passadas sobre o presente.",
+      "Finalize integrando os cinco blocos numa única narrativa."
+    ],
+    "note": "O material não atribui uma função diferente a cada uma das 15 cartas. As posições são organizadas por blocos, e essa estrutura foi preservada."
+  },
+  "Intenções — 9 cartas": {
+    "subtitle": "Três blocos: sentimentos, pensamentos e atitudes.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3"
+      ],
+      [
+        "4",
+        "5",
+        "6"
+      ],
+      [
+        "7",
+        "8",
+        "9"
+      ]
+    ],
+    "positions": [
+      "1–3. Sentimentos.",
+      "4–6. Pensamentos.",
+      "7–9. Atitudes."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 9 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Leia 1–3 em conjunto para formar o bloco de sentimentos.",
+      "Leia 4–6 em conjunto para formar o bloco de pensamentos.",
+      "Leia 7–9 em conjunto para formar o bloco de atitudes.",
+      "Compare os três blocos para perceber coerência ou diferença entre sentir, pensar e agir.",
+      "Integre o resultado à pergunta realizada."
+    ]
+  },
+  "Método de Confiança — 4 cartas": {
+    "subtitle": "Aparência, essência, motivações e intenções.",
+    "layout": [
+      [
+        null,
+        "1",
+        null
+      ],
+      [
+        "2",
+        "3",
+        "4"
+      ]
+    ],
+    "positions": [
+      "1. O que essa pessoa aparenta ser.",
+      "2. Quem ela realmente é.",
+      "3. As motivações da pessoa.",
+      "4. As intenções da pessoa."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 4 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Compare a aparência indicada pela carta 1 com a essência mostrada pela carta 2.",
+      "A carta 3 ajuda a compreender o que move a pessoa.",
+      "A carta 4 mostra a intenção dentro do contexto consultado.",
+      "Observe contradições ou confirmações entre aparência, essência, motivação e intenção."
+    ]
+  },
+  "Situação — Ação — Solução": {
+    "subtitle": "Situação atual, atitude indicada e provável consequência.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3"
+      ]
+    ],
+    "positions": [
+      "1. Situação — cenário atual.",
+      "2. Ação — o que pode ser feito.",
+      "3. Solução — o que tende a acontecer mediante as ações realizadas."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 3 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Comece pela carta 1 para definir o cenário.",
+      "Use a carta 2 como orientação prática ou movimento possível.",
+      "Leia a carta 3 como consequência/tendência vinculada à ação.",
+      "Una as três cartas em sequência: situação → atitude → possível solução."
+    ]
+  },
+  "Ex em Foco — 5 cartas": {
+    "subtitle": "Sentimento, intenção de voltar, motivo do término, futuro e conselho.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "5"
+      ],
+      [
+        "3",
+        "4"
+      ]
+    ],
+    "positions": [
+      "1. O que ele(a) sente por mim?",
+      "2. Ele(a) tem intenção de voltar?",
+      "3. O que levou ao término?",
+      "4. Futuro se houver volta.",
+      "5. Conselho."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 5 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Leia as cartas 1 e 2 para separar sentimento de intenção.",
+      "A carta 3 contextualiza a causa do rompimento.",
+      "A carta 4 mostra a tendência caso haja retomada.",
+      "Finalize com a carta 5 como conselho para o consulente."
+    ]
+  },
+  "Tirada do Ex — 5 cartas": {
+    "subtitle": "Sentimento, intenção, mudança de atitude, futuro e conselho.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    ],
+    "positions": [
+      "1. O que sente por mim?",
+      "2. Tem intenções de voltar?",
+      "3. Mudou as atitudes?",
+      "4. Possível futuro.",
+      "5. Conselho."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 5 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Separe sentimento, intenção e mudança de comportamento nas três primeiras posições.",
+      "Use a carta 4 como tendência, não como destino imutável.",
+      "A carta 5 encerra com orientação ao consulente.",
+      "Observe se sentimento e intenção apontam para a mesma direção ou para movimentos diferentes."
+    ]
+  },
+  "Reconciliação — 5 cartas": {
+    "subtitle": "Estado das duas pessoas, sentimento, expectativa e retorno.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    ],
+    "positions": [
+      "1. Como a pessoa está?",
+      "2. Como você está?",
+      "3. Como a pessoa se sente em relação a você?",
+      "4. O que esperar dela?",
+      "5. Essa pessoa vai voltar?"
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 5 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Compare as cartas 1 e 2 para compreender o estado de cada lado.",
+      "A carta 3 aprofunda o sentimento da outra pessoa.",
+      "A carta 4 indica aquilo que pode ser esperado dela no contexto atual.",
+      "A carta 5 responde à tendência de retorno, sempre em conjunto com as posições anteriores."
+    ]
+  },
+  "Reconciliação — 4 cartas": {
+    "subtitle": "Versão mais objetiva para reconciliação.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    ],
+    "positions": [
+      "1. Como a pessoa se sente em relação a mim?",
+      "2. Como eu estou em relação à pessoa?",
+      "3. O que esperar da pessoa?",
+      "4. Futuro da relação."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 4 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Compare as cartas 1 e 2 para observar os dois lados emocionais.",
+      "A carta 3 mostra o que pode ser esperado da outra pessoa.",
+      "A carta 4 fecha com a tendência da relação.",
+      "Não leia a carta final isoladamente: relacione-a ao estado de ambos e ao comportamento esperado."
+    ]
+  },
+  "Ficar ou Partir — 6 cartas": {
+    "subtitle": "Compara permanecer e partir e fecha com conselho.",
+    "layout": [
+      [
+        "1"
+      ],
+      [
+        "2",
+        "3"
+      ],
+      [
+        "4",
+        "5"
+      ],
+      [
+        "6"
+      ]
+    ],
+    "positions": [
+      "1. Situação atual.",
+      "2. Por que ficar?",
+      "3. Por que partir?",
+      "4. Como me sentirei se ficar?",
+      "5. Como me sentirei se partir?",
+      "6. Conselho final."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 6 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Use a carta 1 para fixar o contexto atual.",
+      "Compare 2 e 3 para entender os dois caminhos.",
+      "Compare 4 e 5 para avaliar a experiência emocional de cada escolha.",
+      "A carta 6 orienta a decisão sem substituir a autonomia do consulente."
+    ]
+  },
+  "Novos Romances — 3 cartas": {
+    "subtitle": "Passado amoroso, momento atual e tendência para novas relações.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3"
+      ]
+    ],
+    "positions": [
+      "1. Experiências e padrões anteriores que ainda influenciam a forma de se relacionar.",
+      "2. Momento amoroso atual — disponibilidade, contexto e energia presente.",
+      "3. Tendência amorosa — provável caminho para novos encontros ou desenvolvimento."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 3 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Leia a carta 1 como influência do passado sobre novas conexões.",
+      "A carta 2 mostra o estado atual e funciona como ponte da leitura.",
+      "A carta 3 indica tendência para novos romances se as condições atuais continuarem.",
+      "Integre a sequência como passado influente → momento atual → tendência."
+    ]
+  },
+  "Passado, Presente e Futuro — 3 cartas": {
+    "subtitle": "Antecedentes, situação atual e tendência.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3"
+      ]
+    ],
+    "positions": [
+      "1. Passado — acontecimentos, sentimentos, decisões ou circunstâncias anteriores que ajudaram a formar a situação atual.",
+      "2. Presente — energia central da situação e aquilo que precisa receber maior atenção agora.",
+      "3. Futuro — tendência de desenvolvimento se as condições atuais continuarem."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 3 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Leia a carta 1 como antecedente e origem do quadro.",
+      "Use a carta 2 como centro da leitura e ponte entre passado e futuro.",
+      "A carta 3 representa tendência, não um destino absolutamente imutável.",
+      "Una as três em uma narrativa temporal coerente."
+    ]
+  },
+  "Momento Certo — 5 cartas": {
+    "subtitle": "Energia, influências, riscos, oportunidade e conselho.",
+    "layout": [
+      [
+        "1",
+        null,
+        "5"
+      ],
+      [
+        "2",
+        "3",
+        "4"
+      ]
+    ],
+    "positions": [
+      "1. Energia atual.",
+      "2. Influências externas.",
+      "3. Risco.",
+      "4. Oportunidade.",
+      "5. Conselho final."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 5 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Comece pela energia atual e pelas influências externas.",
+      "Compare risco e oportunidade antes de concluir.",
+      "A carta 5 deve ser lida como orientação final sobre o momento.",
+      "Use o conjunto para avaliar condições e timing, não como cronologia garantida."
+    ],
+    "note": "A numeração foi mantida conforme a consolidação do método para organizar o esquema visual."
+  },
+  "Método de Esclarecimento — 5 cartas": {
+    "subtitle": "Situação, percepção, ação, ponto cego e propósito.",
+    "layout": [
+      [
+        null,
+        "1",
+        null
+      ],
+      [
+        "2",
+        "3",
+        "4"
+      ],
+      [
+        null,
+        "5",
+        null
+      ]
+    ],
+    "positions": [
+      "1. Situação.",
+      "2. Como me vejo.",
+      "3. Como agir.",
+      "4. O que eu me recuso a ver.",
+      "5. Propósito."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 5 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "A carta 1 estabelece o tema central.",
+      "Compare a percepção de si (2) com o ponto cego (4).",
+      "A carta 3 indica a ação possível dentro da situação.",
+      "A carta 5 fecha a leitura com propósito ou direção.",
+      "Integre as cinco posições para transformar esclarecimento em orientação."
+    ]
+  },
+  "Método Geral — 8 cartas": {
+    "subtitle": "Panorama geral das principais áreas da vida.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      [
+        "5",
+        "6",
+        "7",
+        "8"
+      ]
+    ],
+    "positions": [
+      "1. Sua energia / você.",
+      "2. Energia do financeiro.",
+      "3. Energia do amor / vida amorosa.",
+      "4. Energia do campo / ambiente familiar.",
+      "5. Energia da espiritualidade.",
+      "6. Obstáculo.",
+      "7. Conselho.",
+      "8. Tendência de futuro."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 8 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Leia primeiro as áreas 1 a 5 para formar o panorama.",
+      "Use a carta 6 para identificar o obstáculo principal.",
+      "A carta 7 orienta como lidar com o quadro.",
+      "A carta 8 mostra a tendência geral de continuidade.",
+      "Observe repetições de tema entre áreas antes de sintetizar."
+    ]
+  },
+  "Cruz Céltica — 10 cartas": {
+    "subtitle": "Análise ampla de uma situação complexa.",
+    "layout": [
+      [
+        null,
+        "6",
+        null,
+        null,
+        "10"
+      ],
+      [
+        "4",
+        "1/2",
+        "5",
+        null,
+        "9"
+      ],
+      [
+        null,
+        "3",
+        null,
+        null,
+        "8"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "7"
+      ]
+    ],
+    "positions": [
+      "1. Situação Atual — o que está acontecendo no momento.",
+      "2. Obstáculo — o que cruza ou desafia a situação.",
+      "3. Base / Raiz — a origem ou causa inconsciente.",
+      "4. Passado Recente — o que está ficando para trás.",
+      "5. Possível Futuro — o que pode acontecer em breve.",
+      "6. Futuro Próximo — o que está chegando.",
+      "7. O Consulente — como o consulente vê a si mesmo.",
+      "8. Ambiente Externo — como os outros veem a situação.",
+      "9. Esperanças e Medos — desejos e temores mais profundos.",
+      "10. Resultado Final — o desfecho mais provável."
+    ],
+    "howTo": [
+      "Embaralhe as cartas mantendo foco na situação a ser analisada.",
+      "Posicione a 1ª carta ao centro.",
+      "Coloque a 2ª carta cruzada sobre a primeira.",
+      "Posicione as cartas 3, 4, 5 e 6 formando uma cruz ao redor do centro.",
+      "Disponha as cartas 7, 8, 9 e 10 em coluna vertical à direita.",
+      "Leia as cartas em sequência numérica, integrando as mensagens ao final."
+    ],
+    "readingGuide": [
+      "Leia as cartas em sequência numérica e integre as mensagens ao final.",
+      "A carta 2 é o desafio que cruza a situação; não precisa ser tratada como algo apenas negativo.",
+      "Compare a carta 5 (possível futuro) com a carta 10 (resultado final).",
+      "A tiragem é indicada para situações complexas que exigem visão de vários ângulos."
+    ],
+    "note": "No esquema, “1/2” representa a carta 2 cruzada sobre a carta 1."
+  },
+  "Porta da Riqueza — 7 cartas": {
+    "subtitle": "Situação financeira, potencial, hábitos, mudança e resultado.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      [
+        "5",
+        "6",
+        "7"
+      ]
+    ],
+    "positions": [
+      "1. Onde estou hoje financeiramente.",
+      "2. Meu maior potencial financeiro.",
+      "3. O que devo parar de fazer.",
+      "4. O que devo começar a fazer.",
+      "5. Qual energia espiritual posso ativar para prosperar.",
+      "6. O que vai mudar nos próximos meses.",
+      "7. Resultado se seguir os conselhos."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 7 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Comece pelo diagnóstico da posição 1.",
+      "Use a carta 2 como potencial a desenvolver.",
+      "Compare 3 e 4 como movimento de retirada e construção de hábitos.",
+      "A carta 5 acrescenta a camada simbólica/espiritual do método.",
+      "Leia 6 como mudança e 7 como resultado condicionado às orientações."
+    ]
+  },
+  "Método Financeiro — 5 cartas": {
+    "subtitle": "Caminho financeiro, bloqueios e áreas de foco.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    ],
+    "positions": [
+      "1. Estou no caminho para ganhar o dinheiro desejado?",
+      "2. O que trava meu caminho / minha movimentação?",
+      "3. Áreas da vida para focar para ganhar dinheiro.",
+      "4. Por que estou na situação financeira atual?",
+      "5. O que faz eu deixar dinheiro para trás?"
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 5 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "A carta 1 mostra o caminho financeiro dentro da pergunta.",
+      "A carta 2 aponta o principal bloqueio ou trava.",
+      "A carta 3 direciona o foco para áreas relevantes.",
+      "A carta 4 ajuda a compreender a situação atual.",
+      "A carta 5 mostra o padrão que pode afastar ou fazer perder recursos."
+    ]
+  },
+  "Panorama Comercial — 8 cartas": {
+    "subtitle": "Produto, mercado, público, dinheiro, futuro e conselho.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      [
+        "5",
+        "6",
+        "7",
+        "8"
+      ]
+    ],
+    "positions": [
+      "1. Meu produto.",
+      "2. Relação emocional com ele.",
+      "3. Como lido comercialmente.",
+      "4. Posicionamento no mercado.",
+      "5. Recepção do público.",
+      "6. Parte financeira.",
+      "7. Futuro do produto.",
+      "8. Conselho."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 8 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Leia 1 a 4 para entender produto, relação pessoal e posicionamento.",
+      "A carta 5 mostra a recepção do público e a 6, a dimensão financeira.",
+      "A carta 7 apresenta a tendência do produto.",
+      "A carta 8 encerra com orientação prática.",
+      "Integre especialmente mercado, público e financeiro antes de concluir."
+    ]
+  },
+  "Jogo dos Caminhos — 8 cartas": {
+    "subtitle": "Compara duas opções utilizando os mesmos critérios.",
+    "layout": [
+      [
+        "A1",
+        "A2",
+        "A3",
+        "A4"
+      ],
+      [
+        "B1",
+        "B2",
+        "B3",
+        "B4"
+      ]
+    ],
+    "positions": [
+      "Opção A — 1. O que favorece.",
+      "Opção A — 2. O que precisa ser trabalhado.",
+      "Opção A — 3. Perspectivas.",
+      "Opção A — 4. Conselho.",
+      "Opção B — 1. O que favorece.",
+      "Opção B — 2. O que precisa ser trabalhado.",
+      "Opção B — 3. Perspectivas.",
+      "Opção B — 4. Conselho."
+    ],
+    "howTo": [
+      "Defina com clareza as duas alternativas: Opção A e Opção B.",
+      "Embaralhe mantendo a decisão em mente.",
+      "Retire 4 cartas para a Opção A e 4 cartas para a Opção B.",
+      "Use os mesmos quatro critérios para os dois caminhos.",
+      "Compare os pares equivalentes e depois faça a síntese de cada alternativa."
+    ],
+    "readingGuide": [
+      "Defina claramente qual alternativa será A e qual será B antes de retirar as cartas.",
+      "Leia primeiro as quatro posições da Opção A e depois as quatro da Opção B.",
+      "Compare A1 com B1, A2 com B2, A3 com B3 e A4 com B4.",
+      "Finalize comparando cada caminho como um conjunto, sem transformar a leitura em escolha automática pelo consulente."
+    ]
+  },
+  "Paradoxo da Escolha — 6 cartas": {
+    "subtitle": "Dois grupos de três cartas para comparar alternativas.",
+    "layout": [
+      [
+        "A1",
+        "A2",
+        "A3"
+      ],
+      [
+        "B1",
+        "B2",
+        "B3"
+      ]
+    ],
+    "positions": [
+      "Opção A — três cartas lidas em conjunto.",
+      "Opção B — três cartas lidas em conjunto."
+    ],
+    "howTo": [
+      "Defina claramente a Opção A e a Opção B.",
+      "Embaralhe mantendo a escolha em mente.",
+      "Retire 3 cartas para a Opção A e 3 cartas para a Opção B.",
+      "Leia cada trio como um conjunto.",
+      "Compare os dois grupos, preservando a ausência de funções individuais específicas no método original."
+    ],
+    "readingGuide": [
+      "Leia as três cartas da Opção A como uma narrativa única.",
+      "Leia as três cartas da Opção B da mesma forma.",
+      "Compare os dois conjuntos sem atribuir funções individuais que não foram definidas no material.",
+      "Use a comparação para ampliar a compreensão das alternativas."
+    ],
+    "note": "O material não atribui funções próprias às seis posições. Por fidelidade à fonte, o site não inventa significados individuais."
+  },
+  "Linha do Tempo — 5 cartas": {
+    "subtitle": "Evolução temporal da situação.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    ],
+    "positions": [
+      "1. Passado Distante — origens e raízes mais antigas da situação.",
+      "2. Passado Recente — o que aconteceu nos últimos 30 dias.",
+      "3. Momento Presente — a situação atual; carta central e mais importante.",
+      "4. Futuro Próximo — o que se desenrola nas próximas semanas.",
+      "5. Futuro Distante — perspectiva de médio a longo prazo."
+    ],
+    "howTo": [
+      "Embaralhe pensando na linha de tempo da situação.",
+      "Disponha 5 cartas em linha reta, da esquerda para a direita.",
+      "Leia 1 e 2 como raízes e antecedentes do quadro.",
+      "Centralize a leitura na carta 3, que mostra o agora.",
+      "Projete 4 e 5 como tendência de curto e médio prazo."
+    ],
+    "readingGuide": [
+      "Leia 1 e 2 como raízes e antecedentes do quadro.",
+      "Centralize a leitura na carta 3, que mostra o agora.",
+      "Projete 4 e 5 como tendências de curto e médio/longo prazo.",
+      "Use quando quiser entender a evolução de um processo, e não apenas um sim/não.",
+      "Registrar a data da tiragem ajuda a conferir a tendência posteriormente."
+    ]
+  },
+  "Ferradura do Destino — 7 cartas": {
+    "subtitle": "Passado, presente, futuro, influências, obstáculos e resultado.",
+    "layout": [
+      [
+        "1",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "7"
+      ],
+      [
+        null,
+        "2",
+        null,
+        null,
+        null,
+        "6",
+        null
+      ],
+      [
+        null,
+        null,
+        "3",
+        "4",
+        "5",
+        null,
+        null
+      ]
+    ],
+    "positions": [
+      "1. Passado Distante — raízes e influências do passado.",
+      "2. Passado Recente — eventos recentes que impactam a situação.",
+      "3. Presente — a situação atual do consulente.",
+      "4. Futuro Próximo — o que chegará nos próximos dias/semanas.",
+      "5. Influências Externas — pessoas e fatores externos que agem.",
+      "6. Obstáculos — o que deve ser superado ou evitado.",
+      "7. Resultado Final — o desfecho provável do caminho."
+    ],
+    "howTo": [
+      "Embaralhe pensando na situação que deseja acompanhar no tempo.",
+      "Disponha 7 cartas da esquerda para a direita formando um arco (ferradura).",
+      "Leia as posições 1 a 3 para entender o histórico da situação.",
+      "Analise as posições 4 a 6 para o que está chegando e o que atrapalha.",
+      "Encerre com a carta 7 para o desfecho provável do caminho."
+    ],
+    "readingGuide": [
+      "Leia as posições 1 a 3 para entender o histórico da situação.",
+      "Analise as posições 4 a 6 para o que está chegando e o que atrapalha.",
+      "Encerre com a carta 7 para o desfecho provável do caminho.",
+      "É especialmente útil para decisões que dependem de tempo e de terceiros.",
+      "Compare a carta 3 (presente) com a 7 (resultado) para medir a evolução."
+    ]
+  },
+  "Mesa Real / Grand Tableau — 36 cartas": {
+    "subtitle": "Panorama completo utilizando as 36 cartas.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      [
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      [
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      [
+        "33",
+        "34",
+        "35",
+        "36"
+      ]
+    ],
+    "positions": [
+      "1. Casa 1 — Cavaleiro: notícias, movimento e chegadas.",
+      "2. Casa 2 — Trevo: pequenas sortes e oportunidades rápidas.",
+      "3. Casa 3 — Navio: viagens, distância e mudanças.",
+      "4. Casa 4 — Casa: família, lar e estabilidade.",
+      "5. Casa 5 — Árvore: saúde, raízes e karma.",
+      "6. Casa 6 — Nuvens: confusão, dúvidas e instabilidade.",
+      "7. Casa 7 — Serpente: traições, desvios e complicações.",
+      "8. Casa 8 — Caixão: fim de ciclo e transformação.",
+      "9. Casa 9 — Buquê: alegria, convites e presentes.",
+      "10. Casa 10 — Foice: cortes, decisões rápidas e rupturas.",
+      "11. Casa 11 — Chicote: discussões, repetições e desgaste.",
+      "12. Casa 12 — Pássaros: conversas, ansiedade e dupla ação.",
+      "13. Casa 13 — Criança: começos, ingenuidade e novidades.",
+      "14. Casa 14 — Raposa: trabalho, astúcia e cuidado com enganos.",
+      "15. Casa 15 — Urso: força, proteção e figuras de autoridade.",
+      "16. Casa 16 — Estrela: propósito, espiritualidade e clareza.",
+      "17. Casa 17 — Cegonha: mudanças e renovação.",
+      "18. Casa 18 — Cachorro / Cão: amizade, lealdade e apoio.",
+      "19. Casa 19 — Torre: instituições, isolamento e estrutura.",
+      "20. Casa 20 — Jardim: vida social, público e encontros.",
+      "21. Casa 21 — Montanha: bloqueios, atrasos e obstáculos.",
+      "22. Casa 22 — Caminhos: escolhas e decisões.",
+      "23. Casa 23 — Ratos: perdas, desgaste e roubo de energia.",
+      "24. Casa 24 — Coração: amor e sentimentos.",
+      "25. Casa 25 — Anel: compromissos, contratos e acordos.",
+      "26. Casa 26 — Livro: segredos, estudos e o que está oculto.",
+      "27. Casa 27 — Carta: documentos, mensagens e comunicados.",
+      "28. Casa 28 — Cavalheiro: consulente homem / homem da questão.",
+      "29. Casa 29 — Dama: consulente mulher / mulher da questão.",
+      "30. Casa 30 — Lírios: maturidade, paz e sexualidade.",
+      "31. Casa 31 — Sol: sucesso, vitalidade e realização.",
+      "32. Casa 32 — Lua: reconhecimento, emoções e intuição.",
+      "33. Casa 33 — Chave: soluções, aberturas e certezas.",
+      "34. Casa 34 — Peixes: dinheiro, fluxo e abundância.",
+      "35. Casa 35 — Âncora: estabilidade, trabalho firme e persistência.",
+      "36. Casa 36 — Cruz: provação, fé e destino."
+    ],
+    "howTo": [
+      "Embaralhe o baralho completo; a Mesa Real funciona como panorama amplo.",
+      "Distribua as 36 cartas em 4 linhas de 8 cartas e uma última linha com as cartas 33 a 36.",
+      "Localize a carta do consulente (Cavalheiro ou Dama, conforme a técnica utilizada) como um dos pontos de partida.",
+      "Leia as cartas vizinhas — acima, abaixo, lados e diagonais.",
+      "Observe em qual casa cada carta foi posicionada.",
+      "Finalize sintetizando os temas por áreas da vida."
+    ],
+    "readingGuide": [
+      "Localize a carta do consulente e use-a como ponto de partida.",
+      "Observe cartas acima, abaixo, aos lados e nas diagonais.",
+      "Considere a casa em que cada carta caiu, relacionando a carta sorteada ao tema daquela casa.",
+      "Sintetize por áreas da vida, como amor, trabalho, dinheiro, lar e saúde.",
+      "Reserve tempo para a leitura: é o método mais amplo entre os cadastrados."
+    ],
+    "note": "Na Mesa Real, as 36 casas possuem significados próprios. A interpretação também depende da carta que ocupa cada casa e das relações de vizinhança."
+  },
+  "Os Espelhos — 3 cartas": {
+    "subtitle": "Como você se vê, como é visto e sua essência.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3"
+      ]
+    ],
+    "positions": [
+      "1. Como eu me vejo.",
+      "2. Como me veem.",
+      "3. Minha verdadeira essência."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 3 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Compare a autoimagem da carta 1 com a percepção externa da carta 2.",
+      "Use a carta 3 como eixo para compreender a essência indicada pelo método.",
+      "Observe confirmações e contrastes entre as três posições."
+    ]
+  },
+  "A Árvore — 10 cartas": {
+    "subtitle": "Passado, presente, potenciais futuros e frutos.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3"
+      ],
+      [
+        "4",
+        "5",
+        "6"
+      ],
+      [
+        "7",
+        "8",
+        "9"
+      ],
+      [
+        "10"
+      ]
+    ],
+    "positions": [
+      "1–3. O que me sustenta no passado.",
+      "4–6. O que me define no presente.",
+      "7–9. Potenciais de futuro.",
+      "10. Frutos da jornada."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 10 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Leia 1–3 como raízes e sustentação do passado.",
+      "Leia 4–6 como tronco/presente e definição atual.",
+      "Leia 7–9 como potenciais que podem se desenvolver.",
+      "A carta 10 sintetiza os frutos da jornada.",
+      "Integre os quatro níveis como uma trajetória de crescimento."
+    ]
+  },
+  "Maiêutica — 9 cartas": {
+    "subtitle": "Talentos, percepção, expressão e vocação.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3"
+      ],
+      [
+        "4",
+        "5",
+        "6"
+      ],
+      [
+        "7",
+        "8",
+        "9"
+      ]
+    ],
+    "positions": [
+      "1. O que penso que sei sobre meus talentos.",
+      "2. O que é apenas opinião ou ilusão.",
+      "3. O que precisa ser questionado.",
+      "4. O que surge quando me confronto.",
+      "5. O que os outros refletem.",
+      "6. O que nasce da visão interna + externa.",
+      "7. Talento essencial emergente.",
+      "8. Caminho para expressar o talento.",
+      "9. Vocação revelada."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 9 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Comece pelas três primeiras posições para questionar percepções prévias.",
+      "Use 4–6 para confrontar e integrar visão interna e externa.",
+      "Leia 7–9 como síntese: talento, expressão e vocação.",
+      "Evite reduzir uma única carta a uma definição fixa de carreira; leia o processo inteiro."
+    ]
+  },
+  "Metamorfose — 7 cartas": {
+    "subtitle": "Mudança, perdas, ganhos, resultado e conselho.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3"
+      ],
+      [
+        "4",
+        "5"
+      ],
+      [
+        "6",
+        "7"
+      ]
+    ],
+    "positions": [
+      "1. Como era antes.",
+      "2. O que fez a mudança acontecer.",
+      "3. Como ocorre o processo.",
+      "4. O que se perde.",
+      "5. O que se ganha.",
+      "6. Resultado.",
+      "7. Conselho."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 7 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Leia 1–3 como origem e processo da transformação.",
+      "Compare 4 e 5 para compreender perdas e ganhos.",
+      "Use a carta 6 como resultado da mudança.",
+      "Finalize com a carta 7 como orientação para atravessar o processo."
+    ]
+  },
+  "Psique Emocional — 12 cartas": {
+    "subtitle": "Mapa simbólico de estados e recursos emocionais.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      [
+        "9",
+        "10",
+        "11",
+        "12"
+      ]
+    ],
+    "positions": [
+      "1. Medo.",
+      "2. Culpa.",
+      "3. Vergonha.",
+      "4. Raiva.",
+      "5. Tristeza.",
+      "6. Apego.",
+      "7. Esperança.",
+      "8. Amor.",
+      "9. Perdão.",
+      "10. Gratidão.",
+      "11. Confiança.",
+      "12. Liberdade."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 12 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Leia cada carta de acordo com o estado ou recurso emocional da posição.",
+      "Observe quais temas se repetem ou se reforçam entre posições.",
+      "Compare estados difíceis com recursos de elaboração e fortalecimento.",
+      "Finalize com uma síntese simbólica do mapa emocional, sem tratar a tiragem como diagnóstico psicológico."
+    ],
+    "note": "Este método é simbólico/oracular e não substitui avaliação ou cuidado psicológico profissional."
+  },
+  "Nó Energético — 3 cartas": {
+    "subtitle": "Bloqueio simbólico, consequência e orientação.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3"
+      ]
+    ],
+    "positions": [
+      "1. Nó que me bloqueia.",
+      "2. Consequência.",
+      "3. Como desatar."
+    ],
+    "howTo": [
+      "Defina o tema e formule uma pergunta clara, mantendo apenas um foco principal.",
+      "Embaralhe o baralho mantendo a pergunta em mente.",
+      "Retire 3 cartas e disponha-as exatamente na ordem numerada do esquema.",
+      "Leia primeiro a função de cada posição e depois relacione as cartas vizinhas e o contexto da pergunta.",
+      "Finalize integrando o conjunto em uma resposta coerente, evitando interpretar as cartas como significados isolados."
+    ],
+    "readingGuide": [
+      "Leia a carta 1 como símbolo do bloqueio consultado.",
+      "A carta 2 mostra a consequência associada ao padrão.",
+      "A carta 3 oferece orientação simbólica para trabalhar ou desfazer o nó.",
+      "Interprete como linguagem oracular, não como prova factual de ação espiritual externa."
+    ],
+    "note": "As associações espirituais deste método são simbólicas/oraculares e não constituem comprovação factual."
+  },
+  "Jogada de 9 cartas — visão ampliada": {
+    "subtitle": "Quadro 3×3 para uma visão mais ampla.",
+    "layout": [
+      [
+        "1",
+        "2",
+        "3"
+      ],
+      [
+        "4",
+        "5",
+        "6"
+      ],
+      [
+        "7",
+        "8",
+        "9"
+      ]
+    ],
+    "positions": [
+      "As nove cartas formam um quadro 3×3. O material não atribui uma função individual diferente para cada posição."
+    ],
+    "howTo": [
+      "Defina uma pergunta ou tema claro.",
+      "Embaralhe mantendo o foco no tema.",
+      "Retire 9 cartas e disponha-as em um quadro 3×3.",
+      "Observe o conjunto antes de interpretar combinações e sequências.",
+      "Faça a síntese sem atribuir significados posicionais que não constam no método."
+    ],
+    "readingGuide": [
+      "Observe primeiro o quadro completo e os temas que se repetem.",
+      "Relacione cartas vizinhas e sequências sem criar funções fixas para casas não definidas.",
+      "Use o 3×3 para ampliar a visão da situação e construir uma narrativa integrada.",
+      "A pergunta, o contexto e a ordem das cartas continuam sendo fundamentais."
+    ],
+    "note": "Por fidelidade ao material, o site não inventa significados individuais para as nove casas."
+  }
 };
+
 let state={
-topic:null,
-question:null,
-method:null
+  topic:null,
+  question:null,
+  method:null
 };
 
 const $=id=>document.getElementById(id);
 
 function setProgress(n){
-for(let i=1;i<=4;i++){
-$("p"+i).classList.toggle("on",i<=n);
-}
+  for(let i=1;i<=4;i++){
+    $("p"+i).classList.toggle("on",i<=n);
+  }
 }
 
 function renderTopics(){
+  $("topics").innerHTML=
+  Object.entries(DATA).map(([name,data])=>`
+  <button class="topic" data-topic="${name}">
+    <b>${data.icon} ${name}</b>
+    <small>Ver perguntas indicadas</small>
+  </button>
+  `).join("");
 
-$("topics").innerHTML=
-Object.entries(DATA).map(([name,data])=>`
-<button class="topic" data-topic="${name}">
-<b>${data.icon} ${name}</b>
-<small>Ver perguntas indicadas</small>
-</button>
-`).join("");
-
-document.querySelectorAll("[data-topic]").forEach(btn=>{
-btn.onclick=()=>chooseTopic(btn.dataset.topic);
-});
-
+  document.querySelectorAll("[data-topic]").forEach(btn=>{
+    btn.onclick=()=>chooseTopic(btn.dataset.topic);
+  });
 }
 
 function chooseTopic(topic){
+  state={
+    topic,
+    question:null,
+    method:null
+  };
 
-state={
-topic,
-question:null,
-method:null
-};
+  $("topicTitle").textContent=
+  "Perguntas indicadas para "+topic;
 
-$("topicTitle").textContent=
-"Perguntas indicadas para "+topic;
+  const qs=DATA[topic].questions;
 
-const qs=DATA[topic].questions;
+  $("questions").innerHTML=
+  qs.slice(0,5).map(q=>
+  `<button class="question" data-question="${encodeURIComponent(q)}">${q}</button>`
+  ).join("");
 
-$("questions").innerHTML=
-qs.slice(0,5).map(q=>
-`<button class="question" data-question="${encodeURIComponent(q)}">${q}</button>`
-).join("");
+  $("extraQuestions").innerHTML=
+  qs.slice(5).map(q=>
+  `<button class="question" data-question="${encodeURIComponent(q)}">${q}</button>`
+  ).join("");
 
-$("extraQuestions").innerHTML=
-qs.slice(5).map(q=>
-`<button class="question" data-question="${encodeURIComponent(q)}">${q}</button>`
-).join("");
+  bindQuestions();
 
-bindQuestions();
+  $("extraQuestions").classList.add("hidden");
+  $("moreBtn").textContent="Ver mais perguntas";
+  $("customBox").classList.add("hidden");
 
-$("extraQuestions").classList.add("hidden");
-$("moreBtn").textContent="Ver mais perguntas";
-$("customBox").classList.add("hidden");
+  $("step2").classList.remove("hidden");
+  $("step3").classList.add("hidden");
+  $("step4").classList.add("hidden");
 
-$("step2").classList.remove("hidden");
-$("step3").classList.add("hidden");
-$("step4").classList.add("hidden");
+  setProgress(2);
 
-setProgress(2);
-
-$("step2").scrollIntoView({
-behavior:"smooth"
-});
-
+  $("step2").scrollIntoView({
+    behavior:"smooth"
+  });
 }
 
 function bindQuestions(){
+  document.querySelectorAll("[data-question]").forEach(btn=>{
+    btn.onclick=()=>{
+      document.querySelectorAll(".question")
+      .forEach(x=>x.classList.remove("active"));
 
-document.querySelectorAll("[data-question]").forEach(btn=>{
+      btn.classList.add("active");
 
-btn.onclick=()=>{
-
-document.querySelectorAll(".question")
-.forEach(x=>x.classList.remove("active"));
-
-btn.classList.add("active");
-
-chooseQuestion(
-decodeURIComponent(btn.dataset.question)
-);
-
-};
-
-});
-
+      chooseQuestion(
+        decodeURIComponent(btn.dataset.question)
+      );
+    };
+  });
 }
 
 function chooseQuestion(question){
+  state.question=question;
+  state.method=null;
 
-state.question=question;
-state.method=null;
+  $("chosenQuestion").innerHTML=
+  "<b>Pergunta escolhida:</b> "+question;
 
-$("chosenQuestion").innerHTML=
-"<b>Pergunta escolhida:</b> "+question;
+  const methods=DATA[state.topic].methods;
 
-const methods=DATA[state.topic].methods;
+  $("methods").innerHTML=
+  methods.map((m,i)=>`
+  <button class="method" data-method="${encodeURIComponent(m)}">
+    ${i===0?'<span class="tag">⭐ MAIS INDICADO</span>':""}
+    <b>${m}</b>
+    <small>${DESC[m]||""}</small>
+  </button>
+  `).join("");
 
-$("methods").innerHTML=
-methods.map((m,i)=>`
-<button class="method" data-method="${encodeURIComponent(m)}">
-${i===0?'<span class="tag">⭐ MAIS INDICADO</span>':""}
-<b>${m}</b>
-<small>${DESC[m]||""}</small>
-</button>
-`).join("");
+  document.querySelectorAll("[data-method]").forEach(btn=>{
+    btn.onclick=()=>chooseMethod(
+      decodeURIComponent(btn.dataset.method),
+      btn
+    );
+  });
 
-document.querySelectorAll("[data-method]").forEach(btn=>{
+  $("step3").classList.remove("hidden");
+  $("step4").classList.add("hidden");
 
-btn.onclick=()=>chooseMethod(
-decodeURIComponent(btn.dataset.method),
-btn
-);
+  setProgress(3);
 
-});
-
-$("step3").classList.remove("hidden");
-$("step4").classList.add("hidden");
-
-setProgress(3);
-
-$("step3").scrollIntoView({
-behavior:"smooth"
-});
-
+  $("step3").scrollIntoView({
+    behavior:"smooth"
+  });
 }
 
 function chooseMethod(method,btn){
+  state.method=method;
 
-state.method=method;
+  document.querySelectorAll(".method")
+  .forEach(x=>x.classList.remove("active"));
 
-document.querySelectorAll(".method")
-.forEach(x=>x.classList.remove("active"));
+  btn.classList.add("active");
 
-btn.classList.add("active");
+  $("sumTopic").textContent=state.topic;
+  $("sumQuestion").textContent=state.question;
+  $("sumMethod").textContent=state.method;
 
-$("sumTopic").textContent=state.topic;
-$("sumQuestion").textContent=state.question;
-$("sumMethod").textContent=state.method;
-const details=METHOD_DETAILS[state.method];
-const detailsBox=$("methodDetails");
+  const details=METHOD_DETAILS[state.method];
+  const detailsBox=$("methodDetails");
 
-if(details && detailsBox){
-
-  const layoutHtml=details.layout.map(row=>`
-    <div style="display:flex;justify-content:center;gap:14px;margin:8px 0;">
-      ${row.map(n=>`
-        <span style="
-          width:46px;
-          height:64px;
-          border:1px solid #d8a94d;
-          border-radius:10px;
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          background:#fff8e8;
-          color:#7b2f4e;
-          font-weight:bold;
-          font-size:18px;
-        ">${n}</span>
-      `).join("")}
-    </div>
-  `).join("");
-
-  detailsBox.innerHTML=`
-    <div style="
-      margin-top:18px;
-      padding:18px;
-      border:1px solid #ead3dc;
-      border-radius:16px;
-      background:#fff;
-    ">
-
-      <h3 style="color:#7b2f4e;margin-top:0;">
-        🔮 Como fazer esta tiragem
-      </h3>
-
-      <p>${details.subtitle}</p>
-
-      <ol>
-        ${details.howTo.map(item=>`<li style="margin-bottom:8px;">${item}</li>`).join("")}
-      </ol>
-
-      <h3 style="color:#7b2f4e;">
-        🃏 Disposição das cartas
-      </h3>
-
-      <div style="padding:10px 0;">
-        ${layoutHtml}
+  if(details && detailsBox){
+    const layoutHtml=details.layout.map(row=>`
+      <div style="display:flex;justify-content:center;align-items:center;gap:14px;margin:8px 0;overflow-x:auto;">
+        ${row.map(n=>{
+          if(n===null){
+            return `<span aria-hidden="true" style="width:46px;height:64px;display:inline-block;flex:0 0 46px;"></span>`;
+          }
+          return `
+            <span style="
+              width:46px;
+              height:64px;
+              border:1px solid #d8a94d;
+              border-radius:10px;
+              display:flex;
+              align-items:center;
+              justify-content:center;
+              background:#fff8e8;
+              color:#7b2f4e;
+              font-weight:bold;
+              font-size:${String(n).length>2 ? "13px" : "18px"};
+              flex:0 0 46px;
+            ">${n}</span>`;
+        }).join("")}
       </div>
+    `).join("");
 
-      <h3 style="color:#7b2f4e;">
-        📍 Significado de cada posição
-      </h3>
+    const noteHtml=details.note
+      ? `<div class="notice" style="margin-top:14px;"><b>Observação do método:</b> ${details.note}</div>`
+      : "";
 
-      <ol style="padding-left:22px;">
-        ${details.positions.map(item=>`<li style="margin-bottom:7px;">${item}</li>`).join("")}
-      </ol>
+    detailsBox.innerHTML=`
+      <div style="
+        margin-top:18px;
+        padding:18px;
+        border:1px solid #ead3dc;
+        border-radius:16px;
+        background:#fff;
+      ">
+        <h3 style="color:#7b2f4e;margin-top:0;">
+          🔮 Como fazer esta tiragem
+        </h3>
 
-      <h3 style="color:#7b2f4e;">
-        ✨ Como interpretar
-      </h3>
+        <p>${details.subtitle}</p>
 
-      <ul style="padding-left:22px;">
-        ${details.readingGuide.map(item=>`<li style="margin-bottom:8px;">${item}</li>`).join("")}
-      </ul>
+        <ol>
+          ${details.howTo.map(item=>`<li style="margin-bottom:8px;">${item}</li>`).join("")}
+        </ol>
 
-    </div>
-  `;
+        <h3 style="color:#7b2f4e;">
+          🃏 Disposição das cartas
+        </h3>
 
-  detailsBox.classList.remove("hidden");
+        <div style="padding:10px 0;overflow-x:auto;">
+          ${layoutHtml}
+        </div>
 
-}else if(detailsBox){
+        <h3 style="color:#7b2f4e;">
+          📍 Significado de cada posição
+        </h3>
 
-  detailsBox.innerHTML="";
-  detailsBox.classList.add("hidden");
+        <ol style="padding-left:22px;">
+          ${details.positions.map(item=>`<li style="margin-bottom:7px;">${item}</li>`).join("")}
+        </ol>
 
-}
-$("step4").classList.remove("hidden");
+        <h3 style="color:#7b2f4e;">
+          ✨ Como interpretar
+        </h3>
 
-localStorage.setItem(
-"enciclopedia-cigana-v9-jogo",
-JSON.stringify(state)
-);
+        <ul style="padding-left:22px;">
+          ${details.readingGuide.map(item=>`<li style="margin-bottom:8px;">${item}</li>`).join("")}
+        </ul>
 
-setProgress(4);
+        ${noteHtml}
+      </div>
+    `;
 
-$("step4").scrollIntoView({
-behavior:"smooth"
-});
+    detailsBox.classList.remove("hidden");
+  }else if(detailsBox){
+    detailsBox.innerHTML="";
+    detailsBox.classList.add("hidden");
+  }
 
+  $("step4").classList.remove("hidden");
+
+  localStorage.setItem(
+    "enciclopedia-cigana-v9-jogo",
+    JSON.stringify(state)
+  );
+
+  setProgress(4);
+
+  $("step4").scrollIntoView({
+    behavior:"smooth"
+  });
 }
 
 $("moreBtn").onclick=()=>{
+  $("extraQuestions").classList.toggle("hidden");
 
-$("extraQuestions").classList.toggle("hidden");
-
-$("moreBtn").textContent=
-$("extraQuestions").classList.contains("hidden")
-?"Ver mais perguntas"
-:"Ocultar perguntas";
-
+  $("moreBtn").textContent=
+  $("extraQuestions").classList.contains("hidden")
+  ?"Ver mais perguntas"
+  :"Ocultar perguntas";
 };
 
 $("customBtn").onclick=()=>{
-
-$("customBox").classList.toggle("hidden");
-
+  $("customBox").classList.toggle("hidden");
 };
 
 $("useCustom").onclick=()=>{
+  const q=$("customQuestion").value.trim();
 
-const q=$("customQuestion").value.trim();
+  if(!q){
+    alert("Escreva uma pergunta antes de continuar.");
+    return;
+  }
 
-if(!q){
-alert("Escreva uma pergunta antes de continuar.");
-return;
-}
+  document.querySelectorAll(".question")
+  .forEach(x=>x.classList.remove("active"));
 
-document.querySelectorAll(".question")
-.forEach(x=>x.classList.remove("active"));
-
-chooseQuestion(q);
-
+  chooseQuestion(q);
 };
 
 $("copyBtn").onclick=async()=>{
-
-const text=
+  const text=
 `🔮 Tiragem
 Assunto: ${state.topic}
 Pergunta: ${state.question}
 Método: ${state.method}`;
 
-try{
+  try{
+    await navigator.clipboard.writeText(text);
 
-await navigator.clipboard.writeText(text);
+    $("copyBtn").textContent=
+    "✓ Resumo copiado";
 
-$("copyBtn").textContent=
-"✓ Resumo copiado";
-
-setTimeout(()=>{
-$("copyBtn").textContent=
-"Copiar resumo";
-},1600);
-
-}catch(e){
-
-alert(text);
-
-}
-
+    setTimeout(()=>{
+      $("copyBtn").textContent=
+      "Copiar resumo";
+    },1600);
+  }catch(e){
+    alert(text);
+  }
 };
 
 $("restartBtn").onclick=()=>{
+  state={
+    topic:null,
+    question:null,
+    method:null
+  };
 
-state={
-topic:null,
-question:null,
-method:null
-};
+  localStorage.removeItem(
+    "enciclopedia-cigana-v9-jogo"
+  );
 
-localStorage.removeItem(
-"enciclopedia-cigana-v9-jogo"
-);
+  $("step2").classList.add("hidden");
+  $("step3").classList.add("hidden");
+  $("step4").classList.add("hidden");
 
-$("step2").classList.add("hidden");
-$("step3").classList.add("hidden");
-$("step4").classList.add("hidden");
+  setProgress(1);
 
-setProgress(1);
-
-window.scrollTo({
-top:0,
-behavior:"smooth"
-});
-
+  window.scrollTo({
+    top:0,
+    behavior:"smooth"
+  });
 };
 
 renderTopics();
