@@ -3299,5 +3299,605 @@ window.COMBINACOES_DOCUMENTADAS=[
     "categoria": "geral",
     "transcricao": "revisada visualmente",
     "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 6,
+    "carta2": 7,
+    "interpretacao_geral": "Enganos, intrigas e tensão mental;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 71,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 7,
+    "carta2": 6,
+    "interpretacao_geral": "Confusão causada por malícia e traição;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 71,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 8,
+    "interpretacao_geral": "Fim confuso, fase pesada e transformação dolorosa;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 72,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 8,
+    "carta2": 6,
+    "interpretacao_geral": "Dificuldades e incertezas após encerramentos;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 72,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 9,
+    "interpretacao_geral": "Alegria ofuscada por insegurança;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 72,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 9,
+    "carta2": 6,
+    "interpretacao_geral": "Felicidade passageira e emoções confusas;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 72,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 10,
+    "interpretacao_geral": "Corte brusco, tensão e rompimento inesperado;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 72,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 10,
+    "carta2": 6,
+    "interpretacao_geral": "Decisão difícil tomada em meio à confusão;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 72,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 11,
+    "interpretacao_geral": "Discussões, estresse e conflitos repetidos;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 73,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 11,
+    "carta2": 6,
+    "interpretacao_geral": "Tensão mental e ambiente conturbado;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 73,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 12,
+    "interpretacao_geral": "Ansiedade, fofocas e inquietação;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 73,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 12,
+    "carta2": 6,
+    "interpretacao_geral": "Conversas confusas e nervosismo;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 73,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 13,
+    "interpretacao_geral": "Insegurança diante de algo novo;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 73,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 13,
+    "carta2": 6,
+    "interpretacao_geral": "Imaturidade ou dúvidas em novos começos;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 73,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 14,
+    "interpretacao_geral": "Engano, falsidade e alerta redobrado;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 74,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 14,
+    "carta2": 6,
+    "interpretacao_geral": "Desconfiança, medo e armadilhas ocultas;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 74,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 15,
+    "interpretacao_geral": "Pressão emocional e proteção excessiva;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 74,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 15,
+    "carta2": 6,
+    "interpretacao_geral": "Ciúmes, domínio e clima pesado;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 74,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 16,
+    "interpretacao_geral": "Falta de clareza espiritual e desorientação;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 74,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 16,
+    "carta2": 6,
+    "interpretacao_geral": "A esperança retorna aos poucos após a confusão;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 74,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 17,
+    "interpretacao_geral": "Mudança incerta e instabilidade;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 75,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 17,
+    "carta2": 6,
+    "interpretacao_geral": "Transformações com dúvidas e adaptação difícil;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 75,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 18,
+    "interpretacao_geral": "Amizade abalada por incertezas;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 75,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 18,
+    "carta2": 6,
+    "interpretacao_geral": "Lealdade colocada à prova;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 75,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 19,
+    "interpretacao_geral": "Isolamento, frieza e solidão;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 75,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 19,
+    "carta2": 6,
+    "interpretacao_geral": "Distanciamento e dificuldade de se abrir;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 75,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 20,
+    "interpretacao_geral": "Vida social confusa e ambiente disperso;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 76,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 20,
+    "carta2": 6,
+    "interpretacao_geral": "Exposição a fofocas e instabilidade social;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 76,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 21,
+    "interpretacao_geral": "Bloqueios, atrasos e grande dificuldade;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 76,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 21,
+    "carta2": 6,
+    "interpretacao_geral": "Obstáculos prolongados e sensação de peso;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 76,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 22,
+    "interpretacao_geral": "Indecisão e caminhos nebulosos;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 76,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 22,
+    "carta2": 6,
+    "interpretacao_geral": "Escolhas confusas e medo de decidir;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 76,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 23,
+    "interpretacao_geral": "Preocupações, desgaste e ansiedade crescente;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 77,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 23,
+    "carta2": 6,
+    "interpretacao_geral": "Estresse mental e perdas silenciosas;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 77,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 24,
+    "interpretacao_geral": "Sentimentos confusos e instabilidade amorosa;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 77,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 24,
+    "carta2": 6,
+    "interpretacao_geral": "Dúvidas no amor e emoção embaralhada;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 77,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 25,
+    "interpretacao_geral": "Compromisso abalado ou relação indefinida;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 77,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 25,
+    "carta2": 6,
+    "interpretacao_geral": "Aliança envolta em dúvidas e inseguranças;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 77,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 26,
+    "interpretacao_geral": "Segredos, dúvidas e falta de entendimento;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 78,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 26,
+    "carta2": 6,
+    "interpretacao_geral": "Conhecimento oculto ou estudo difícil;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 78,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 27,
+    "interpretacao_geral": "Notícias confusas e documentos incertos;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 78,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 27,
+    "carta2": 6,
+    "interpretacao_geral": "Mensagem duvidosa ou mal interpretada;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 78,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 28,
+    "interpretacao_geral": "Homem indeciso ou emocionalmente confuso;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 78,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 28,
+    "carta2": 6,
+    "interpretacao_geral": "Dúvidas masculinas e incerteza na ação;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 78,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 29,
+    "interpretacao_geral": "Mulher insegura ou emocionalmente confusa;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 79,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 29,
+    "carta2": 6,
+    "interpretacao_geral": "Intuição abafada por dúvidas;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 79,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 30,
+    "interpretacao_geral": "Paz abalada e tensões ocultas;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 79,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 30,
+    "carta2": 6,
+    "interpretacao_geral": "Busca de serenidade em meio ao caos;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 79,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 31,
+    "interpretacao_geral": "Clareza surgindo após a confusão;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 79,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 31,
+    "carta2": 6,
+    "interpretacao_geral": "Superação de dúvidas e renovação da energia;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 79,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 32,
+    "interpretacao_geral": "Incertezas;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 80,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 32,
+    "carta2": 6,
+    "interpretacao_geral": "Conquistas sem esforços.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 80,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 33,
+    "interpretacao_geral": "Insegurança e confusão que não permitem encontrar a solução;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 80,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 33,
+    "carta2": 6,
+    "interpretacao_geral": "Soluções para amenizar pensamentos confusos.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 80,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 34,
+    "interpretacao_geral": "Dinheiro e materialismo;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 80,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 34,
+    "carta2": 6,
+    "interpretacao_geral": "Dificuldades financeiras, dúvidas e renovação da energia;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 80,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 35,
+    "interpretacao_geral": "Falta de estabilidade mental;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 81,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 35,
+    "carta2": 6,
+    "interpretacao_geral": "Instabilidade e dificuldade.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 81,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 6,
+    "carta2": 36,
+    "interpretacao_geral": "Dificuldades e dúvidas espirituais;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 81,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 36,
+    "carta2": 6,
+    "interpretacao_geral": "Vitória incerta.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 81,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
   }
 ];
