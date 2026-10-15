@@ -1,4 +1,4 @@
-/* Combinações documentadas por ordem, categoria e fonte. */
+/* Interpretações documentadas; registros históricos sinalizados quanto à fidelidade literal. */
 window.COMBINACOES_DOCUMENTADAS=[
   {
     "carta1": 1,
@@ -7,8 +7,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 5,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -17,8 +18,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 5,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -27,8 +29,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 5,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -37,8 +40,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 5,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -47,8 +51,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 5,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -57,8 +62,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 5,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -67,8 +73,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 6,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -77,8 +84,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 6,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -87,8 +95,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 6,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -97,8 +106,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 6,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -107,8 +117,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 6,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -117,8 +128,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 6,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -127,8 +139,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 7,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -137,8 +150,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 7,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -147,8 +161,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 7,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -157,8 +172,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 7,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -167,8 +183,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 7,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -177,8 +194,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 7,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -187,8 +205,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 8,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -197,8 +216,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 8,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -207,8 +227,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 8,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 12,
@@ -217,8 +238,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 8,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -227,8 +249,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 8,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 13,
@@ -237,8 +260,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 8,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -247,8 +271,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 9,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 14,
@@ -257,8 +282,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 9,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -267,8 +293,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 9,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 15,
@@ -277,8 +304,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 9,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -287,8 +315,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 9,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 16,
@@ -297,8 +326,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 9,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -307,8 +337,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 10,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 17,
@@ -317,8 +348,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 10,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -327,8 +359,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 10,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 18,
@@ -337,8 +370,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 10,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -347,8 +381,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 10,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 19,
@@ -357,8 +392,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 10,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -367,8 +403,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 11,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 20,
@@ -377,8 +414,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 11,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -387,8 +425,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 11,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 21,
@@ -397,8 +436,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 11,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -407,8 +447,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 11,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 22,
@@ -417,8 +458,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 11,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -427,8 +469,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 12,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 23,
@@ -437,8 +480,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 12,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -447,8 +491,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 12,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 24,
@@ -457,8 +502,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 12,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -467,8 +513,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 12,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 25,
@@ -477,8 +524,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 12,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -487,8 +535,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 13,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 26,
@@ -497,8 +546,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 13,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -507,8 +557,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 13,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 27,
@@ -517,8 +568,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 13,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -527,8 +579,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 13,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 28,
@@ -537,8 +590,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 13,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -547,8 +601,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 14,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 29,
@@ -557,8 +612,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 14,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -567,8 +623,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 14,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 30,
@@ -577,8 +634,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 14,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -587,8 +645,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 14,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 31,
@@ -597,8 +656,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 14,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -607,8 +667,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 15,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 32,
@@ -617,8 +678,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 15,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -627,8 +689,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 15,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 33,
@@ -637,8 +700,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 15,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -647,8 +711,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 15,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 34,
@@ -657,8 +722,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 15,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -667,8 +733,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 16,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 35,
@@ -677,8 +744,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 16,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 1,
@@ -687,8 +755,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 16,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 36,
@@ -697,8 +766,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 16,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -707,8 +777,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 18,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -717,8 +788,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 18,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -727,8 +799,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 18,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -737,8 +810,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 18,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -747,8 +821,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 19,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -757,8 +832,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 19,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -767,8 +843,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 19,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -777,8 +854,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 19,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -787,8 +865,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 19,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -797,8 +876,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 19,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -807,8 +887,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 20,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -817,8 +898,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 20,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -827,8 +909,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 20,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -837,8 +920,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 20,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -847,8 +931,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 20,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -857,8 +942,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 20,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -867,8 +953,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 21,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -877,8 +964,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 21,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -887,8 +975,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 21,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 12,
@@ -897,8 +986,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 21,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -907,8 +997,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 21,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 13,
@@ -917,8 +1008,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 21,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -927,8 +1019,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 22,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 14,
@@ -937,8 +1030,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 22,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -947,8 +1041,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 22,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 15,
@@ -957,8 +1052,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 22,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -967,8 +1063,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 22,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 16,
@@ -977,8 +1074,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 22,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -987,8 +1085,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 23,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 17,
@@ -997,8 +1096,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 23,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -1007,8 +1107,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 23,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 18,
@@ -1017,8 +1118,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 23,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -1027,8 +1129,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 23,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 19,
@@ -1037,8 +1140,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 23,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -1047,8 +1151,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 24,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 20,
@@ -1057,8 +1162,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 24,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -1067,8 +1173,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 24,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 21,
@@ -1077,8 +1184,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 24,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -1087,8 +1195,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 24,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 22,
@@ -1097,8 +1206,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 24,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -1107,8 +1217,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 25,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 23,
@@ -1117,8 +1228,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 25,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -1127,8 +1239,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 25,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 24,
@@ -1137,8 +1250,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 25,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -1147,8 +1261,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 25,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 25,
@@ -1157,8 +1272,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 25,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -1167,8 +1283,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 26,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 26,
@@ -1177,8 +1294,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 26,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -1187,8 +1305,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 26,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 27,
@@ -1197,8 +1316,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 26,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -1207,8 +1327,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 26,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 28,
@@ -1217,8 +1338,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 26,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -1227,8 +1349,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 27,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 29,
@@ -1237,8 +1360,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 27,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -1247,8 +1371,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 27,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 30,
@@ -1257,8 +1382,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 27,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -1267,8 +1393,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 27,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 31,
@@ -1277,8 +1404,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 27,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -1287,8 +1415,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 28,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 32,
@@ -1297,8 +1426,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 28,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -1307,8 +1437,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 28,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 33,
@@ -1317,8 +1448,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 28,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -1327,8 +1459,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 28,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 34,
@@ -1337,8 +1470,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 28,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -1347,8 +1481,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 29,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 35,
@@ -1357,8 +1492,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 29,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 2,
@@ -1367,8 +1503,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 29,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 36,
@@ -1377,8 +1514,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 29,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1387,8 +1525,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 31,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -1397,8 +1536,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 31,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1407,8 +1547,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 32,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -1417,8 +1558,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 32,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1427,8 +1569,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 32,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -1437,8 +1580,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 32,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1447,8 +1591,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 32,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -1457,8 +1602,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 32,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1467,8 +1613,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 33,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -1477,8 +1624,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 33,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1487,8 +1635,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 33,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -1497,8 +1646,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 33,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1507,8 +1657,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 33,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -1517,8 +1668,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 33,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1527,8 +1679,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 34,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -1537,8 +1690,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 34,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1547,8 +1701,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 34,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 12,
@@ -1557,8 +1712,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 34,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1567,8 +1723,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 34,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 13,
@@ -1577,8 +1734,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 34,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1587,8 +1745,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 35,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 14,
@@ -1597,8 +1756,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 35,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1607,8 +1767,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 35,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 15,
@@ -1617,8 +1778,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 35,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1627,8 +1789,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 35,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 16,
@@ -1637,8 +1800,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 35,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1647,8 +1811,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 36,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 17,
@@ -1657,8 +1822,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 36,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1667,8 +1833,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 36,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 18,
@@ -1677,8 +1844,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 36,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1687,8 +1855,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 36,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 19,
@@ -1697,8 +1866,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 36,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1707,8 +1877,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 37,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 20,
@@ -1717,8 +1888,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 37,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1727,8 +1899,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 37,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 21,
@@ -1737,8 +1910,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 37,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1747,8 +1921,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 37,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 22,
@@ -1757,8 +1932,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 37,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1767,8 +1943,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 38,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 23,
@@ -1777,8 +1954,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 38,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1787,8 +1965,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 38,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 24,
@@ -1797,8 +1976,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 38,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1807,8 +1987,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 38,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 25,
@@ -1817,8 +1998,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 38,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1827,8 +2009,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 39,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 26,
@@ -1837,8 +2020,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 39,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1847,8 +2031,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 39,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 27,
@@ -1857,8 +2042,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 39,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1867,8 +2053,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 39,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 28,
@@ -1877,8 +2064,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 39,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1887,8 +2075,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 40,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 29,
@@ -1897,8 +2086,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 40,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1907,8 +2097,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 40,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 30,
@@ -1917,8 +2108,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 40,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1927,8 +2119,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 40,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 31,
@@ -1937,8 +2130,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 40,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1947,8 +2141,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 41,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 32,
@@ -1957,8 +2152,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 41,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1967,8 +2163,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 41,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 33,
@@ -1977,8 +2174,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 41,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -1987,8 +2185,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 41,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 34,
@@ -1997,8 +2196,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 41,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -2007,8 +2207,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 42,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 35,
@@ -2017,8 +2218,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 42,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 3,
@@ -2027,8 +2229,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 42,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 36,
@@ -2037,8 +2240,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 42,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2047,8 +2251,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 45,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -2057,8 +2262,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 45,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2067,8 +2273,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 45,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -2077,8 +2284,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 45,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2087,8 +2295,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 45,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -2097,8 +2306,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 45,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2107,8 +2317,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 46,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -2117,8 +2328,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 46,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2127,8 +2339,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 46,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -2137,8 +2350,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 46,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2147,8 +2361,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 46,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -2157,8 +2372,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 46,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2167,8 +2383,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 47,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -2177,8 +2394,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 47,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2187,8 +2405,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 47,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 12,
@@ -2197,8 +2416,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 47,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2207,8 +2427,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 47,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 13,
@@ -2217,8 +2438,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 47,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2227,8 +2449,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 48,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 14,
@@ -2237,8 +2460,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 48,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2247,8 +2471,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 48,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 15,
@@ -2257,8 +2482,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 48,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2267,8 +2493,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 48,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 16,
@@ -2277,8 +2504,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 48,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2287,8 +2515,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 49,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 17,
@@ -2297,8 +2526,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 49,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2307,8 +2537,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 49,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 18,
@@ -2317,8 +2548,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 49,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2327,8 +2559,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 49,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 19,
@@ -2337,8 +2570,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 49,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2347,8 +2581,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 50,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 20,
@@ -2357,8 +2592,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 50,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2367,8 +2603,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 50,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 21,
@@ -2377,8 +2614,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 50,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2387,8 +2625,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 50,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 22,
@@ -2397,8 +2636,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 50,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2407,8 +2647,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 51,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 23,
@@ -2417,8 +2658,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 51,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2427,8 +2669,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 51,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 24,
@@ -2437,8 +2680,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 51,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2447,8 +2691,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 51,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 25,
@@ -2457,8 +2702,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 51,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2467,8 +2713,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 52,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 26,
@@ -2477,8 +2724,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 52,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2487,8 +2735,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 52,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 27,
@@ -2497,8 +2746,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 52,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2507,8 +2757,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 52,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 28,
@@ -2517,8 +2768,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 52,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2527,8 +2779,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 53,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 29,
@@ -2537,8 +2790,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 53,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2547,8 +2801,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 53,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 30,
@@ -2557,8 +2812,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 53,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2567,8 +2823,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 53,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 31,
@@ -2577,8 +2834,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 53,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2587,8 +2845,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 54,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 32,
@@ -2597,8 +2856,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 54,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2607,8 +2867,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 54,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 33,
@@ -2617,8 +2878,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 54,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2627,8 +2889,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 54,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 34,
@@ -2637,8 +2900,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 54,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2647,8 +2911,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 55,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 35,
@@ -2657,8 +2922,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 55,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 4,
@@ -2667,8 +2933,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 55,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 36,
@@ -2677,8 +2944,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 55,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Linguagem do documento; não representa constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Linguagem do documento; não representa constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -2687,8 +2955,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 58,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -2697,8 +2966,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 58,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -2707,8 +2977,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 58,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -2717,8 +2988,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 58,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -2727,8 +2999,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 59,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -2737,8 +3010,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 59,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -2747,8 +3021,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 59,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -2757,8 +3032,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 59,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -2767,8 +3043,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 59,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -2777,8 +3054,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 59,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -2787,8 +3065,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 60,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -2797,8 +3076,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 60,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -2807,8 +3087,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 60,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 12,
@@ -2817,8 +3098,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 60,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -2827,8 +3109,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 60,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 13,
@@ -2837,8 +3120,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 60,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -2847,8 +3131,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 61,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 14,
@@ -2857,8 +3142,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 61,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -2867,8 +3153,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 61,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 15,
@@ -2877,8 +3164,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 61,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -2887,8 +3175,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 61,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 16,
@@ -2897,8 +3186,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 61,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -2907,8 +3197,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 62,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 17,
@@ -2917,8 +3208,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 62,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -2927,8 +3219,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 62,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 18,
@@ -2937,8 +3230,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 62,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -2947,8 +3241,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 62,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 19,
@@ -2957,8 +3252,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 62,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -2967,8 +3263,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 63,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 20,
@@ -2977,8 +3274,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 63,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -2987,8 +3285,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 63,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 21,
@@ -2997,8 +3296,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 63,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -3007,8 +3307,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 63,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 22,
@@ -3017,8 +3318,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 63,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -3027,8 +3329,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 64,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 23,
@@ -3037,8 +3340,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 64,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -3047,8 +3351,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 64,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 24,
@@ -3057,8 +3362,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 64,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -3067,8 +3373,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 64,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 25,
@@ -3077,8 +3384,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 64,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -3087,8 +3395,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 65,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 26,
@@ -3097,8 +3406,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 65,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -3107,8 +3417,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 65,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 27,
@@ -3117,8 +3428,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 65,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -3127,8 +3439,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 65,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 28,
@@ -3137,8 +3450,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 65,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -3147,8 +3461,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 66,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 29,
@@ -3157,8 +3472,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 66,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -3167,8 +3483,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 66,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 30,
@@ -3177,8 +3494,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 66,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -3187,8 +3505,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 66,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 31,
@@ -3197,8 +3516,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 66,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -3207,8 +3527,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 67,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 32,
@@ -3217,8 +3538,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 67,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -3227,8 +3549,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 67,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 33,
@@ -3237,8 +3560,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 67,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -3247,8 +3571,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 67,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 34,
@@ -3257,8 +3582,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 67,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -3267,8 +3593,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 68,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 35,
@@ -3277,8 +3604,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 68,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 5,
@@ -3287,8 +3615,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 68,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 36,
@@ -3297,8 +3626,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 68,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3307,8 +3637,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 71,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -3317,8 +3648,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 71,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3327,8 +3659,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 72,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -3337,8 +3670,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 72,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3347,8 +3681,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 72,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -3357,8 +3692,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 72,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3367,8 +3703,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 72,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -3377,8 +3714,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 72,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3387,8 +3725,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 73,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -3397,8 +3736,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 73,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3407,8 +3747,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 73,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 12,
@@ -3417,8 +3758,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 73,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3427,8 +3769,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 73,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 13,
@@ -3437,8 +3780,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 73,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3447,8 +3791,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 74,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 14,
@@ -3457,8 +3802,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 74,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3467,8 +3813,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 74,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 15,
@@ -3477,8 +3824,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 74,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3487,8 +3835,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 74,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 16,
@@ -3497,8 +3846,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 74,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3507,8 +3857,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 75,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 17,
@@ -3517,8 +3868,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 75,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3527,8 +3879,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 75,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 18,
@@ -3537,8 +3890,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 75,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3547,8 +3901,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 75,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 19,
@@ -3557,8 +3912,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 75,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3567,8 +3923,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 76,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 20,
@@ -3577,8 +3934,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 76,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3587,8 +3945,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 76,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 21,
@@ -3597,8 +3956,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 76,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3607,8 +3967,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 76,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 22,
@@ -3617,8 +3978,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 76,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3627,8 +3989,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 77,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 23,
@@ -3637,8 +4000,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 77,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3647,8 +4011,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 77,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 24,
@@ -3657,8 +4022,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 77,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3667,8 +4033,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 77,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 25,
@@ -3677,8 +4044,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 77,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3687,8 +4055,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 78,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 26,
@@ -3697,8 +4066,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 78,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3707,8 +4077,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 78,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 27,
@@ -3717,8 +4088,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 78,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3727,8 +4099,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 78,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 28,
@@ -3737,8 +4110,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 78,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3747,8 +4121,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 79,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 29,
@@ -3757,8 +4132,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 79,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3767,8 +4143,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 79,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 30,
@@ -3777,8 +4154,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 79,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3787,8 +4165,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 79,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 31,
@@ -3797,8 +4176,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 79,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3807,8 +4187,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 80,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 32,
@@ -3817,8 +4198,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 80,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3827,8 +4209,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 80,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 33,
@@ -3837,8 +4220,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 80,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3847,8 +4231,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 80,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 34,
@@ -3857,8 +4242,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 80,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3867,8 +4253,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 81,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 35,
@@ -3877,8 +4264,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 81,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 6,
@@ -3887,8 +4275,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 81,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 36,
@@ -3897,8 +4286,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 81,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -3907,8 +4297,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 85,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -3917,8 +4308,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 85,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -3927,8 +4319,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 85,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -3937,8 +4330,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 85,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -3947,8 +4341,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 85,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -3957,8 +4352,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 85,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -3967,8 +4363,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 86,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -3977,8 +4374,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 86,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -3987,8 +4385,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 86,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 12,
@@ -3997,8 +4396,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 86,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4007,8 +4407,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 86,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 13,
@@ -4017,8 +4418,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 86,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4027,8 +4429,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 87,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 14,
@@ -4037,8 +4440,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 87,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4047,8 +4451,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 87,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 15,
@@ -4057,8 +4462,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 87,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4067,8 +4473,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 87,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 16,
@@ -4077,8 +4484,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 87,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4087,8 +4495,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 88,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 17,
@@ -4097,8 +4506,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 88,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4107,8 +4517,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 88,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 18,
@@ -4117,8 +4528,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 88,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4127,8 +4539,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 88,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 19,
@@ -4137,8 +4550,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 88,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4147,8 +4561,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 89,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 20,
@@ -4157,8 +4572,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 89,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4167,8 +4583,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 89,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 21,
@@ -4177,8 +4594,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 89,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4187,8 +4605,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 89,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 22,
@@ -4197,8 +4616,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 89,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4207,8 +4627,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 90,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 23,
@@ -4217,8 +4638,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 90,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4227,8 +4649,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 90,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 24,
@@ -4237,8 +4660,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 90,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4247,8 +4671,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 90,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 25,
@@ -4257,8 +4682,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 90,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4267,8 +4693,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 91,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 26,
@@ -4277,8 +4704,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 91,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4287,8 +4715,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 91,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 27,
@@ -4297,8 +4726,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 91,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4307,8 +4737,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 91,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 28,
@@ -4317,8 +4748,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 91,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4327,8 +4759,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 92,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 29,
@@ -4337,8 +4770,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 92,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4347,8 +4781,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 92,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 30,
@@ -4357,8 +4792,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 92,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4367,8 +4803,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 92,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 31,
@@ -4377,8 +4814,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 92,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4387,8 +4825,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 93,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 32,
@@ -4397,8 +4836,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 93,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4407,8 +4847,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 93,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 33,
@@ -4417,8 +4858,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 93,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4427,8 +4869,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 93,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 34,
@@ -4437,8 +4880,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 93,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4447,8 +4891,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 94,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 35,
@@ -4457,8 +4902,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 94,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 7,
@@ -4467,8 +4913,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 94,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 36,
@@ -4477,8 +4924,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 94,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4487,8 +4935,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 98,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -4497,8 +4946,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 98,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4507,8 +4957,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 98,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -4517,8 +4968,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 98,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4527,8 +4979,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 99,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -4537,8 +4990,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 99,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4547,8 +5001,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 99,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 12,
@@ -4557,8 +5012,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 99,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4567,8 +5023,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 99,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 13,
@@ -4577,8 +5034,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 99,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4587,8 +5045,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 100,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 14,
@@ -4597,8 +5056,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 100,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4607,8 +5067,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 100,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 15,
@@ -4617,8 +5078,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 100,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4627,8 +5089,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 100,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 16,
@@ -4637,8 +5100,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 100,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4647,8 +5111,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 101,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 17,
@@ -4657,8 +5122,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 101,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4667,8 +5133,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 101,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 18,
@@ -4677,8 +5144,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 101,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4687,8 +5155,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 101,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 19,
@@ -4697,8 +5166,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 101,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4707,8 +5177,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 102,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 20,
@@ -4717,8 +5188,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 102,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4727,8 +5199,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 102,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 21,
@@ -4737,8 +5210,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 102,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4747,8 +5221,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 102,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 22,
@@ -4757,8 +5232,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 102,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4767,8 +5243,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 103,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 23,
@@ -4777,8 +5254,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 103,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4787,8 +5265,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 103,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 24,
@@ -4797,8 +5276,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 103,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4807,8 +5287,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 103,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 25,
@@ -4817,8 +5298,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 103,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4827,8 +5309,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 104,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 26,
@@ -4837,8 +5320,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 104,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4847,8 +5331,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 104,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 27,
@@ -4857,8 +5342,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 104,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4867,8 +5353,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 104,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 28,
@@ -4877,8 +5364,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 104,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4887,8 +5375,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 105,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 29,
@@ -4897,8 +5386,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 105,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4907,8 +5397,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 105,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 30,
@@ -4917,8 +5408,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 105,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4927,8 +5419,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 105,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 31,
@@ -4937,8 +5430,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 105,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4947,8 +5441,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 106,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 32,
@@ -4957,8 +5452,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 106,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4967,8 +5463,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 106,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 33,
@@ -4977,8 +5474,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 106,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -4987,8 +5485,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 106,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 34,
@@ -4997,8 +5496,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 106,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -5007,8 +5507,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 107,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 35,
@@ -5017,8 +5518,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 107,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 8,
@@ -5027,8 +5529,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 107,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 36,
@@ -5037,8 +5540,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 107,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não confirmação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5047,8 +5551,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 111,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5057,8 +5562,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 111,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5067,8 +5573,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 112,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -5077,8 +5584,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 112,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5087,8 +5595,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 112,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 12,
@@ -5097,8 +5606,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 112,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5107,8 +5617,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 112,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 13,
@@ -5117,8 +5628,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 112,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5127,8 +5639,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 113,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 14,
@@ -5137,8 +5650,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 113,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5147,8 +5661,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 113,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 15,
@@ -5157,8 +5672,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 113,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5167,8 +5683,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 113,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 16,
@@ -5177,8 +5694,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 113,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5187,8 +5705,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 114,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 17,
@@ -5197,8 +5716,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 114,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5207,8 +5727,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 114,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 18,
@@ -5217,8 +5738,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 114,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5227,8 +5749,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 114,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 19,
@@ -5237,8 +5760,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 114,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5247,8 +5771,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 115,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 20,
@@ -5257,8 +5782,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 115,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5267,8 +5793,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 115,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 21,
@@ -5277,8 +5804,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 115,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5287,8 +5815,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 115,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 22,
@@ -5297,8 +5826,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 115,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5307,8 +5837,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 116,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 23,
@@ -5317,8 +5848,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 116,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5327,8 +5859,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 116,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 24,
@@ -5337,8 +5870,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 116,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5347,8 +5881,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 116,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 25,
@@ -5357,8 +5892,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 116,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5367,8 +5903,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 117,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 26,
@@ -5377,8 +5914,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 117,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5387,8 +5925,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 117,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 27,
@@ -5397,8 +5936,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 117,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5407,8 +5947,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 117,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 28,
@@ -5417,8 +5958,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 117,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5427,8 +5969,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 118,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 29,
@@ -5437,8 +5980,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 118,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5447,8 +5991,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 118,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 30,
@@ -5457,8 +6002,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 118,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5467,8 +6013,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 118,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 31,
@@ -5477,8 +6024,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 118,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5487,8 +6035,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 119,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 32,
@@ -5497,8 +6046,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 119,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5507,8 +6057,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 119,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 33,
@@ -5517,8 +6068,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 119,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5527,8 +6079,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 119,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 34,
@@ -5537,8 +6090,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 119,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5547,8 +6101,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 120,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 35,
@@ -5557,8 +6112,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 120,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 9,
@@ -5567,8 +6123,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 120,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 36,
@@ -5577,8 +6134,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 120,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Interpretação simbólica do material.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5587,8 +6145,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 125,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -5597,8 +6156,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 125,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5607,8 +6167,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 125,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 12,
@@ -5617,8 +6178,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 125,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5627,8 +6189,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 125,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 13,
@@ -5637,8 +6200,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 125,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5647,8 +6211,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 126,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 14,
@@ -5657,8 +6222,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 126,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5667,8 +6233,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 126,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 15,
@@ -5677,8 +6244,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 126,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5687,8 +6255,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 126,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 16,
@@ -5697,8 +6266,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 126,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5707,8 +6277,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 127,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 17,
@@ -5717,8 +6288,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 127,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5727,8 +6299,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 127,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 18,
@@ -5737,8 +6310,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 127,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5747,8 +6321,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 127,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 19,
@@ -5757,8 +6332,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 127,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5767,8 +6343,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 128,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 20,
@@ -5777,8 +6354,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 128,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5787,8 +6365,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 128,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 21,
@@ -5797,8 +6376,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 128,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5807,8 +6387,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 128,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 22,
@@ -5817,8 +6398,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 128,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5827,8 +6409,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 129,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 23,
@@ -5837,8 +6420,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 129,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5847,8 +6431,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 129,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 24,
@@ -5857,8 +6442,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 129,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5867,8 +6453,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 129,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 25,
@@ -5877,8 +6464,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 129,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5887,8 +6475,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 130,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 26,
@@ -5897,8 +6486,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 130,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5907,8 +6497,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 130,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 27,
@@ -5917,8 +6508,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 130,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5927,8 +6519,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 130,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 28,
@@ -5937,8 +6530,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 130,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5947,8 +6541,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 131,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 29,
@@ -5957,8 +6552,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 131,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5967,8 +6563,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 131,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 30,
@@ -5977,8 +6574,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 131,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -5987,8 +6585,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 131,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 31,
@@ -5997,8 +6596,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 131,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -6007,8 +6607,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 132,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 32,
@@ -6017,8 +6618,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 132,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -6027,8 +6629,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 132,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 33,
@@ -6037,8 +6640,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 132,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -6047,8 +6651,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 132,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 34,
@@ -6057,8 +6662,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 132,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -6067,8 +6673,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 133,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 35,
@@ -6077,8 +6684,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 133,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 10,
@@ -6087,8 +6695,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 133,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 36,
@@ -6097,8 +6706,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 133,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6107,8 +6717,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 138,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 12,
@@ -6117,8 +6728,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 138,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6127,8 +6739,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 138,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 13,
@@ -6137,8 +6750,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 138,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6147,8 +6761,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 139,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 14,
@@ -6157,8 +6772,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 139,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6167,8 +6783,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 139,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 15,
@@ -6177,8 +6794,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 139,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6187,8 +6805,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 139,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 16,
@@ -6197,8 +6816,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 139,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6207,8 +6827,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 140,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 17,
@@ -6217,8 +6838,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 140,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6227,8 +6849,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 140,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 18,
@@ -6237,8 +6860,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 140,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6247,8 +6871,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 140,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 19,
@@ -6257,8 +6882,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 140,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6267,8 +6893,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 141,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 20,
@@ -6277,8 +6904,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 141,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6287,8 +6915,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 141,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 21,
@@ -6297,8 +6926,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 141,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6307,8 +6937,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 141,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 22,
@@ -6317,8 +6948,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 141,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6327,8 +6959,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 142,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 23,
@@ -6337,8 +6970,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 142,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6347,8 +6981,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 142,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 24,
@@ -6357,8 +6992,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 142,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6367,8 +7003,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 142,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 25,
@@ -6377,8 +7014,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 142,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6387,8 +7025,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 143,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 26,
@@ -6397,8 +7036,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 143,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6407,8 +7047,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 143,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 27,
@@ -6417,8 +7058,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 143,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6427,8 +7069,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 143,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 28,
@@ -6437,8 +7080,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 143,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6447,8 +7091,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 144,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 29,
@@ -6457,8 +7102,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 144,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6467,8 +7113,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 144,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 30,
@@ -6477,8 +7124,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 144,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6487,8 +7135,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 144,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 31,
@@ -6497,8 +7146,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 144,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6507,8 +7157,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 145,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 32,
@@ -6517,8 +7168,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 145,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6527,8 +7179,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 145,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 33,
@@ -6537,8 +7190,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 145,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6547,8 +7201,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 145,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 34,
@@ -6557,8 +7212,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 145,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6567,8 +7223,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 146,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 35,
@@ -6577,8 +7234,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 146,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 11,
@@ -6587,8 +7245,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 146,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 36,
@@ -6597,8 +7256,9 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 146,
     "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Associação simbólica da fonte, não constatação factual."
+    "transcricao": "conferência literal pendente",
+    "observacao": "Associação simbólica da fonte, não constatação factual.",
+    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
   },
   {
     "carta1": 24,
