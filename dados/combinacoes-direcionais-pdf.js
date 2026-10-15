@@ -2679,5 +2679,625 @@ window.COMBINACOES_DOCUMENTADAS=[
     "categoria": "geral",
     "transcricao": "revisada visualmente",
     "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 6,
+    "interpretacao_geral": "Doença escondida, de difícil diagnóstico;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 58,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 6,
+    "carta2": 5,
+    "interpretacao_geral": "Doença mental, confusão mental;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 58,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 7,
+    "interpretacao_geral": "Saúde/doença dos órgãos genitais e reprodutivos;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 58,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 7,
+    "carta2": 5,
+    "interpretacao_geral": "Traição antiga, amante fixo;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 58,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 8,
+    "interpretacao_geral": "Doença séria, pode não ter cura;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 59,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 5,
+    "interpretacao_geral": "Mudança completa de vida;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 59,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 9,
+    "interpretacao_geral": "Boa saúde;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 59,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 9,
+    "carta2": 5,
+    "interpretacao_geral": "Equilíbrio e felicidade fortalecendo a segurança;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 59,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 10,
+    "interpretacao_geral": "Cirurgia, procedimento invasivo;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 59,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 5,
+    "interpretacao_geral": "Corte da saúde, da segurança física, do crescimento;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 59,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 11,
+    "interpretacao_geral": "Doença de longa duração, doença recorrente;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 60,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 5,
+    "interpretacao_geral": "Dor física, exercício pesado;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 60,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 12,
+    "interpretacao_geral": "Segurança e crescimento nas comunicações;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 60,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 12,
+    "carta2": 5,
+    "interpretacao_geral": "Natureza. Conversas edificantes;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 60,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 13,
+    "interpretacao_geral": "Mudança boa na saúde. Cura total;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 60,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 13,
+    "carta2": 5,
+    "interpretacao_geral": "Nova fase de estabilidade;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 60,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 14,
+    "interpretacao_geral": "Doença que se esconde. Armadilhas físicas;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 61,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 14,
+    "carta2": 5,
+    "interpretacao_geral": "Doença diagnosticada errada;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 61,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 15,
+    "interpretacao_geral": "Obesidade, distúrbio alimentar;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 61,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 15,
+    "carta2": 5,
+    "interpretacao_geral": "Administrar a situação com mais segurança;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 61,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 16,
+    "interpretacao_geral": "Tratamento espiritual;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 61,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 16,
+    "carta2": 5,
+    "interpretacao_geral": "Cura física;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 61,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 17,
+    "interpretacao_geral": "Recuperação física;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 62,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 17,
+    "carta2": 5,
+    "interpretacao_geral": "Ir em busca de crescimento e estabilidade;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 62,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 18,
+    "interpretacao_geral": "Equipe médica, profissões de apoio à saúde;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 62,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 18,
+    "carta2": 5,
+    "interpretacao_geral": "Alma gêmea, amizade forte e verdadeira;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 62,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 19,
+    "interpretacao_geral": "Crescimento interior;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 62,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 19,
+    "carta2": 5,
+    "interpretacao_geral": "Planos individuais;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 62,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 20,
+    "interpretacao_geral": "Ligado à natureza, buscar a natureza;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 63,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 20,
+    "carta2": 5,
+    "interpretacao_geral": "Segurança social.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 63,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 21,
+    "interpretacao_geral": "Problemas sérios de saúde;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 63,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 21,
+    "carta2": 5,
+    "interpretacao_geral": "Fadiga e cansaço. Insegurança;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 63,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 22,
+    "interpretacao_geral": "Escolhas importantes para a saúde e para a vida;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 63,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 22,
+    "carta2": 5,
+    "interpretacao_geral": "Novos rumos trazendo crescimento e evolução;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 63,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 23,
+    "interpretacao_geral": "Saúde desgastada. Perda de energia;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 64,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 23,
+    "carta2": 5,
+    "interpretacao_geral": "Doença ou desgaste se desenvolvendo aos poucos.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 64,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 24,
+    "interpretacao_geral": "Amor verdadeiro e duradouro.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 64,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 24,
+    "carta2": 5,
+    "interpretacao_geral": "Sentimento que cresce e se fortalece.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 64,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 25,
+    "interpretacao_geral": "Relacionamento duradouro e compromisso sólido.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 64,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 25,
+    "carta2": 5,
+    "interpretacao_geral": "União estável, vínculo de longa duração.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 64,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 26,
+    "interpretacao_geral": "Conhecimentos ocultos ligados à saúde e ao crescimento.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 65,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 26,
+    "carta2": 5,
+    "interpretacao_geral": "Estudos e aprendizados que trazem cura.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 65,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 27,
+    "interpretacao_geral": "Notícias ou documentos ligados à saúde.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 65,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 27,
+    "carta2": 5,
+    "interpretacao_geral": "Exames, laudos ou mensagens trazendo esclarecimento.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 65,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 28,
+    "interpretacao_geral": "Homem doente. Doenças físicas, emocionais e espirituais.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 65,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 28,
+    "carta2": 5,
+    "interpretacao_geral": "Homem que cura, curandeiro, médico, ligado à área médica.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 65,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 29,
+    "interpretacao_geral": "Mulher doente. Doenças físicas, emocionais e espirituais.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 66,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 29,
+    "carta2": 5,
+    "interpretacao_geral": "Mulher que cura, curandeira, médica, ligada à área médica.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 66,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 30,
+    "interpretacao_geral": "Saúde sexual, doença sexual.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 66,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 30,
+    "carta2": 5,
+    "interpretacao_geral": "Sabedoria e uma certa frieza trazendo crescimento.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 66,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 31,
+    "interpretacao_geral": "Vitalidade, cura e recuperação.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 66,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 31,
+    "carta2": 5,
+    "interpretacao_geral": "Energia e clareza fortalecendo a vida.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 66,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 32,
+    "interpretacao_geral": "Sensibilidade e emoções ligadas à saúde.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 67,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 32,
+    "carta2": 5,
+    "interpretacao_geral": "Equilíbrio emocional trazendo crescimento.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 67,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 33,
+    "interpretacao_geral": "Solução, cura e resposta segura.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 67,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 33,
+    "carta2": 5,
+    "interpretacao_geral": "Crescimento decisivo e estabilidade assegurada.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 67,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 34,
+    "interpretacao_geral": "Procurar por estabilidade para ter prosperidade.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 67,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 34,
+    "carta2": 5,
+    "interpretacao_geral": "Entrada de dinheiro trazendo crescimento.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 67,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 35,
+    "interpretacao_geral": "Crescimento seguro. Saúde estável.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 68,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 35,
+    "carta2": 5,
+    "interpretacao_geral": "Segurança que traz crescimento.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 68,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 36,
+    "interpretacao_geral": "Pessoa, situação de muita fé. Dores físicas frequentes.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 68,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
+  },
+  {
+    "carta1": 36,
+    "carta2": 5,
+    "interpretacao_geral": "Finalização trazendo segurança.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 68,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica da fonte, não diagnóstico nem previsão factual."
   }
 ];
