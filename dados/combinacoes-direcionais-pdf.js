@@ -5039,5 +5039,545 @@ window.COMBINACOES_DOCUMENTADAS=[
     "categoria": "geral",
     "transcricao": "revisada visualmente",
     "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 9,
+    "carta2": 10,
+    "interpretacao_geral": "Corte brusco em relação agradável ou convite cancelado;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 111,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 10,
+    "carta2": 9,
+    "interpretacao_geral": "Decisão rápida trazendo alívio ou rompimento.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 111,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 11,
+    "interpretacao_geral": "Conflitos em relações afetivas ou tensão na sedução;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 112,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 11,
+    "carta2": 9,
+    "interpretacao_geral": "Discussões repetidas envolvendo prazer ou autoestima.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 112,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 12,
+    "interpretacao_geral": "Convites, encontros, flerte e conversas agradáveis;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 112,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 12,
+    "carta2": 9,
+    "interpretacao_geral": "Romance leve, alegria social ou boas notícias.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 112,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 13,
+    "interpretacao_geral": "Novo amor, surpresa delicada ou início feliz;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 112,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 13,
+    "carta2": 9,
+    "interpretacao_geral": "Inocência, alegria e presente inesperado.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 112,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 14,
+    "interpretacao_geral": "Gentileza falsa, interesse oculto ou armadilha charmosa;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 113,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 14,
+    "carta2": 9,
+    "interpretacao_geral": "Cautela com elogios e ofertas tentadoras.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 113,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 15,
+    "interpretacao_geral": "Presente valioso, proteção ou afeto possessivo;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 113,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 15,
+    "carta2": 9,
+    "interpretacao_geral": "Generosidade, apoio forte ou ciúme disfarçado.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 113,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 16,
+    "interpretacao_geral": "Realização, encanto espiritual e boa inspiração;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 113,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 16,
+    "carta2": 9,
+    "interpretacao_geral": "Esperança, brilho e felicidade.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 113,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 17,
+    "interpretacao_geral": "Mudanças felizes, renovação e boa surpresa;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 114,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 17,
+    "carta2": 9,
+    "interpretacao_geral": "Transformação positiva e presente da vida.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 114,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 18,
+    "interpretacao_geral": "Amizade sincera, lealdade e apoio afetivo;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 114,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 18,
+    "carta2": 9,
+    "interpretacao_geral": "Companheirismo, carinho e convivência feliz.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 114,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 19,
+    "interpretacao_geral": "Elegância reservada, autoestima e reconhecimento;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 114,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 19,
+    "carta2": 9,
+    "interpretacao_geral": "Alegria mais contida, respeito e proteção.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 114,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 20,
+    "interpretacao_geral": "Sucesso social, convite, festa ou popularidade;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 115,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 20,
+    "carta2": 9,
+    "interpretacao_geral": "Encontros felizes e harmonia social.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 115,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 21,
+    "interpretacao_geral": "Prazeres bloqueados, demora em convite ou frustração;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 115,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 21,
+    "carta2": 9,
+    "interpretacao_geral": "Obstáculos para a felicidade ou distância emocional.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 115,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 22,
+    "interpretacao_geral": "Escolha afetiva, convite importante ou novas possibilidades;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 115,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 22,
+    "carta2": 9,
+    "interpretacao_geral": "Decisões trazem alegria e novos encontros.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 115,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 23,
+    "interpretacao_geral": "Desgaste emocional, perda de alegria ou decepção;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 116,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 23,
+    "carta2": 9,
+    "interpretacao_geral": "Ansiedade corroendo prazeres e relações.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 116,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 24,
+    "interpretacao_geral": "Amor, romance, charme e felicidade afetiva;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 116,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 24,
+    "carta2": 9,
+    "interpretacao_geral": "Declaração, carinho e alegria amorosa.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 116,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 25,
+    "interpretacao_geral": "Pedido, aliança, compromisso ou união feliz;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 116,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 25,
+    "carta2": 9,
+    "interpretacao_geral": "Relação harmoniosa, pacto afetivo ou presente simbólico.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 116,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 26,
+    "interpretacao_geral": "Talento escondido, discrição ou presente em segredo;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 117,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 26,
+    "carta2": 9,
+    "interpretacao_geral": "Descoberta agradável, estudo prazeroso ou sigilo.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 117,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 27,
+    "interpretacao_geral": "Convite, mensagem carinhosa ou notícia feliz;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 117,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 27,
+    "carta2": 9,
+    "interpretacao_geral": "Comunicação leve, elogio ou boa novidade.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 117,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 28,
+    "interpretacao_geral": "Homem gentil, charmoso ou presenteador;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 117,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 28,
+    "carta2": 9,
+    "interpretacao_geral": "Atitude amorosa, conquista ou alegria trazida por um homem.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 117,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 29,
+    "interpretacao_geral": "Mulher encantadora, elegante e acolhedora;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 118,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 29,
+    "carta2": 9,
+    "interpretacao_geral": "Sensibilidade, charme e alegria trazida por uma mulher.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 118,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 30,
+    "interpretacao_geral": "Paz, harmonia, sensualidade e maturidade afetiva;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 118,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 30,
+    "carta2": 9,
+    "interpretacao_geral": "Serenidade, beleza e prazer equilibrado.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 118,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 31,
+    "interpretacao_geral": "Sucesso, felicidade radiante e realização;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 118,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 31,
+    "carta2": 9,
+    "interpretacao_geral": "Clareza, brilho pessoal e sorte plena.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 118,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 32,
+    "interpretacao_geral": "Romance, encanto e reconhecimento emocional;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 119,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 32,
+    "carta2": 9,
+    "interpretacao_geral": "Sonhos realizados e alegria no amor.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 119,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 33,
+    "interpretacao_geral": "Solução feliz, oportunidade e portas abertas;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 119,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 33,
+    "carta2": 9,
+    "interpretacao_geral": "Conquista importante e realização positiva.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 119,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 34,
+    "interpretacao_geral": "Prosperidade, abundância e alegria material;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 119,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 34,
+    "carta2": 9,
+    "interpretacao_geral": "Ganhos, presentes e satisfação financeira.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 119,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 35,
+    "interpretacao_geral": "Felicidade estável, segurança e relações duradouras;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 120,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 35,
+    "carta2": 9,
+    "interpretacao_geral": "Estabilidade em alegrias, afetos e conquistas.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 120,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 9,
+    "carta2": 36,
+    "interpretacao_geral": "Alegria com aprendizado, fé e superação;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 120,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 36,
+    "carta2": 9,
+    "interpretacao_geral": "Alívio após dificuldades e bênçãos recebidas.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 120,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica do material."
   }
 ];
