@@ -66,7 +66,7 @@ const nome=c=>String(c.id).padStart(2,"0")+" · "+c.nome;
 const esc=s=>String(s).replace(/[&<>"]/g,x=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[x]));
 function mostrar(){const q=document.querySelector("#busca").value.toLocaleLowerCase("pt-BR"),f=document.querySelector("#filtro").value;const itens=cartas.filter(c=>(nome(c)+" "+Object.values(c).join(" ")).toLocaleLowerCase("pt-BR").includes(q)&&(!f||c[f]));document.querySelector("#contagem").textContent=itens.length+" cartas encontradas";document.querySelector("#lista").innerHTML=itens.map(c=>'<article class="card"><h3>'+esc(nome(c))+'</h3><p>'+esc(c.geral)+'</p><details><summary>Potenciais favoráveis e atenção</summary><p><strong>Favorável:</strong> '+esc(c.favoravel)+'</p><p><strong>Atenção:</strong> '+esc(c.atencao)+'</p></details><details><summary>Conselho de interpretação</summary><p>'+esc(c.conselho)+'</p></details></article>').join("")}
 for(const t of document.querySelectorAll("[data-tab]"))t.onclick=()=>{for(const b of document.querySelectorAll("[data-tab]"))b.setAttribute("aria-selected",String(b===t));for(const s of ["cartas","combinacoes","orientacoes"])document.getElementById(s).classList.toggle("hidden",s!==t.dataset.tab)};
-for(const el of ["busca","filtro"])document.getElementById(el).addEventListener("input",mostrar);
+for(const el of ["busca","filtro"])document.getElementById(el).addEventListener("input",()=>((window.mostrar||mostrar)()));
 for(const id of ["carta1","carta2"]){const s=document.getElementById(id);s.innerHTML=cartas.map(c=>'<option value="'+c.id+'">'+esc(nome(c))+'</option>').join("")}document.getElementById("carta2").value="24";
 function leitura(){const a=cartas[+document.getElementById("carta1").value-1],b=cartas[+document.getElementById("carta2").value-1];document.getElementById("leitura").innerHTML='<div class="panel"><h3>'+esc(a.nome)+" → "+esc(b.nome)+'</h3><p><strong>Primeira carta (assunto):</strong> '+esc(a.geral)+'</p><p><strong>Segunda carta (modificação):</strong> '+esc(b.geral)+'</p><p><strong>Conselho de análise:</strong> '+esc(a.conselho)+" "+esc(b.conselho)+'</p><p class="muted">Esta é uma leitura estruturada dos significados individuais, não uma combinação específica documental. A transcrição e indexação integral das combinações dos PDFs está pendente.</p></div>'}
 document.getElementById("carta1").onchange=leitura;document.getElementById("carta2").onchange=leitura;document.getElementById("inverter").onclick=()=>{const a=document.getElementById("carta1"),b=document.getElementById("carta2");[a.value,b.value]=[b.value,a.value];leitura()};mostrar();leitura();
@@ -121,8 +121,7 @@ window.mostrar= function(){
  '<details><summary>Aspectos e conselhos contextuais</summary><p><strong>Favorável:</strong> '+safe(c.favoravel)+'</p><p><strong>Atenção:</strong> '+safe(c.atencao)+'</p><p><strong>Dica:</strong> '+safe(c.conselho)+'</p><p class="muted">Dicas redigidas como aplicação interpretativa, não como citação do guia.</p></details>'+
  '<p class="muted">Fonte das categorias: '+safe(c.fonte)+'</p></article>').join("");
  };
-document.getElementById("busca").addEventListener("input",window.mostrar);
-document.getElementById("filtro").addEventListener("input",window.mostrar);
+// Os filtros utilizam os listeners do script inicial, que chamam window.mostrar.
 window.mostrar();leitura();
 })();
 </script><script>
@@ -139,10 +138,10 @@ function atualizar(){
  const c1=cartas[a-1],c2=cartas[b-1];
  saida.innerHTML='<div class="panel"><h3>'+safe(c1.nome)+' → '+safe(c2.nome)+'</h3>'+
  '<p class="muted">Interpretação específica documentada: '+matched.length+' registro(s)</p>'+
- matched.map(x=>'<p><strong>Interpretação geral:</strong> '+safe(x.interpretacao_geral)+'</p><p class="muted">Fonte: '+safe(x.fonte)+', página '+x.pagina+'.</p>').join('')+
+ matched.map(x=>'<div class="card"><p><strong>'+safe(x.categoria||'geral')+':</strong> '+safe(x.interpretacao_geral)+'</p><p class="muted">Fonte: '+safe(x.fonte)+', página '+x.pagina+'.</p>'+(x.auditoria_fidelidade?'<p class="muted">Revisão textual: '+safe(x.transcricao||'pendente')+'.</p>':'')+'</div>').join('')+
  (window.VARIACOES_COMBINACOES_DOCUMENTADAS||[]).filter(x=>x.carta1===a&&x.carta2===b).map(x=>'<details><summary>Variação documentada (página '+x.pagina+')</summary><p>'+safe(x.interpretacao_geral)+'</p><p class="muted">Fonte: '+safe(x.fonte)+', página '+x.pagina+'; leitura anterior preservada da página '+x.pagina_original+'.</p></details>').join('')+
  (window.AUDITORIA_OCORRENCIAS_REPETIDAS||[]).filter(x=>x.carta1===a&&x.carta2===b).map(x=>'<details><summary>Outra ocorrência da mesma interpretação — '+safe(x.fonte)+', p. '+x.pagina+'</summary><p>'+safe(x.texto)+'</p><p class="muted">Categoria da fonte: '+safe(x.categoria)+'. Registro consolidado sem perda da referência.</p></details>').join('')+
- '<p class="muted">As demais categorias só serão exibidas quando constarem da fonte. A redação do PDF é apresentada como interpretação oracular, não como certeza factual.</p></div>';
+ '<p class="muted">Cada interpretação identifica sua categoria, fonte e página; esta consulta não comprova fatos reais.</p></div>';
 }
 seletor1.addEventListener('change',atualizar);
 seletor2.addEventListener('change',atualizar);
