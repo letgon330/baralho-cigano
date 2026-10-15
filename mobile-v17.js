@@ -176,6 +176,26 @@
     window.addEventListener("keydown", event => {
       if (event.key === "Escape") closeMenu();
     });
+
+    // V19: acesso ao manual sem substituir os métodos nem os dados existentes.
+    const methodsPanel = document.querySelector("#view-metodos .panel");
+    if (methodsPanel && !document.getElementById("methodGuideV19")) {
+      const box = document.createElement("div");
+      box.id = "methodGuideV19";
+      box.style.cssText = "margin:12px 0 18px;padding:15px;background:#fff0f6;border:1px solid #e7bfd0;border-radius:16px;line-height:1.5";
+      const link = document.createElement("a");
+      link.href = "./guia-metodos-ilustrado.html";
+      link.textContent = "📖 Abrir manual ilustrado: 34 tiragens passo a passo →";
+      link.style.cssText = "display:block;color:#793f57;font-weight:700;text-decoration:none";
+      box.append(link);
+      const description = document.createElement("small");
+      description.textContent = "Veja a disposição das cartas, cada posição e como interpretar.";
+      description.style.cssText = "display:block;color:#8f687a;margin-top:6px";
+      box.append(description);
+      const first = methodsPanel.querySelector(".detailLead");
+      if (first) first.insertAdjacentElement("afterend",box);
+      else methodsPanel.prepend(box);
+    }
     window.matchMedia("(min-width:701px)").addEventListener("change", event => {
       if (event.matches) closeMenu();
     });
