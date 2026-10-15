@@ -1399,5 +1399,645 @@ window.COMBINACOES_DOCUMENTADAS=[
     "categoria": "geral",
     "transcricao": "revisada visualmente",
     "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 5,
+    "interpretacao_geral": "Aviso para a saúde;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 32,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 3,
+    "interpretacao_geral": "Situação positiva chegando;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 32,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 6,
+    "interpretacao_geral": "Viagem que não foi decidida;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 32,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 6,
+    "carta2": 3,
+    "interpretacao_geral": "Alguma confusão causou uma viagem;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 32,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 7,
+    "interpretacao_geral": "Traição que causará instabilidade;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 32,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 7,
+    "carta2": 3,
+    "interpretacao_geral": "Traição que causará mudanças de rumo;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 32,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 8,
+    "interpretacao_geral": "Cancelamento de viagem;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 33,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 3,
+    "interpretacao_geral": "Ao longo do prazo, novos pensamentos surgirão;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 33,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 9,
+    "interpretacao_geral": "O caminho que trilho é equilibrado, harmonioso e feliz;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 33,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 9,
+    "carta2": 3,
+    "interpretacao_geral": "Viagem ótima;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 33,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 10,
+    "interpretacao_geral": "Mudanças de rumo;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 33,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 3,
+    "interpretacao_geral": "Mudanças de planos;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 33,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 11,
+    "interpretacao_geral": "Problemas e sofrimentos;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 34,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 3,
+    "interpretacao_geral": "Insistência para a concretização de uma viagem;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 34,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 12,
+    "interpretacao_geral": "Acontecerá uma ótima viagem com amigos e familiares;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 34,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 12,
+    "carta2": 3,
+    "interpretacao_geral": "Tente evoluir sua comunicação;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 34,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 13,
+    "interpretacao_geral": "Aviso de que conhecerá novos lugares;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 34,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 13,
+    "carta2": 3,
+    "interpretacao_geral": "Viagens ou passeios com crianças;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 34,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 14,
+    "interpretacao_geral": "Um passeio bem planejado;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 35,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 14,
+    "carta2": 3,
+    "interpretacao_geral": "Muito cuidado: armadilha;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 35,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 15,
+    "interpretacao_geral": "Mude suas rotas para se autoprotegger;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 35,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 15,
+    "carta2": 3,
+    "interpretacao_geral": "Necessidade de buscar segurança;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 35,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 16,
+    "interpretacao_geral": "Qualquer viagem ou intenção de deslocamento terá sucesso;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 35,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 16,
+    "carta2": 3,
+    "interpretacao_geral": "Simboliza viagens astrais;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 35,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 17,
+    "interpretacao_geral": "Boas notícias;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 36,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 17,
+    "carta2": 3,
+    "interpretacao_geral": "Aviso de viagens aéreas;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 36,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 18,
+    "interpretacao_geral": "Bons momentos com amigos;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 36,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 18,
+    "carta2": 3,
+    "interpretacao_geral": "Reencontros;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 36,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 19,
+    "interpretacao_geral": "Solidão;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 36,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 19,
+    "carta2": 3,
+    "interpretacao_geral": "Necessidade de uma viagem interna;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 36,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 20,
+    "interpretacao_geral": "Viagem de grande duração;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 37,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 20,
+    "carta2": 3,
+    "interpretacao_geral": "Celebrações e festas;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 37,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 21,
+    "interpretacao_geral": "Viagens com desafios;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 37,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 21,
+    "carta2": 3,
+    "interpretacao_geral": "Os problemas serão resolvidos, mas lentamente;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 37,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 22,
+    "interpretacao_geral": "Viagem nova, por terra;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 37,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 22,
+    "carta2": 3,
+    "interpretacao_geral": "Mais de uma opção de lugares para passeios;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 37,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 23,
+    "interpretacao_geral": "Estresse e confusão;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 38,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 23,
+    "carta2": 3,
+    "interpretacao_geral": "Espere a hora certa para viajar;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 38,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 24,
+    "interpretacao_geral": "Viagem que mexerá com o sentimental;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 38,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 24,
+    "carta2": 3,
+    "interpretacao_geral": "Sentimentos acabando ou distantes;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 38,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 25,
+    "interpretacao_geral": "Indica novos momentos com o atual companheiro(a);",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 38,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 25,
+    "carta2": 3,
+    "interpretacao_geral": "Uma nova aliança;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 38,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 26,
+    "interpretacao_geral": "Viagem voltada ao conhecimento e desenvolvimento;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 39,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 26,
+    "carta2": 3,
+    "interpretacao_geral": "Novas oportunidades na área educacional ou profissional;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 39,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 27,
+    "interpretacao_geral": "Necessidade em buscar informações;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 39,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 27,
+    "carta2": 3,
+    "interpretacao_geral": "Presentes ou convites para viajar;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 39,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 28,
+    "interpretacao_geral": "Viagem acompanhado(a) de um homem;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 39,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 28,
+    "carta2": 3,
+    "interpretacao_geral": "Figura masculina que chega lentamente;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 39,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 29,
+    "interpretacao_geral": "Viagem acompanhado(a) de uma Mulher;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 40,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 29,
+    "carta2": 3,
+    "interpretacao_geral": "Figura feminina que chega lentamente;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 40,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 30,
+    "interpretacao_geral": "Viagem com longa duração;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 40,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 30,
+    "carta2": 3,
+    "interpretacao_geral": "Distanciamento que causa tristeza;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 40,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 31,
+    "interpretacao_geral": "Indica viagem para o exterior;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 40,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 31,
+    "carta2": 3,
+    "interpretacao_geral": "Sucesso e alegria;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 40,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 32,
+    "interpretacao_geral": "Viagem romântica;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 41,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 32,
+    "carta2": 3,
+    "interpretacao_geral": "Viagem como reconhecimento de evolução;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 41,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 33,
+    "interpretacao_geral": "Solução para conflitos;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 41,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 33,
+    "carta2": 3,
+    "interpretacao_geral": "Conflitos em viagens;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 41,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 34,
+    "interpretacao_geral": "Viagem que traz prosperidade;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 41,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 34,
+    "carta2": 3,
+    "interpretacao_geral": "Viagem com muita despesa;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 41,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 35,
+    "interpretacao_geral": "Viagem chata;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 42,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 35,
+    "carta2": 3,
+    "interpretacao_geral": "Viagens seguras;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 42,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 36,
+    "interpretacao_geral": "Aviso para buscar a fé;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 42,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 36,
+    "carta2": 3,
+    "interpretacao_geral": "Mudanças, e desfecho de problemas.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 42,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
   }
 ];
