@@ -5579,5 +5579,525 @@ window.COMBINACOES_DOCUMENTADAS=[
     "categoria": "geral",
     "transcricao": "revisada visualmente",
     "observacao": "Interpretação simbólica do material."
+  },
+  {
+    "carta1": 10,
+    "carta2": 11,
+    "interpretacao_geral": "discussões severas e corte doloroso;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 125,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 10,
+    "interpretacao_geral": "brigas culminando em rompimento.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 125,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 12,
+    "interpretacao_geral": "conversas tensas e notícia abrupta;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 125,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 12,
+    "carta2": 10,
+    "interpretacao_geral": "fofocas ou diálogo causando separação.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 125,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 13,
+    "interpretacao_geral": "recomeço após um corte necessário;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 125,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 13,
+    "carta2": 10,
+    "interpretacao_geral": "impulsividade ou atitude imatura gerando ruptura.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 125,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 14,
+    "interpretacao_geral": "falsidade descoberta e risco de perda;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 126,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 14,
+    "carta2": 10,
+    "interpretacao_geral": "agir com estratégia para evitar prejuízo.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 126,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 15,
+    "interpretacao_geral": "corte em domínio, apego ou excesso;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 126,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 15,
+    "carta2": 10,
+    "interpretacao_geral": "decisão material importante ou ruptura financeira.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 126,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 16,
+    "interpretacao_geral": "verdade espiritual surgindo de forma súbita;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 126,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 16,
+    "carta2": 10,
+    "interpretacao_geral": "direção e proteção para romper bloqueios.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 126,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 17,
+    "interpretacao_geral": "mudança brusca ou renovação imediata;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 127,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 17,
+    "carta2": 10,
+    "interpretacao_geral": "transição que exige desapego rápido.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 127,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 18,
+    "interpretacao_geral": "afastamento de amigo ou apoio abalado;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 127,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 18,
+    "carta2": 10,
+    "interpretacao_geral": "amizade ajudando a cortar um problema.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 127,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 19,
+    "interpretacao_geral": "isolamento necessário e corte de contato;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 127,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 19,
+    "carta2": 10,
+    "interpretacao_geral": "decisão solitária que fortalece limites.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 127,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 20,
+    "interpretacao_geral": "afastamento social ou corte em ambiente coletivo;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 128,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 20,
+    "carta2": 10,
+    "interpretacao_geral": "relações superficiais chegando ao fim.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 128,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 21,
+    "interpretacao_geral": "obstáculo difícil ou ruptura por bloqueio;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 128,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 21,
+    "carta2": 10,
+    "interpretacao_geral": "barreira causando separação dolorosa.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 128,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 22,
+    "interpretacao_geral": "escolha decisiva e corte de uma opção;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 128,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 22,
+    "carta2": 10,
+    "interpretacao_geral": "novo rumo após encerramento.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 128,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 23,
+    "interpretacao_geral": "desgaste e perdas pedindo corte urgente;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 129,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 23,
+    "carta2": 10,
+    "interpretacao_geral": "algo corroído até gerar ruptura.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 129,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 24,
+    "interpretacao_geral": "decisão no amor ou fim de sofrimento afetivo;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 129,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 24,
+    "carta2": 10,
+    "interpretacao_geral": "coração ferido ou escolha amorosa difícil.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 129,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 25,
+    "interpretacao_geral": "rompimento de vínculo, acordo ou contrato;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 129,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 25,
+    "carta2": 10,
+    "interpretacao_geral": "compromisso sofre corte ou redefinição.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 129,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 26,
+    "interpretacao_geral": "revelação importante pedindo análise;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 130,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 26,
+    "carta2": 10,
+    "interpretacao_geral": "segredo ou estudo levando a uma separação necessária.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 130,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 27,
+    "interpretacao_geral": "aviso, documento ou notícia de término;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 130,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 27,
+    "carta2": 10,
+    "interpretacao_geral": "comunicação escrita definindo um corte.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 130,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 28,
+    "interpretacao_geral": "homem faz um corte importante;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 130,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 28,
+    "carta2": 10,
+    "interpretacao_geral": "atitude masculina encerra a situação.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 130,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 29,
+    "interpretacao_geral": "mulher faz um corte importante;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 131,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 29,
+    "carta2": 10,
+    "interpretacao_geral": "atitude feminina põe fim ao problema.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 131,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 30,
+    "interpretacao_geral": "paz interrompida ou tensão familiar;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 131,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 30,
+    "carta2": 10,
+    "interpretacao_geral": "sabedoria ajuda a evitar conflito e separação.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 131,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 31,
+    "interpretacao_geral": "solução clara e sucesso após o corte;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 131,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 31,
+    "carta2": 10,
+    "interpretacao_geral": "verdade expõe e elimina o problema.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 131,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 32,
+    "interpretacao_geral": "corte emocional, mudança no estado de espírito ou na reputação;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 132,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 32,
+    "carta2": 10,
+    "interpretacao_geral": "intuição revela a verdade e encerra uma ilusão.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 132,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 33,
+    "interpretacao_geral": "decisão definitiva e solução rápida para o problema;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 132,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 33,
+    "carta2": 10,
+    "interpretacao_geral": "fim inevitável que abre um novo caminho.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 132,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 34,
+    "interpretacao_geral": "corte financeiro, gasto inesperado ou mudança material brusca;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 132,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 34,
+    "carta2": 10,
+    "interpretacao_geral": "dinheiro interrompido ou necessidade de agir com cautela nos negócios.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 132,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 35,
+    "interpretacao_geral": "rompimento no trabalho, instabilidade ou necessidade de mudar de rumo;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 133,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 35,
+    "carta2": 10,
+    "interpretacao_geral": "fim de uma estagnação ou corte em algo que parecia fixo.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 133,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 36,
+    "interpretacao_geral": "dor, sacrifício ou fim difícil, porém necessário;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 133,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 36,
+    "carta2": 10,
+    "interpretacao_geral": "encerramento kármico, libertação após sofrimento ou prova superada.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 133,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
   }
 ];
