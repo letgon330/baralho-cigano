@@ -1,4 +1,4 @@
-/* Combinações documentadas e sua categoria original. */
+/* Combinações documentadas por fonte e categoria. */
 window.COMBINACOES_DOCUMENTADAS=[
   {
     "carta1": 1,
@@ -6779,5 +6779,115 @@ window.COMBINACOES_DOCUMENTADAS=[
     "pagina": 70,
     "transcricao": "trecho do material, revisado visualmente",
     "observacao": "Leitura simbólica, não confirmação factual de violência, relações ou espiritualidade."
+  },
+  {
+    "carta1": 32,
+    "carta2": 17,
+    "categoria": "gravidez e fertilidade (simbólico)",
+    "interpretacao_geral": "Intuição e maternidade; chegada de um novo ciclo de fertilidade.",
+    "fonte": "NOVOS 3.pdf",
+    "pagina": 25,
+    "transcricao": "texto documentado ou paráfrase curta conferida visualmente",
+    "observacao": "Interpretação simbólica, não comprovação de gravidez, condição pessoal ou evento."
+  },
+  {
+    "carta1": 13,
+    "carta2": 17,
+    "categoria": "gravidez e fertilidade (simbólico)",
+    "interpretacao_geral": "Um bebê; chegada de uma criança na família.",
+    "fonte": "NOVOS 3.pdf",
+    "pagina": 25,
+    "transcricao": "texto documentado ou paráfrase curta conferida visualmente",
+    "observacao": "Interpretação simbólica, não comprovação de gravidez, condição pessoal ou evento."
+  },
+  {
+    "carta1": 29,
+    "carta2": 17,
+    "categoria": "gravidez e fertilidade (simbólico)",
+    "interpretacao_geral": "Uma mulher grávida; gravidez chegando para uma mulher.",
+    "fonte": "NOVOS 3.pdf",
+    "pagina": 25,
+    "transcricao": "texto documentado ou paráfrase curta conferida visualmente",
+    "observacao": "Interpretação simbólica, não comprovação de gravidez, condição pessoal ou evento."
+  },
+  {
+    "carta1": 18,
+    "carta2": 24,
+    "categoria": "perfis de amizade",
+    "interpretacao_geral": "Amigo amoroso: aquele abraço reconfortante.",
+    "fonte": "NOVOS 3.pdf",
+    "pagina": 48,
+    "transcricao": "texto documentado ou paráfrase curta conferida visualmente",
+    "observacao": "Interpretação simbólica, não comprovação de gravidez, condição pessoal ou evento."
+  },
+  {
+    "carta1": 18,
+    "carta2": 26,
+    "categoria": "perfis de amizade",
+    "interpretacao_geral": "Amigo nerd: sempre possui algum conhecimento sobre tudo.",
+    "fonte": "NOVOS 3.pdf",
+    "pagina": 49,
+    "transcricao": "texto documentado ou paráfrase curta conferida visualmente",
+    "observacao": "Interpretação simbólica, não comprovação de gravidez, condição pessoal ou evento."
+  },
+  {
+    "carta1": 18,
+    "carta2": 32,
+    "categoria": "perfis de amizade",
+    "interpretacao_geral": "Amigo artista: rolês culturais inesquecíveis.",
+    "fonte": "NOVOS 3.pdf",
+    "pagina": 50,
+    "transcricao": "texto documentado ou paráfrase curta conferida visualmente",
+    "observacao": "Interpretação simbólica, não comprovação de gravidez, condição pessoal ou evento."
+  },
+  {
+    "carta1": 18,
+    "carta2": 31,
+    "categoria": "perfis de amizade",
+    "interpretacao_geral": "Amigo alto astral: energia contagiante que te coloca para cima.",
+    "fonte": "NOVOS 3.pdf",
+    "pagina": 51,
+    "transcricao": "texto documentado ou paráfrase curta conferida visualmente",
+    "observacao": "Interpretação simbólica, não comprovação de gravidez, condição pessoal ou evento."
+  },
+  {
+    "carta1": 18,
+    "carta2": 5,
+    "categoria": "perfis de amizade",
+    "interpretacao_geral": "Amigo saudável: dicas de atividades físicas e inspiração para treinar.",
+    "fonte": "NOVOS 3.pdf",
+    "pagina": 52,
+    "transcricao": "texto documentado ou paráfrase curta conferida visualmente",
+    "observacao": "Interpretação simbólica, não comprovação de gravidez, condição pessoal ou evento."
+  },
+  {
+    "carta1": 18,
+    "carta2": 19,
+    "categoria": "perfis de amizade",
+    "interpretacao_geral": "Amigo introvertido: não fala nada, só observa.",
+    "fonte": "NOVOS 3.pdf",
+    "pagina": 53,
+    "transcricao": "texto documentado ou paráfrase curta conferida visualmente",
+    "observacao": "Interpretação simbólica, não comprovação de gravidez, condição pessoal ou evento."
+  },
+  {
+    "carta1": 18,
+    "carta2": 20,
+    "categoria": "perfis de amizade",
+    "interpretacao_geral": "Amigo baladeiro: gosta de festas, encontros e eventos.",
+    "fonte": "NOVOS 3.pdf",
+    "pagina": 54,
+    "transcricao": "texto documentado ou paráfrase curta conferida visualmente",
+    "observacao": "Interpretação simbólica, não comprovação de gravidez, condição pessoal ou evento."
+  },
+  {
+    "carta1": 19,
+    "carta2": 21,
+    "categoria": "isolamento e limitações (simbólico)",
+    "interpretacao_geral": "As duas cartas podem apontar liberdades limitadas ou isolamento por obstáculos externos.",
+    "fonte": "NOVOS 3.pdf",
+    "pagina": 90,
+    "transcricao": "texto documentado ou paráfrase curta conferida visualmente",
+    "observacao": "Interpretação simbólica, não comprovação de gravidez, condição pessoal ou evento."
   }
 ];
