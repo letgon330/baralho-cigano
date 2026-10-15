@@ -1,4 +1,4 @@
-/* Combinações direcionais documentadas: transcrição do PDF por par e página. */
+/* Combinações documentadas e sua categoria original. */
 window.COMBINACOES_DOCUMENTADAS=[
   {
     "carta1": 1,
@@ -6599,5 +6599,45 @@ window.COMBINACOES_DOCUMENTADAS=[
     "categoria": "geral",
     "transcricao": "revisada visualmente",
     "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 24,
+    "carta2": 25,
+    "categoria": "sentimentos",
+    "interpretacao_geral": "Reforça sentimento com intenção de vínculo.",
+    "fonte": "SENTIMENTOS.pdf",
+    "pagina": 8,
+    "transcricao": "extraída do texto do PDF",
+    "observacao": "Exemplo contextual indicado na regra para uso no site. Não inferir automaticamente a leitura inversa."
+  },
+  {
+    "carta1": 24,
+    "carta2": 21,
+    "categoria": "sentimentos",
+    "interpretacao_geral": "Mostra sentimento bloqueado.",
+    "fonte": "SENTIMENTOS.pdf",
+    "pagina": 8,
+    "transcricao": "extraída do texto do PDF",
+    "observacao": "Exemplo contextual indicado na regra para uso no site. Não inferir automaticamente a leitura inversa."
+  },
+  {
+    "carta1": 24,
+    "carta2": 23,
+    "categoria": "sentimentos",
+    "interpretacao_geral": "Indica sentimento desgastado.",
+    "fonte": "SENTIMENTOS.pdf",
+    "pagina": 8,
+    "transcricao": "extraída do texto do PDF",
+    "observacao": "Exemplo contextual indicado na regra para uso no site. Não inferir automaticamente a leitura inversa."
+  },
+  {
+    "carta1": 24,
+    "carta2": 31,
+    "categoria": "sentimentos",
+    "interpretacao_geral": "Reforça amor demonstrado com clareza e satisfação.",
+    "fonte": "SENTIMENTOS.pdf",
+    "pagina": 8,
+    "transcricao": "extraída do texto do PDF",
+    "observacao": "Exemplo contextual indicado na regra para uso no site. Não inferir automaticamente a leitura inversa."
   }
 ];
