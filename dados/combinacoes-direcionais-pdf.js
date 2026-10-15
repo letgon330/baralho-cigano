@@ -7699,5 +7699,55 @@ window.COMBINACOES_DOCUMENTADAS=[
     "pagina": 117,
     "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
     "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 8,
+    "carta2": 31,
+    "categoria": "transformação e renovação",
+    "interpretacao_geral": "Superação e renovação.",
+    "pagina": 5,
+    "fonte": "NOVOS 7.pdf",
+    "transcricao": "síntese de texto visível na imagem",
+    "observacao": "Interpretação simbólica, não confirmação de intenções ou previsão de acontecimentos."
+  },
+  {
+    "carta1": 8,
+    "carta2": 16,
+    "categoria": "transformação e renovação",
+    "interpretacao_geral": "Cura e proteção espiritual.",
+    "pagina": 5,
+    "fonte": "NOVOS 7.pdf",
+    "transcricao": "síntese de texto visível na imagem",
+    "observacao": "Interpretação simbólica, não confirmação de intenções ou previsão de acontecimentos."
+  },
+  {
+    "carta1": 8,
+    "carta2": 24,
+    "categoria": "transformação e renovação",
+    "interpretacao_geral": "Transformação no amor.",
+    "pagina": 5,
+    "fonte": "NOVOS 7.pdf",
+    "transcricao": "síntese de texto visível na imagem",
+    "observacao": "Interpretação simbólica, não confirmação de intenções ou previsão de acontecimentos."
+  },
+  {
+    "carta1": 8,
+    "carta2": 35,
+    "categoria": "transformação e renovação",
+    "interpretacao_geral": "Sair do que está parado.",
+    "pagina": 5,
+    "fonte": "NOVOS 7.pdf",
+    "transcricao": "síntese de texto visível na imagem",
+    "observacao": "Interpretação simbólica, não confirmação de intenções ou previsão de acontecimentos."
+  },
+  {
+    "carta1": 32,
+    "carta2": 7,
+    "categoria": "emoções e intenções ocultas",
+    "interpretacao_geral": "A Lua e a Serpente podem indicar emoções intensas, magnetismo, sedução e possíveis intenções ocultas. A leitura recomenda discernimento para não confundir intensidade com verdade.",
+    "pagina": 8,
+    "fonte": "NOVOS 7.pdf",
+    "transcricao": "síntese de texto visível na imagem",
+    "observacao": "Interpretação simbólica, não confirmação de intenções ou previsão de acontecimentos."
   }
 ];
