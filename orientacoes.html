@@ -58,4 +58,35 @@ for(const el of ["busca","filtro"])document.getElementById(el).addEventListener(
 for(const id of ["carta1","carta2"]){const s=document.getElementById(id);s.innerHTML=cartas.map(c=>'<option value="'+c.id+'">'+esc(nome(c))+'</option>').join("")}document.getElementById("carta2").value="24";
 function leitura(){const a=cartas[+document.getElementById("carta1").value-1],b=cartas[+document.getElementById("carta2").value-1];document.getElementById("leitura").innerHTML='<div class="panel"><h3>'+esc(a.nome)+" → "+esc(b.nome)+'</h3><p><strong>Primeira carta (assunto):</strong> '+esc(a.geral)+'</p><p><strong>Segunda carta (modificação):</strong> '+esc(b.geral)+'</p><p><strong>Conselho de análise:</strong> '+esc(a.conselho)+" "+esc(b.conselho)+'</p><p class="muted">Esta é uma leitura estruturada dos significados individuais, não uma combinação específica documental. A transcrição e indexação integral das combinações dos PDFs está pendente.</p></div>'}
 document.getElementById("carta1").onchange=leitura;document.getElementById("carta2").onchange=leitura;document.getElementById("inverter").onclick=()=>{const a=document.getElementById("carta1"),b=document.getElementById("carta2");[a.value,b.value]=[b.value,a.value];leitura()};mostrar();leitura();
+</script><script src="./dados/guia-didatico-36.js"></script>
+<script>
+(function(){
+const base=window.GUIA_DIDATICO_36||[];
+if(base.length!==36)return;
+const safe=s=>String(s||"").replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+for(const x of base){
+const c=cartas[x.id-1]; if(!c)continue;
+c.geral=x.geral;
+c.caracteristicas=x.caracteristicas;
+c.amor=x.amor;
+c.sexualidade=x.sexualidade;
+c.palavras_chave=x.palavras_chave;
+c.fonte=x.fonte;
+}
+window.mostrar= function(){
+ const q=document.getElementById("busca").value.toLocaleLowerCase("pt-BR"),f=document.getElementById("filtro").value;
+ const itens=cartas.filter(c=>Object.values(c).join(" ").toLocaleLowerCase("pt-BR").includes(q)&&(!f||c[f]));
+ document.getElementById("contagem").textContent=itens.length+" cartas encontradas";
+ document.getElementById("lista").innerHTML=itens.map(c=>'<article class="card"><h3>'+safe(nome(c))+'</h3><p>'+safe(c.geral)+'</p>'+
+ '<details><summary>Características de pessoas</summary><p>'+safe(c.caracteristicas)+'</p></details>'+
+ '<details><summary>Amor e relacionamentos</summary><p>'+safe(c.amor)+'</p></details>'+
+ '<details><summary>Sexualidade</summary><p>'+safe(c.sexualidade)+'</p></details>'+
+ '<details><summary>Palavras-chave</summary><p>'+safe(c.palavras_chave)+'</p></details>'+
+ '<details><summary>Aspectos e conselhos contextuais</summary><p><strong>Favorável:</strong> '+safe(c.favoravel)+'</p><p><strong>Atenção:</strong> '+safe(c.atencao)+'</p><p><strong>Dica:</strong> '+safe(c.conselho)+'</p><p class="muted">Dicas redigidas como aplicação interpretativa, não como citação do guia.</p></details>'+
+ '<p class="muted">Fonte das categorias: '+safe(c.fonte)+'</p></article>').join("");
+ };
+document.getElementById("busca").addEventListener("input",window.mostrar);
+document.getElementById("filtro").addEventListener("input",window.mostrar);
+window.mostrar();leitura();
+})();
 </script></body></html>
