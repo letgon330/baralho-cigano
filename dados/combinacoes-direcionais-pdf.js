@@ -3899,5 +3899,585 @@ window.COMBINACOES_DOCUMENTADAS=[
     "categoria": "geral",
     "transcricao": "revisada visualmente",
     "observacao": "Interpretação simbólica; não comprova fatos ou diagnósticos."
+  },
+  {
+    "carta1": 7,
+    "carta2": 8,
+    "interpretacao_geral": "fim de uma traição ou corte em relação tóxica;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 85,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 8,
+    "carta2": 7,
+    "interpretacao_geral": "encerramento doloroso causado por falsidade.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 85,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 9,
+    "interpretacao_geral": "charme sedutor com segundas intenções;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 85,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 9,
+    "carta2": 7,
+    "interpretacao_geral": "presente, convite ou gentileza falsa.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 85,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 10,
+    "interpretacao_geral": "traição descoberta ou corte brusco;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 85,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 10,
+    "carta2": 7,
+    "interpretacao_geral": "rompimento com pessoa falsa.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 85,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 11,
+    "interpretacao_geral": "discussões, ciúmes e manipulação;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 86,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 11,
+    "carta2": 7,
+    "interpretacao_geral": "conflitos repetidos por inveja.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 86,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 12,
+    "interpretacao_geral": "fofoca, ansiedade e intriga;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 86,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 12,
+    "carta2": 7,
+    "interpretacao_geral": "conversas traiçoeiras e rumores.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 86,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 13,
+    "interpretacao_geral": "ingenuidade em risco ou começo complicado;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 86,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 13,
+    "carta2": 7,
+    "interpretacao_geral": "pessoa jovem falsa ou situação inocente contaminada.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 86,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 14,
+    "interpretacao_geral": "astúcia, mentira e desconfiança;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 87,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 14,
+    "carta2": 7,
+    "interpretacao_geral": "manipulação estratégica ou armadilha.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 87,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 15,
+    "interpretacao_geral": "ciúme possessivo e rivalidade;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 87,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 15,
+    "carta2": 7,
+    "interpretacao_geral": "pessoa dominadora e traiçoeira.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 87,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 16,
+    "interpretacao_geral": "intuição alerta para engano;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 87,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 16,
+    "carta2": 7,
+    "interpretacao_geral": "proteção espiritual contra inveja e falsidade.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 87,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 17,
+    "interpretacao_geral": "mudança cercada de ciúmes ou instabilidade;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 88,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 17,
+    "carta2": 7,
+    "interpretacao_geral": "transformação provocada por intriga.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 88,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 18,
+    "interpretacao_geral": "falsa amizade ou traição de alguém próximo;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 88,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 18,
+    "carta2": 7,
+    "interpretacao_geral": "amigo invejoso ou lealdade comprometida.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 88,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 19,
+    "interpretacao_geral": "isolamento por desconfiança ou frieza;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 88,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 19,
+    "carta2": 7,
+    "interpretacao_geral": "pessoa distante e calculista.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 88,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 20,
+    "interpretacao_geral": "falsidade no meio social e rivalidade;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 89,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 20,
+    "carta2": 7,
+    "interpretacao_geral": "intrigas expostas em público.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 89,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 21,
+    "interpretacao_geral": "bloqueios causados por inveja ou sabotagem;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 89,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 21,
+    "carta2": 7,
+    "interpretacao_geral": "obstáculo difícil ligado à falsidade.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 89,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 22,
+    "interpretacao_geral": "escolhas arriscadas, sedução e dúvida;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 89,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 22,
+    "carta2": 7,
+    "interpretacao_geral": "decisão cercada de armadilhas.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 89,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 23,
+    "interpretacao_geral": "desgaste por ciúme, mentira ou energia tóxica;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 90,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 23,
+    "carta2": 7,
+    "interpretacao_geral": "perdas causadas por pessoa falsa.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 90,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 24,
+    "interpretacao_geral": "paixão perigosa ou triângulo amoroso;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 90,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 24,
+    "carta2": 7,
+    "interpretacao_geral": "amor contaminado por ciúme e desconfiança.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 90,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 25,
+    "interpretacao_geral": "compromisso frágil, traição ou vínculo tóxico;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 90,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 25,
+    "carta2": 7,
+    "interpretacao_geral": "relação marcada por manipulação.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 90,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 26,
+    "interpretacao_geral": "segredo, mistério ou informação oculta;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 91,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 26,
+    "carta2": 7,
+    "interpretacao_geral": "mentira escondida ou assunto sigiloso delicado.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 91,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 27,
+    "interpretacao_geral": "notícia falsa, mensagem maliciosa ou documento suspeito;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 91,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 27,
+    "carta2": 7,
+    "interpretacao_geral": "comunicação enganosa.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 91,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 28,
+    "interpretacao_geral": "homem cercado de engano, sedução ou traição;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 91,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 28,
+    "carta2": 7,
+    "interpretacao_geral": "homem falso, manipulador ou volúvel.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 91,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 29,
+    "interpretacao_geral": "mulher sedutora, rival ou invejosa;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 92,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 29,
+    "carta2": 7,
+    "interpretacao_geral": "mulher falsa, manipuladora ou ciumenta.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 92,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 30,
+    "interpretacao_geral": "sensualidade intensa com tensão oculta;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 92,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 30,
+    "carta2": 7,
+    "interpretacao_geral": "paz ameaçada por ciúmes ou malícia.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 92,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 31,
+    "interpretacao_geral": "verdade iluminando a traição;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 92,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 31,
+    "carta2": 7,
+    "interpretacao_geral": "clareza e superação da inveja.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 92,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 32,
+    "interpretacao_geral": "sedução, ilusão ou emoções contaminadas por desconfiança;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 93,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 32,
+    "carta2": 7,
+    "interpretacao_geral": "intuição alertando para mentira, ciúme ou manipulação.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 93,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 33,
+    "interpretacao_geral": "descoberta de uma falsidade ou solução obtida com cautela;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 93,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 33,
+    "carta2": 7,
+    "interpretacao_geral": "revelação de segredo, mentira ou pessoa manipuladora.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 93,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 34,
+    "interpretacao_geral": "dinheiro, negócio ou prosperidade com risco de fraude ou interesse oculto;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 93,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 34,
+    "carta2": 7,
+    "interpretacao_geral": "atenção a perdas financeiras causadas por engano ou manipulação.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 93,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 35,
+    "interpretacao_geral": "situação tóxica, ciúme ou falsidade que tende a permanecer;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 94,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 35,
+    "carta2": 7,
+    "interpretacao_geral": "estagnação provocada por manipulação, desconfiança ou vínculo difícil.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 94,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 7,
+    "carta2": 36,
+    "interpretacao_geral": "sofrimento, prova ou peso emocional causado por traição ou falsidade;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 94,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 36,
+    "carta2": 7,
+    "interpretacao_geral": "encerramento doloroso de uma situação marcada por engano, com aprendizado.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 94,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
   }
 ];
