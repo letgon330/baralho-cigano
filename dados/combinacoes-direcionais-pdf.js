@@ -1,4 +1,4 @@
-/* Interpretações documentadas; registros históricos sinalizados quanto à fidelidade literal. */
+/* Registros de pares e situação do cotejo de fidelidade visual. */
 window.COMBINACOES_DOCUMENTADAS=[
   {
     "carta1": 1,
@@ -7,9 +7,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 5,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 2,
@@ -18,9 +19,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 5,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 1,
@@ -29,9 +31,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 5,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 3,
@@ -40,9 +43,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 5,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 1,
@@ -51,9 +55,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 5,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -62,9 +67,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 5,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 1,
@@ -73,9 +79,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 6,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 5,
@@ -84,9 +91,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 6,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 1,
@@ -95,9 +103,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 6,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 6,
@@ -106,9 +115,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 6,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 1,
@@ -117,9 +127,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 6,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 7,
@@ -128,9 +139,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 6,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 1,
@@ -139,9 +151,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 7,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 8,
@@ -150,9 +163,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 7,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 1,
@@ -161,9 +175,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 7,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 9,
@@ -172,9 +187,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 7,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 1,
@@ -183,9 +199,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 7,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 10,
@@ -194,9 +211,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 7,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 1,
@@ -205,9 +223,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 8,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 11,
@@ -216,9 +235,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 8,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 1,
@@ -227,9 +247,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 8,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 12,
@@ -238,9 +259,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 8,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 1,
@@ -249,9 +271,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 8,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 13,
@@ -260,9 +283,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 8,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 1,
@@ -271,9 +295,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 9,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 14,
@@ -282,9 +307,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 9,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 1,
@@ -293,9 +319,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 9,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 15,
@@ -304,9 +331,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 9,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 1,
@@ -315,9 +343,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 9,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 16,
@@ -326,9 +355,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 9,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 5–9)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Texto comparado visualmente com a página de origem; sem divergência material identificada. Pequenas variações tipográficas não caracterizadas como alterações de sentido.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 1,
