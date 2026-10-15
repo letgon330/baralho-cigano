@@ -57,3 +57,11 @@ Tudo foi feito em `feature/biblioteca-orientacoes-pdfs-20261015`, para revisão 
 - Acumulado dos registros históricos: **204 de 660 cotejados**, **456 pendentes**; **2 correções textuais acumuladas** nos lotes anteriores.
 - Banco principal continua com **772 combinações**, **108 variações** e **9 ocorrências de fonte repetidas**, preservadas. A auditoria não certifica identidade tipográfica absoluta de pontuação, espaços e maiúsculas.
 - Próximo lote: página 43 em diante (Casa), descontadas as páginas que não apresentem combinações novas.
+
+## Continuação — cotejo visual do lote 5 (páginas 43–55)
+- PDF `COMBINAÇÕES DAS CARTAS (2) (1).pdf`: página 43 contém a ficha individual da Casa; página 44 repete pares já cadastrados anteriormente; nas páginas **45 a 55** há **64 registros direcionais pendentes** da Casa (04) com Árvore (05) até Cruz (36), em ambas as ordens.
+- **64 registros conferidos nesta etapa**, comparados visualmente com as respectivas imagens.
+- **0 correções textuais comprovadas**; os textos foram mantidos e apenas o estado da auditoria foi atualizado. A revisão não certifica pontuação, caixa e espaçamento caractere por caractere.
+- Acumulado dos 660 registros históricos: **268 conferidos**, **392 pendentes**, **2 correções textuais anteriores documentadas**.
+- A biblioteca mantém 772 interpretações principais, 108 variantes distintas e 9 ocorrências de fontes repetidas arquivadas.
+- Próxima etapa: páginas 56 em diante, começando pelas combinações da Árvore; não alterar a main.
