@@ -1,4 +1,4 @@
-const CACHE_NAME = 'enciclopedia-cigana-biblioteca-v11';
+const CACHE_NAME = 'enciclopedia-cigana-biblioteca-v12';
 const APP_SHELL = [
   './',
   './index.html',

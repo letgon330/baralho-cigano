@@ -63,4 +63,5 @@ view.querySelectorAll('[data-orientation-go]').forEach(b=>b.onclick=()=>showView
 document.getElementById('orientationSearch').oninput=render;render();
 })();
 
+try{await loadScript('./dados/orientacoes-no-jogo.js')}catch(error){console.error('As orientações da biblioteca continuam disponíveis; não foi possível carregar o complemento do jogo.',error)}
 })();
