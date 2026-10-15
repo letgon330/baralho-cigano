@@ -49,3 +49,11 @@ Tudo foi feito em `feature/biblioteca-orientacoes-pdfs-20261015`, para revisão 
 - Total histórico acumulado: **140/660 conferidos** (86 anteriores + 54), **520 pendentes**. Correções textuais acumuladas: **2** dos lotes anteriores.
 - Banco principal segue com 772 combinações, 108 variações documentadas e 9 ocorrências repetidas preservadas.
 - Observação: a fonte usa literalmente “Homem estressado e problemático” em Cigana + Trevo, mesmo sendo uma associação aparentemente inconsistente. Texto mantido por fidelidade à origem; não houve emenda interpretativa silenciosa.
+
+## Continuação — cotejo visual do lote 4 (páginas 32–42)
+- Fonte: `COMBINAÇÕES DAS CARTAS (2) (1).pdf`, páginas 32 a 42, conferidas nas imagens originais.
+- **64 interpretações direcionais revisadas**: Navio (03) com cartas 05–36 e respectivas ordens inversas.
+- **0 correções textuais neste lote**. Não foi comprovada divergência material. As redações existentes foram preservadas, inclusive `Navio + Âncora: Viagem chata;` conforme a página 42.
+- Acumulado dos registros históricos: **204 de 660 cotejados**, **456 pendentes**; **2 correções textuais acumuladas** nos lotes anteriores.
+- Banco principal continua com **772 combinações**, **108 variações** e **9 ocorrências de fonte repetidas**, preservadas. A auditoria não certifica identidade tipográfica absoluta de pontuação, espaços e maiúsculas.
+- Próximo lote: página 43 em diante (Casa), descontadas as páginas que não apresentem combinações novas.
