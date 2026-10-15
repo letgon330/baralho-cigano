@@ -19,6 +19,7 @@
 <details><summary>Perguntas de autoconhecimento — páginas 59–72</summary>
 <p>Como posso fortalecer minha autoestima? O que preciso mudar na maneira de me enxergar? Como parar de buscar validação nos outros? O que impede que eu reconheça meu próprio valor? Qual atitude prática pode destravar minha prosperidade?</p>
 </details><p class="muted">Fonte: pdf24_convertido (1).pdf, 72 páginas, capturas de materiais ilustrados. Esta seção contém sínteses contextualizadas de temas visíveis; a revisão integral do arquivo ainda é necessária.</p></section>
+<section class="panel" id="trios-novos3"><h2>Sequências documentadas de três cartas</h2><p>Exemplos completos do NOVOS 3.pdf. Não são combinações de duas cartas.</p><div id="trios-lista"></div></section>
 <p class="notice"><strong>Sobre esta versão:</strong> as fichas a seguir são um primeiro índice interpretativo baseado no Guia Didático do projeto. A importação integral, conferência de duplicidades e catalogação de todas as fontes ainda estão em andamento. Conselhos são aplicações contextuais, não transcrições literais das fontes.</p>
 </main><footer>Baralho Cigano · Biblioteca de consulta simbólica e educativa</footer>
 <script>
@@ -77,6 +78,8 @@ document.getElementById("carta1").onchange=leitura;document.getElementById("cart
 <script src="./dados/tecnicas-complementares-fontes.js"></script>
 <script src="./dados/novos-observacoes-por-carta.js"></script>
 <script src="./dados/novos2-observacoes-por-carta.js"></script>
+<script src="./dados/novos3-observacoes-por-carta.js"></script>
+<script src="./dados/novos3-trios-documentados.js"></script>
 <script>
 (function(){
 const base=window.GUIA_DIDATICO_36||[];
@@ -102,7 +105,7 @@ window.mostrar= function(){
  '<details><summary>Sexualidade</summary><p>'+safe(c.sexualidade)+'</p></details>'+ 
  '<details><summary>Sentimentos e naipe correspondente</summary><p><strong>Correspondência:</strong> '+safe(c.naipe)+'</p><p>'+safe(c.sentimento)+'</p>'+(c.sentimento_positivo?'<p><strong>Em positivo:</strong> '+safe(c.sentimento_positivo)+'</p>':'')+(c.sentimento_negativo?'<p><strong>Em negativo:</strong> '+safe(c.sentimento_negativo)+'</p>':'')+'<p class="muted">Fonte: '+safe(c.fonte_sentimentos)+', página '+safe(c.pagina_sentimentos)+'.</p></details>'+
  '<details><summary>Palavras-chave</summary><p>'+safe(c.palavras_chave)+'</p></details>'+
- [...(window.NOVOS_OBSERVACOES||[]),...(window.NOVOS2_OBSERVACOES||[])].filter(z=>z.carta===c.id).map(z=>'<details><summary>'+safe(z.categoria)+' — '+safe(z.fonte)+'</summary><p>'+safe(z.texto)+'</p><p class="muted">Fonte: '+safe(z.fonte)+', página '+z.pagina+'. Interpretação contextual; não afirmação factual.</p></details>').join('')+ 
+ [...(window.NOVOS_OBSERVACOES||[]),...(window.NOVOS2_OBSERVACOES||[]),...(window.NOVOS3_OBSERVACOES||[])].filter(z=>z.carta===c.id).map(z=>'<details><summary>'+safe(z.categoria)+' — '+safe(z.fonte)+'</summary><p>'+safe(z.texto)+'</p><p class="muted">Fonte: '+safe(z.fonte)+', página '+z.pagina+'. Interpretação contextual; não afirmação factual.</p></details>').join('')+ 
  '<details><summary>Técnica de tempo (método específico)</summary><p>'+safe(c.tempo)+'</p><p class="muted">Fonte: '+safe(c.fonte_tempo)+', página '+safe(c.pagina_tempo)+'. Não é uma previsão temporal comprovada.</p></details>'+
  '<details><summary>Aspectos e conselhos contextuais</summary><p><strong>Favorável:</strong> '+safe(c.favoravel)+'</p><p><strong>Atenção:</strong> '+safe(c.atencao)+'</p><p><strong>Dica:</strong> '+safe(c.conselho)+'</p><p class="muted">Dicas redigidas como aplicação interpretativa, não como citação do guia.</p></details>'+
  '<p class="muted">Fonte das categorias: '+safe(c.fonte)+'</p></article>').join("");
@@ -146,4 +149,6 @@ atualizar();
  }
  root.appendChild(sec);
 })();
+</script><script>
+(function(){const root=document.getElementById("trios-lista");if(!root)return;const safe=s=>String(s||"").replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));root.innerHTML=(window.NOVOS3_TRIOS||[]).map(x=>'<details><summary>'+x.cartas.map(n=>{const c=window.GUIA_DIDATICO_36?.find(z=>z.id===n);return safe(c?.nome||n)}).join(' + ')+'</summary><p>'+safe(x.interpretacao)+'</p><p class="muted">Fonte: '+safe(x.fonte)+', p. '+x.pagina+'. Categoria: '+safe(x.categoria)+'.</p></details>').join('');})();
 </script></body></html>
