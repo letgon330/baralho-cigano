@@ -4479,5 +4479,565 @@ window.COMBINACOES_DOCUMENTADAS=[
     "categoria": "geral",
     "transcricao": "revisada visualmente",
     "observacao": "Interpretação simbólica; não prova de traição, dolo ou fato concreto."
+  },
+  {
+    "carta1": 8,
+    "carta2": 9,
+    "interpretacao_geral": "alegria passageira seguida de despedida;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 98,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 9,
+    "carta2": 8,
+    "interpretacao_geral": "tristeza após um momento feliz;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 98,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 10,
+    "interpretacao_geral": "corte definitivo e encerramento brusco;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 98,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 8,
+    "interpretacao_geral": "ruptura súbita e inevitável;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 98,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 11,
+    "interpretacao_geral": "dor, desgaste e conflitos repetidos;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 99,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 8,
+    "interpretacao_geral": "discussão intensa levando ao fim;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 99,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 12,
+    "interpretacao_geral": "ansiedade, notícias tristes e aflição;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 99,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 12,
+    "carta2": 8,
+    "interpretacao_geral": "conversa tensa e preocupação excessiva;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 99,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 13,
+    "interpretacao_geral": "fim de uma fase e recomeço delicado;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 99,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 13,
+    "carta2": 8,
+    "interpretacao_geral": "inocência ferida ou mudança precoce;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 99,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 14,
+    "interpretacao_geral": "fim de engano e revelação de fraude;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 100,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 14,
+    "carta2": 8,
+    "interpretacao_geral": "prejuízo causado por falsidade;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 100,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 15,
+    "interpretacao_geral": "perda de força, poder ou proteção;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 100,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 15,
+    "carta2": 8,
+    "interpretacao_geral": "domínio abalado e desgaste material;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 100,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 16,
+    "interpretacao_geral": "transformação espiritual e esperança renovada;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 100,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 16,
+    "carta2": 8,
+    "interpretacao_geral": "luz após o fim e orientação interior;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 100,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 17,
+    "interpretacao_geral": "mudança inevitável e transformação profunda;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 101,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 17,
+    "carta2": 8,
+    "interpretacao_geral": "renovação depois de uma perda;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 101,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 18,
+    "interpretacao_geral": "afastamento de amigo ou lealdade abalada;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 101,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 18,
+    "carta2": 8,
+    "interpretacao_geral": "amizade em prova ou vínculo enfraquecido;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 101,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 19,
+    "interpretacao_geral": "isolamento, tristeza e encerramento solitário;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 101,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 19,
+    "carta2": 8,
+    "interpretacao_geral": "recolhimento diante de perdas e limites;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 101,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 20,
+    "interpretacao_geral": "fim de ciclo social ou afastamento do grupo;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 102,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 20,
+    "carta2": 8,
+    "interpretacao_geral": "evento cancelado ou exposição dolorosa;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 102,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 21,
+    "interpretacao_geral": "bloqueio pesado, tristeza e estagnação;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 102,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 21,
+    "carta2": 8,
+    "interpretacao_geral": "obstáculo prolongado e fase difícil;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 102,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 22,
+    "interpretacao_geral": "decisão sobre um encerramento ou ruptura;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 102,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 22,
+    "carta2": 8,
+    "interpretacao_geral": "escolha dolorosa e mudança inevitável;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 102,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 23,
+    "interpretacao_geral": "desgaste extremo, perdas e esgotamento;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 103,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 23,
+    "carta2": 8,
+    "interpretacao_geral": "problema corroendo a estabilidade;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 103,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 24,
+    "interpretacao_geral": "fim de relacionamento ou dor afetiva;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 103,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 24,
+    "carta2": 8,
+    "interpretacao_geral": "amor ferido e necessidade de cura;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 103,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 25,
+    "interpretacao_geral": "separação ou quebra de acordo;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 103,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 25,
+    "carta2": 8,
+    "interpretacao_geral": "contrato rompido ou compromisso encerrado;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 103,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 26,
+    "interpretacao_geral": "segredo doloroso ou estudo interrompido;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 104,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 26,
+    "carta2": 8,
+    "interpretacao_geral": "mistério pesado e verdade escondida;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 104,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 27,
+    "interpretacao_geral": "notícia de perda ou documento de término;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 104,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 27,
+    "carta2": 8,
+    "interpretacao_geral": "mensagem difícil e encerramento anunciado;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 104,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 28,
+    "interpretacao_geral": "homem em grande transformação ou fim de fase;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 104,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 28,
+    "carta2": 8,
+    "interpretacao_geral": "perda afetando um homem ou mudança drástica;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 104,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 29,
+    "interpretacao_geral": "mulher em transformação ou processo de perda;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 105,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 29,
+    "carta2": 8,
+    "interpretacao_geral": "fim de ciclo na vida de uma mulher;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 105,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 30,
+    "interpretacao_geral": "paz após encerramento e serenidade madura;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 105,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 30,
+    "carta2": 8,
+    "interpretacao_geral": "calma diante da perda e aceitação;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 105,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 31,
+    "interpretacao_geral": "fim da escuridão e renascimento;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 105,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 31,
+    "carta2": 8,
+    "interpretacao_geral": "clareza, cura e superação da dor;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 105,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 32,
+    "interpretacao_geral": "tristeza profunda, melancolia ou fase emocional difícil;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 106,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 32,
+    "carta2": 8,
+    "interpretacao_geral": "fim de ilusões, encerramento emocional e necessidade de cura;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 106,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 33,
+    "interpretacao_geral": "transformação inevitável, solução definitiva ou encerramento necessário;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 106,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 33,
+    "carta2": 8,
+    "interpretacao_geral": "fim de um ciclo abrindo caminho para a renovação;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 106,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 34,
+    "interpretacao_geral": "perdas materiais ou instabilidade financeira;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 106,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 34,
+    "carta2": 8,
+    "interpretacao_geral": "fim de preocupações financeiras ou mudança nos ganhos;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 106,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 35,
+    "interpretacao_geral": "fim de uma situação estagnada ou mudança no trabalho;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 107,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 35,
+    "carta2": 8,
+    "interpretacao_geral": "ruptura com a estabilidade antiga e necessidade de recomeçar;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 107,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 36,
+    "interpretacao_geral": "encerramento doloroso, provação e libertação de um ciclo pesado;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 107,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
+  },
+  {
+    "carta1": 36,
+    "carta2": 8,
+    "interpretacao_geral": "fim de sofrimento, transformação espiritual e renascimento.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 107,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não confirmação factual."
   }
 ];
