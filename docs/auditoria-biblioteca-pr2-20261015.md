@@ -41,3 +41,11 @@ Tudo foi feito em `feature/biblioteca-orientacoes-pdfs-20261015`, para revisão 
 - Resultado acumulado: **86 de 660 históricos cotejados; 574 ainda pendentes; 2 correções textuais neste lote**.
 - Relatório de alterações antes/depois: `docs/auditoria-fidelidade-lote2-20261015.md`.
 - Permanecem 772 combinações, 108 variações e 9 ocorrências repetidas arquivadas. A identidade tipográfica de pontuação/espaçamento não foi certificada.
+
+## Continuação — cotejo literal do lote 3 (páginas 21–31)
+- Fonte: `COMBINAÇÕES DAS CARTAS (2) (1).pdf`, páginas 21–29 e 31; página 30 contém ficha individual do Navio.
+- **54 interpretações direcionais cotejadas**: Trevo (02) com cartas 11–36 em ambas as ordens, além de Navio (03) + Casa (04) e Casa + Navio.
+- **0 alterações materiais de texto** neste lote: os registros correspondem às interpretações legíveis; pontuação e tipografia estritas não foram certificadas.
+- Total histórico acumulado: **140/660 conferidos** (86 anteriores + 54), **520 pendentes**. Correções textuais acumuladas: **2** dos lotes anteriores.
+- Banco principal segue com 772 combinações, 108 variações documentadas e 9 ocorrências repetidas preservadas.
+- Observação: a fonte usa literalmente “Homem estressado e problemático” em Cigana + Trevo, mesmo sendo uma associação aparentemente inconsistente. Texto mantido por fidelidade à origem; não houve emenda interpretativa silenciosa.
