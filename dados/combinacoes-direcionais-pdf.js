@@ -7151,36 +7151,6 @@ window.COMBINACOES_DOCUMENTADAS=[
     "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
   },
   {
-    "carta1": 31,
-    "carta2": 4,
-    "categoria": "espiritualidade e prosperidade no lar",
-    "interpretacao_geral": "Felicidade no lar, família próspera.",
-    "fonte": "NOVOS 4.pdf",
-    "pagina": 126,
-    "transcricao": "trecho do PDF conferido visualmente",
-    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
-  },
-  {
-    "carta1": 16,
-    "carta2": 31,
-    "categoria": "espiritualidade e prosperidade no lar",
-    "interpretacao_geral": "Realização de sonhos, proteção divina no sucesso.",
-    "fonte": "NOVOS 4.pdf",
-    "pagina": 126,
-    "transcricao": "trecho do PDF conferido visualmente",
-    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
-  },
-  {
-    "carta1": 4,
-    "carta2": 16,
-    "categoria": "espiritualidade e prosperidade no lar",
-    "interpretacao_geral": "Lar abençoado, espiritualidade em casa.",
-    "fonte": "NOVOS 4.pdf",
-    "pagina": 126,
-    "transcricao": "trecho do PDF conferido visualmente",
-    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
-  },
-  {
     "carta1": 24,
     "carta2": 34,
     "categoria": "amor e desejo",
