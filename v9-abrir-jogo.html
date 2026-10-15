@@ -2390,6 +2390,51 @@ $("restartBtn").onclick=()=>{
 
 renderTopics();
 
+/* V21: perguntas sugeridas e navegação direta, sem alterar dados ou métodos originais */
+const V21_QUESTIONS={
+  "Templo de Afrodite — 7 cartas":["Como está a dinâmica entre nossos pensamentos, sentimentos e intenções?","O que preciso compreender sobre esta conexão?","Que fatores influenciam nossa relação?"],
+  "Taça do Amor — 7 cartas":["O que fortalece e o que dificulta nossa relação?","Que dinâmica afetiva merece minha atenção?","O que posso fazer para compreender melhor este vínculo?"],
+  "Mesa Real / Grand Tableau — 36 cartas":["Quais áreas da minha vida merecem atenção neste momento?","O que preciso observar no panorama atual?","Quais situações se relacionam com meu objetivo?"]
+};
+function v21Questions(m){
+  const topic=m.split(" — ")[0].toLocaleLowerCase("pt-BR");
+  return V21_QUESTIONS[m]||[
+    "O que preciso compreender sobre "+topic+" neste momento?",
+    "Quais aspectos importantes devo observar nesta situação?",
+    "Que atitude ou reflexão pode me ajudar com essa questão?"
+  ];
+}
+function v21Esc(t){return String(t).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
+const v21ChooseMethod=chooseMethod;
+chooseMethod=function(method,btn){
+  v21ChooseMethod(method,btn);
+  const box=$("methodDetails");
+  if(!box || !METHOD_DETAILS[method])return;
+  const qs=v21Questions(method);
+  const section=document.createElement("section");
+  section.style.cssText="margin:16px 0;padding:16px;border:1px solid #e9c9d6;border-radius:15px;background:#fff1f7;color:#704157";
+  section.innerHTML='<h3 style="margin:0 0 9px;color:#743a55">💬 Perguntas indicadas para esta tiragem</h3><ul style="padding-left:21px;line-height:1.6">'+qs.map(q=>'<li>'+v21Esc(q)+'</li>').join("")+'</ul><p style="font-size:13px">Escolha a pergunta que fizer sentido ou escreva a sua.</p>';
+  box.prepend(section);
+};
+(function v21DeepLink(){
+  const params=new URLSearchParams(location.search);
+  const requested=params.get("metodo");
+  if(!requested || !METHOD_DETAILS[requested])return;
+  const topic=Object.keys(DATA).find(k=>DATA[k].methods.includes(requested));
+  if(!topic)return;
+  const question=params.get("pergunta")||v21Questions(requested)[0];
+  try{
+    chooseTopic(topic);
+    chooseQuestion(question);
+    const btn=[...document.querySelectorAll("[data-method]")].find(el=>decodeURIComponent(el.dataset.method)===requested);
+    if(btn)chooseMethod(requested,btn);
+    const notice=document.createElement("p");
+    notice.textContent="✓ Método selecionado pelo manual: "+requested;
+    notice.style.cssText="font-weight:700;color:#743a55;background:#ffedf4;border-radius:10px;padding:12px";
+    $("step4")?.prepend(notice);
+  }catch(e){console.warn("Não foi possível selecionar a tiragem automaticamente.",e);}
+})();
+
 </script>
 
 </body>
