@@ -6099,5 +6099,505 @@ window.COMBINACOES_DOCUMENTADAS=[
     "categoria": "geral",
     "transcricao": "revisada visualmente",
     "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 12,
+    "interpretacao_geral": "conversas agitadas, boatos e nervosismo;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 138,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 12,
+    "carta2": 11,
+    "interpretacao_geral": "diálogo acelerado virando discussão.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 138,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 13,
+    "interpretacao_geral": "imaturidade, birra ou atitude impulsiva;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 138,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 13,
+    "carta2": 11,
+    "interpretacao_geral": "recomeço marcado por irritação.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 138,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 14,
+    "interpretacao_geral": "conflitos por interesse, astúcia ou mentira;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 139,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 14,
+    "carta2": 11,
+    "interpretacao_geral": "falsidade e desconfiança causando atritos.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 139,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 15,
+    "interpretacao_geral": "disputa de poder, ciúmes e possessividade;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 139,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 15,
+    "carta2": 11,
+    "interpretacao_geral": "controle excessivo gerando brigas.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 139,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 16,
+    "interpretacao_geral": "clareza surge após tensão e repetição;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 139,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 16,
+    "carta2": 11,
+    "interpretacao_geral": "direção espiritual ajuda a romper padrões.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 139,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 17,
+    "interpretacao_geral": "mudanças acompanhadas de inquietação;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 140,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 17,
+    "carta2": 11,
+    "interpretacao_geral": "transformação vem depois do conflito.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 140,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 18,
+    "interpretacao_geral": "amizade ou apoio testados por discussões;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 140,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 18,
+    "carta2": 11,
+    "interpretacao_geral": "lealdade abalada por atritos.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 140,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 19,
+    "interpretacao_geral": "distanciamento e frieza após brigas;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 140,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 19,
+    "carta2": 11,
+    "interpretacao_geral": "isolamento prolongando o conflito.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 140,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 20,
+    "interpretacao_geral": "conflitos em grupo ou exposição pública;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 141,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 20,
+    "carta2": 11,
+    "interpretacao_geral": "vida social marcada por fofocas e tensão.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 141,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 21,
+    "interpretacao_geral": "problema difícil, bloqueio e insistência;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 141,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 21,
+    "carta2": 11,
+    "interpretacao_geral": "obstinação prolongando o desgaste.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 141,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 22,
+    "interpretacao_geral": "indecisão e escolhas tensas;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 141,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 22,
+    "carta2": 11,
+    "interpretacao_geral": "decisão tomada sob pressão.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 141,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 23,
+    "interpretacao_geral": "desgaste, irritação e perda de energia;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 142,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 23,
+    "carta2": 11,
+    "interpretacao_geral": "preocupações corroendo a paz.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 142,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 24,
+    "interpretacao_geral": "paixão intensa com brigas emocionais;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 142,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 24,
+    "carta2": 11,
+    "interpretacao_geral": "sentimentos feridos e tensão amorosa.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 142,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 25,
+    "interpretacao_geral": "vínculo preso a padrões de conflito;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 142,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 25,
+    "carta2": 11,
+    "interpretacao_geral": "relação exigindo ajustes urgentes.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 142,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 26,
+    "interpretacao_geral": "segredos e assuntos ocultos gerando tensão;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 143,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 26,
+    "carta2": 11,
+    "interpretacao_geral": "o que está escondido provoca discussão.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 143,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 27,
+    "interpretacao_geral": "mensagem dura, cobrança ou comunicação agressiva;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 143,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 27,
+    "carta2": 11,
+    "interpretacao_geral": "notícia escrita despertando conflito.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 143,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 28,
+    "interpretacao_geral": "homem impaciente, combativo ou irritado;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 143,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 28,
+    "carta2": 11,
+    "interpretacao_geral": "postura masculina intensifica o debate.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 143,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 29,
+    "interpretacao_geral": "mulher intensa, crítica ou discutidora;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 144,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 29,
+    "carta2": 11,
+    "interpretacao_geral": "postura feminina gerando tensão.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 144,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 30,
+    "interpretacao_geral": "sensualidade intensa ou paz interrompida;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 144,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 30,
+    "carta2": 11,
+    "interpretacao_geral": "busca de harmonia em meio às tensões.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 144,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 31,
+    "interpretacao_geral": "clareza, solução e vitalidade após o conflito;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 144,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 31,
+    "carta2": 11,
+    "interpretacao_geral": "verdade expõe e dissipa a tensão.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 144,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 32,
+    "interpretacao_geral": "conflitos emocionais, ansiedade e agitação interior;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 145,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 32,
+    "carta2": 11,
+    "interpretacao_geral": "sentimentos intensos, magnetismo e tensão psíquica.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 145,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 33,
+    "interpretacao_geral": "discussão decisiva, solução através do confronto;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 145,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 33,
+    "carta2": 11,
+    "interpretacao_geral": "verdade revelada, problema importante vindo à tona.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 145,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 34,
+    "interpretacao_geral": "gastos impulsivos, tensão financeira ou excessos;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 145,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 34,
+    "carta2": 11,
+    "interpretacao_geral": "dinheiro gerando disputas, ambição e estresse.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 145,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 35,
+    "interpretacao_geral": "desgaste prolongado, conflito repetitivo e estagnação;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 146,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 35,
+    "carta2": 11,
+    "interpretacao_geral": "tensão no trabalho ou insistência em um problema.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 146,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 36,
+    "interpretacao_geral": "sofrimento, culpa ou provação marcada por discussões;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 146,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
+  },
+  {
+    "carta1": 36,
+    "carta2": 11,
+    "interpretacao_geral": "carma, dor repetida e peso emocional.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 146,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Associação simbólica da fonte, não constatação factual."
   }
 ];
