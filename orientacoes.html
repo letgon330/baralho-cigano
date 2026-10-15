@@ -72,6 +72,7 @@ function leitura(){const a=cartas[+document.getElementById("carta1").value-1],b=
 document.getElementById("carta1").onchange=leitura;document.getElementById("carta2").onchange=leitura;document.getElementById("inverter").onclick=()=>{const a=document.getElementById("carta1"),b=document.getElementById("carta2");[a.value,b.value]=[b.value,a.value];leitura()};mostrar();leitura();
 </script><script src="./dados/combinacoes-direcionais-pdf.js"></script>
 <script src="./dados/variacoes-combinacoes-pdf.js"></script>
+<script src="./dados/auditoria-ocorrencias-repetidas.js"></script>
 <script src="./dados/guia-didatico-36.js"></script>
 <script src="./dados/sentimentos-36.js"></script>
 <script src="./dados/tempo-metodo-base-mestra.js"></script>
@@ -140,6 +141,7 @@ function atualizar(){
  '<p class="muted">Interpretação específica documentada: '+matched.length+' registro(s)</p>'+
  matched.map(x=>'<p><strong>Interpretação geral:</strong> '+safe(x.interpretacao_geral)+'</p><p class="muted">Fonte: '+safe(x.fonte)+', página '+x.pagina+'.</p>').join('')+
  (window.VARIACOES_COMBINACOES_DOCUMENTADAS||[]).filter(x=>x.carta1===a&&x.carta2===b).map(x=>'<details><summary>Variação documentada (página '+x.pagina+')</summary><p>'+safe(x.interpretacao_geral)+'</p><p class="muted">Fonte: '+safe(x.fonte)+', página '+x.pagina+'; leitura anterior preservada da página '+x.pagina_original+'.</p></details>').join('')+
+ (window.AUDITORIA_OCORRENCIAS_REPETIDAS||[]).filter(x=>x.carta1===a&&x.carta2===b).map(x=>'<details><summary>Outra ocorrência da mesma interpretação — '+safe(x.fonte)+', p. '+x.pagina+'</summary><p>'+safe(x.texto)+'</p><p class="muted">Categoria da fonte: '+safe(x.categoria)+'. Registro consolidado sem perda da referência.</p></details>').join('')+
  '<p class="muted">As demais categorias só serão exibidas quando constarem da fonte. A redação do PDF é apresentada como interpretação oracular, não como certeza factual.</p></div>';
 }
 seletor1.addEventListener('change',atualizar);
