@@ -1,3 +1,7 @@
+/* Carrega somente arquivos estáticos da própria branch. */
+(async()=>{
+const loadScript=src=>new Promise((resolve,reject)=>{const script=document.createElement('script');script.src=src;script.onload=resolve;script.onerror=()=>reject(new Error('Não foi possível carregar '+src));document.body.append(script)});
+try{if(!window.GUIAS_VISUAIS_PDFS)await loadScript('./dados/guias-visuais-pdfs.js');if(!window.renderPdfVisualGuide)await loadScript('./dados/guias-visuais-interface.js')}catch(error){console.error(error);window.GUIAS_VISUAIS_PDFS=window.GUIAS_VISUAIS_PDFS||[];window.LICOES_ILUSTRADAS_PDFS=window.LICOES_ILUSTRADAS_PDFS||[];window.renderPdfVisualGuide=window.renderPdfVisualGuide||(()=>'<p>Não foi possível carregar este guia. Atualize a página para tentar novamente.</p>');window.renderPdfIllustratedLesson=window.renderPdfIllustratedLesson||(()=>'<p>Não foi possível carregar esta orientação. Atualize a página para tentar novamente.</p>')}
 /* Renderização compartilhada. Procedência permanece integral nos dados de origem. */
 (()=>{'use strict';
 const e=esc, n=v=>Number(v), normal=norm;
@@ -37,7 +41,7 @@ const view=document.createElement('section');view.id='view-orientacoes';view.cla
 view.innerHTML=`<div class="panel"><div class="kicker">Biblioteca de consulta</div><h2 class="sectionTitle" style="margin-top:0">Orientações</h2><p class="detailLead">Consulte conselhos, técnicas de interpretação e materiais de estudo. Relacione cada orientação à pergunta, à posição e às cartas vizinhas.</p><div class="themeTabs" id="orientationTabs"></div><div class="controls"><input class="search" id="orientationSearch" type="search" aria-label="Pesquisar orientações" placeholder="Pesquisar conselho, carta ou técnica…"></div><p id="orientationCount" class="detailLead" aria-live="polite"></p><div id="orientationContent"></div></div>`;
 document.querySelector('main.wrap').append(view);
 const old=document.querySelector('#mainNav a[href*="orientacoes.html"]');const button=document.createElement('button');button.type='button';button.dataset.view='orientacoes';button.textContent='Orientações';button.onclick=()=>showView('orientacoes');old?.replaceWith(button);
-const groups=[['geral','Geral'],['conselhos','Conselhos por carta'],['tecnicas','Técnicas e métodos'],['estudos','Estudos complementares'],['trios','Sequências de três cartas']];let active='geral';
+const groups=[['geral','Geral'],['visuais','Guias visuais explicados'],['ilustrados','Conselhos ilustrados'],['conselhos','Conselhos por carta'],['tecnicas','Técnicas e métodos'],['estudos','Estudos complementares'],['trios','Sequências de três cartas']];let active='geral';
 const observations=[1,2,3,4,5,6,7].flatMap(i=>window[(i===1?'NOVOS':'NOVOS'+i)+'_OBSERVACOES']||[]);
 const techniques=[...TECNICAS_COMPLEMENTARES,...[4,5,6,7].flatMap(i=>window['NOVOS'+i+'_METODOS']||[])];
 const sequences=[3,4,5].flatMap(i=>window['NOVOS'+i+'_TRIOS']||[]);
@@ -46,6 +50,8 @@ const accord=(title,body)=>`<details class="acc"><summary>${esc(title)}</summary
 function render(){document.getElementById('orientationTabs').innerHTML=groups.map(([key,label])=>`<button class="themeTab ${active===key?'active':''}" data-orientation-tab="${key}">${label}</button>`).join('');view.querySelectorAll('[data-orientation-tab]').forEach(b=>b.onclick=()=>{active=b.dataset.orientationTab;render()});
 const query=norm(document.getElementById('orientationSearch').value);let rows=[];
 if(active==='geral')rows=[{title:'Como construir uma leitura contextual',html:introduction},{title:'Significados e combinações',html:'<div class="methodGuideGrid"><div class="methodGuideBox"><h4>36 cartas</h4><p>Significados por área, sentimentos, características e conselhos.</p><button class="smallBtn" data-orientation-go="cartas">Consultar cartas</button></div><div class="methodGuideBox"><h4>Combinações</h4><p>Interpretações, variações e diferenças entre as ordens.</p><button class="smallBtn" data-orientation-go="combinacoes">Consultar combinações</button></div></div>'}];
+if(active==='visuais')rows=GUIAS_VISUAIS_PDFS.map(g=>({title:g.title,html:'<h3>'+esc(g.title)+'</h3>'+renderPdfVisualGuide(g)}));
+if(active==='ilustrados')rows=LICOES_ILUSTRADAS_PDFS.map(l=>({title:l.title,html:renderPdfIllustratedLesson(l)}));
 if(active==='conselhos')rows=observations.map(x=>({title:names([x.carta])+' · '+x.categoria,body:x.texto}));
 if(active==='tecnicas')rows=techniques.map(x=>({title:x.nome+' · '+x.categoria,body:x.orientacao||x.descricao}));
 if(active==='estudos')rows=[{title:'Estudos complementares',html:studies}];
@@ -55,4 +61,6 @@ document.getElementById('orientationCount').textContent=rows.length+' tópico(s)
 document.getElementById('orientationContent').innerHTML=rows.map(x=>x.html?'<div class="infoBlock">'+x.html+'</div>':accord(x.title,x.body)).join('')||'<div class="topicEmpty">Nenhum tópico encontrado. Experimente outra palavra.</div>';
 view.querySelectorAll('[data-orientation-go]').forEach(b=>b.onclick=()=>showView(b.dataset.orientationGo));}
 document.getElementById('orientationSearch').oninput=render;render();
+})();
+
 })();
