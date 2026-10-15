@@ -6639,5 +6639,95 @@ window.COMBINACOES_DOCUMENTADAS=[
     "pagina": 8,
     "transcricao": "extraída do texto do PDF",
     "observacao": "Exemplo contextual indicado na regra para uso no site. Não inferir automaticamente a leitura inversa."
+  },
+  {
+    "carta1": 7,
+    "carta2": 22,
+    "categoria": "relações e infidelidade (simbólico)",
+    "interpretacao_geral": "Relação extraconjugal.",
+    "fonte": "NOVOS.pdf",
+    "pagina": 29,
+    "transcricao": "trecho curto registrado após conferência visual",
+    "observacao": "Associação simbólica da fonte, sem servir de prova de infidelidade ou da intenção de terceiros."
+  },
+  {
+    "carta1": 22,
+    "carta2": 7,
+    "categoria": "relações e infidelidade (simbólico)",
+    "interpretacao_geral": "Relação extraconjugal.",
+    "fonte": "NOVOS.pdf",
+    "pagina": 29,
+    "transcricao": "trecho curto registrado após conferência visual",
+    "observacao": "Associação simbólica da fonte, sem servir de prova de infidelidade ou da intenção de terceiros."
+  },
+  {
+    "carta1": 7,
+    "carta2": 25,
+    "categoria": "relações e infidelidade (simbólico)",
+    "interpretacao_geral": "Pessoa que interfere na relação.",
+    "fonte": "NOVOS.pdf",
+    "pagina": 26,
+    "transcricao": "trecho curto registrado após conferência visual",
+    "observacao": "Associação simbólica da fonte, sem servir de prova de infidelidade ou da intenção de terceiros."
+  },
+  {
+    "carta1": 7,
+    "carta2": 24,
+    "categoria": "relações e infidelidade (simbólico)",
+    "interpretacao_geral": "Paixão proibida.",
+    "fonte": "NOVOS.pdf",
+    "pagina": 26,
+    "transcricao": "trecho curto registrado após conferência visual",
+    "observacao": "Associação simbólica da fonte, sem servir de prova de infidelidade ou da intenção de terceiros."
+  },
+  {
+    "carta1": 7,
+    "carta2": 32,
+    "categoria": "relações e infidelidade (simbólico)",
+    "interpretacao_geral": "Atração secreta.",
+    "fonte": "NOVOS.pdf",
+    "pagina": 26,
+    "transcricao": "trecho curto registrado após conferência visual",
+    "observacao": "Associação simbólica da fonte, sem servir de prova de infidelidade ou da intenção de terceiros."
+  },
+  {
+    "carta1": 26,
+    "carta2": 7,
+    "categoria": "relações e infidelidade (simbólico)",
+    "interpretacao_geral": "Relação secreta.",
+    "fonte": "NOVOS.pdf",
+    "pagina": 28,
+    "transcricao": "trecho curto registrado após conferência visual",
+    "observacao": "Associação simbólica da fonte, sem servir de prova de infidelidade ou da intenção de terceiros."
+  },
+  {
+    "carta1": 26,
+    "carta2": 14,
+    "categoria": "relações e infidelidade (simbólico)",
+    "interpretacao_geral": "Mentira mantida em segredo.",
+    "fonte": "NOVOS.pdf",
+    "pagina": 28,
+    "transcricao": "trecho curto registrado após conferência visual",
+    "observacao": "Associação simbólica da fonte, sem servir de prova de infidelidade ou da intenção de terceiros."
+  },
+  {
+    "carta1": 26,
+    "carta2": 24,
+    "categoria": "relações e infidelidade (simbólico)",
+    "interpretacao_geral": "Amor platônico.",
+    "fonte": "NOVOS.pdf",
+    "pagina": 28,
+    "transcricao": "trecho curto registrado após conferência visual",
+    "observacao": "Associação simbólica da fonte, sem servir de prova de infidelidade ou da intenção de terceiros."
+  },
+  {
+    "carta1": 22,
+    "carta2": 25,
+    "categoria": "relações e infidelidade (simbólico)",
+    "interpretacao_geral": "Dúvida no relacionamento.",
+    "fonte": "NOVOS.pdf",
+    "pagina": 29,
+    "transcricao": "trecho curto registrado após conferência visual",
+    "observacao": "Associação simbólica da fonte, sem servir de prova de infidelidade ou da intenção de terceiros."
   }
 ];
