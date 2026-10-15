@@ -7489,5 +7489,215 @@ window.COMBINACOES_DOCUMENTADAS=[
     "pagina": 100,
     "transcricao": "síntese conferida visualmente; não literal integral",
     "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 25,
+    "carta2": 23,
+    "categoria": "vínculos negativos",
+    "interpretacao_geral": "Amor: relacionamento desgastado ou que apresenta sinais de adoecimento emocional. Trabalho: contratos que geram prejuízos, perdas financeiras ou até roubos, de forma literal ou energética. Saúde: necessidade de maior compromisso com a própria saúde; possível repetição de hábitos prejudiciais e dificuldade para romper o ciclo.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 8,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 25,
+    "carta2": 14,
+    "categoria": "vínculos negativos",
+    "interpretacao_geral": "Amor: relacionamento sustentado por interesses, manipulação ou falta de transparência. Trabalho: parcerias, contratos ou acordos de caráter duvidoso; atenção a golpes e promessas falsas. Saúde: tratamentos inadequados ou falta de comprometimento com o processo de cura.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 9,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 25,
+    "carta2": 8,
+    "categoria": "vínculos negativos",
+    "interpretacao_geral": "Amor: vínculo que chegou ao fim ou precisa ser encerrado; términos difíceis e dolorosos. Trabalho: fim de contrato, desligamento, encerramento de sociedade ou conclusão de ciclo profissional. Saúde: momento de romper hábitos prejudiciais e encerrar padrões que comprometem o bem-estar.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 10,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 18,
+    "carta2": 6,
+    "categoria": "perfis de amizade",
+    "interpretacao_geral": "Amigo inseguro: sempre querendo um conselho.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 27,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 18,
+    "carta2": 2,
+    "categoria": "perfis de amizade",
+    "interpretacao_geral": "Amigo sortudo: ganha no bingo, na capitalização e até na loteria.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 28,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 18,
+    "carta2": 23,
+    "categoria": "perfis de amizade",
+    "interpretacao_geral": "Amigo pessimista: tudo vai dar errado sempre.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 29,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 18,
+    "carta2": 3,
+    "categoria": "perfis de amizade",
+    "interpretacao_geral": "Amigo distante: qualquer dia a gente vai se encontrar.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 30,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 18,
+    "carta2": 15,
+    "categoria": "perfis de amizade",
+    "interpretacao_geral": "Amigo Urso: possessivo, não aceita seus outros amigos.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 31,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 18,
+    "carta2": 34,
+    "categoria": "perfis de amizade",
+    "interpretacao_geral": "Amigo próspero: riqueza que te inspira a vencer.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 32,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 18,
+    "carta2": 36,
+    "categoria": "perfis de amizade",
+    "interpretacao_geral": "Amigo vítima: sempre carregando alguma cruz.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 33,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 17,
+    "carta2": 31,
+    "categoria": "mudanças positivas",
+    "interpretacao_geral": "Renovação com sucesso. Mudanças que trazem clareza, vitalidade e conquistas. Um novo ciclo começa com brilho e confiança.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 39,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 17,
+    "carta2": 16,
+    "categoria": "mudanças positivas",
+    "interpretacao_geral": "Mudanças guiadas pela intuição. Transformações espirituais alinhadas com seu propósito. Um novo caminho se abre com proteção e fé.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 40,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 17,
+    "carta2": 24,
+    "categoria": "mudanças positivas",
+    "interpretacao_geral": "Transformações no amor. Um novo capítulo afetivo se inicia; pode representar novo relacionamento, renovação de sentimentos ou cura emocional.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 41,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 17,
+    "carta2": 12,
+    "categoria": "mudanças positivas",
+    "interpretacao_geral": "Novidades através de conversas. Diálogos importantes anunciam mudanças leves e animadoras; podem indicar boas notícias ou reconciliações.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 42,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 17,
+    "carta2": 27,
+    "categoria": "mudanças positivas",
+    "interpretacao_geral": "Boas novas chegando. Mudanças positivas anunciadas por mensagens, contratos ou convites.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 43,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 10,
+    "carta2": 19,
+    "categoria": "cortes estruturais",
+    "interpretacao_geral": "Cortes necessários envolvendo estruturas, isolamento ou instituições. O material sugere romper o que já não sustenta sua evolução.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 60,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 13,
+    "carta2": 11,
+    "categoria": "alertas sobre infância",
+    "interpretacao_geral": "Conflitos na infância: brigas, discussões ou experiências traumáticas na infância; pode também sugerir imaturidade agressiva.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 113,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 13,
+    "carta2": 7,
+    "categoria": "alertas sobre infância",
+    "interpretacao_geral": "Manipulação sutil: pode alertar para pessoas falsas ou manipuladoras agindo com aparente inocência.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 114,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 13,
+    "carta2": 8,
+    "categoria": "alertas sobre infância",
+    "interpretacao_geral": "Fim de ciclos leves: encerramento de uma fase despreocupada ou inocente; bloqueio criativo ou perda da essência.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 115,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 13,
+    "carta2": 23,
+    "categoria": "alertas sobre infância",
+    "interpretacao_geral": "Carência e perda de alegria: desgaste, preocupações, responsabilidades precoces ou perda da espontaneidade.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 116,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
+  },
+  {
+    "carta1": 13,
+    "carta2": 19,
+    "categoria": "alertas sobre infância",
+    "interpretacao_geral": "Isolamento precoce: solidão na infância, dificuldade de socialização ou construção de barreiras emocionais desde cedo.",
+    "fonte": "NOVOS 6.pdf",
+    "pagina": 117,
+    "transcricao": "conteúdo conferido visualmente; não transcrição literal integral",
+    "observacao": "Interpretação simbólica; não confirma relações, condições médicas, personalidade ou acontecimentos."
   }
 ];
