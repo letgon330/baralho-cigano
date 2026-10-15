@@ -299,5 +299,565 @@ window.COMBINACOES_DOCUMENTADAS=[
     "categoria": "geral",
     "transcricao": "revisada visualmente",
     "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 1,
+    "carta2": 17,
+    "interpretacao_geral": "Muita fertilidade, provavelmente uma gravidez;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 10,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 17,
+    "carta2": 1,
+    "interpretacao_geral": "Se você buscar mudanças, as soluções aparecerão.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 10,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 1,
+    "carta2": 18,
+    "interpretacao_geral": "Haverá mudanças em sua vida conquistadas com a ajuda de bons amigos;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 10,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 18,
+    "carta2": 1,
+    "interpretacao_geral": "Para qualquer questão, procure ajuda dos amigos leais.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 10,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 1,
+    "carta2": 19,
+    "interpretacao_geral": "O momento ruim acabará em breve;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 10,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 19,
+    "carta2": 1,
+    "interpretacao_geral": "Esse é um período em que você precisa meditar e encontrar as respostas que necessita.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 10,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 1,
+    "carta2": 20,
+    "interpretacao_geral": "Os sonhos realizarão trazendo harmonia;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 11,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 20,
+    "carta2": 1,
+    "interpretacao_geral": "Saia mais de sua casa, prazer com amigos, família, comunique-se.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 11,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 1,
+    "carta2": 21,
+    "interpretacao_geral": "Encare os desafios que surgirão;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 11,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 21,
+    "carta2": 1,
+    "interpretacao_geral": "Por mais exaustivo que seja os obstáculos, saiba que o esforço para solucioná-los valerá à pena.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 11,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 1,
+    "carta2": 22,
+    "interpretacao_geral": "Estude bem qual caminho seguirá;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 11,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 22,
+    "carta2": 1,
+    "interpretacao_geral": "Suas boas escolhas renderão bons frutos.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 11,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 1,
+    "carta2": 23,
+    "interpretacao_geral": "Afaste do que esgota sua energia;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 12,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 23,
+    "carta2": 1,
+    "interpretacao_geral": "O que parecia ruim logo mais transformará em novidades.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 12,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 1,
+    "carta2": 24,
+    "interpretacao_geral": "Notícias trarão um momento de paz e harmonia;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 12,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 24,
+    "carta2": 1,
+    "interpretacao_geral": "Os sentimentos e emoções se renovarão.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 12,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 1,
+    "carta2": 25,
+    "interpretacao_geral": "Ter proveito das parcerias e uniões em todos setores;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 12,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 25,
+    "carta2": 1,
+    "interpretacao_geral": "Uniões estabelecidas anteriormente lhe trarão um momento de paz e harmonia.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 12,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 1,
+    "carta2": 26,
+    "interpretacao_geral": "Você é deparará com oportunidades, não abra mão delas;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 13,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 26,
+    "carta2": 1,
+    "interpretacao_geral": "Não confie em ninguém, guarde para si o que é importante.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 13,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 1,
+    "carta2": 27,
+    "interpretacao_geral": "Tenha paciência pois logo boas notícias mudarão a sua vida;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 13,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 27,
+    "carta2": 1,
+    "interpretacao_geral": "Use todo seu conhecimento e experiência para tomar novos rumos em sua vida.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 13,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 1,
+    "carta2": 28,
+    "interpretacao_geral": "Figura de um homem persuasivo e corajoso mexerá com sua vida (pode ser você ou alguém próximo);",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 13,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 28,
+    "carta2": 1,
+    "interpretacao_geral": "Há um homem que sempre está próximo a você que te influenciará.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 13,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 1,
+    "carta2": 29,
+    "interpretacao_geral": "Figura de uma mulher forte e que controla seu próprio destino (pode ser você ou alguém próximo);",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 14,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 29,
+    "carta2": 1,
+    "interpretacao_geral": "Há uma mulher próxima a você que te influenciará.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 14,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 1,
+    "carta2": 30,
+    "interpretacao_geral": "As emoções estarão mais seguras pois esse é um momento de harmonia;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 14,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 30,
+    "carta2": 1,
+    "interpretacao_geral": "Não deixe as emoções dominarem neste momento, você precisa ser racional para encontrar as melhores respostas.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 14,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 1,
+    "carta2": 31,
+    "interpretacao_geral": "Os sonhos se realizarão;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 14,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 31,
+    "carta2": 1,
+    "interpretacao_geral": "Não tenha medo do destino, seja corajoso.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 14,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 1,
+    "carta2": 32,
+    "interpretacao_geral": "Use a intuição para encontrar respostas;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 15,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 32,
+    "carta2": 1,
+    "interpretacao_geral": "O seu poder interior será a principal arma para encontrar tudo que deseja de forma rápida.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 15,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 1,
+    "carta2": 33,
+    "interpretacao_geral": "Momento de mudar o foco para encontrar respostas;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 15,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 33,
+    "carta2": 1,
+    "interpretacao_geral": "Não há mais nada para ser descoberto, portanto determine à partir daqui os seus planos.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 15,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 1,
+    "carta2": 34,
+    "interpretacao_geral": "Momento de focar nos bens materiais e profissionais;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 15,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 34,
+    "carta2": 1,
+    "interpretacao_geral": "A prosperidade entrará em sua vida.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 15,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 1,
+    "carta2": 35,
+    "interpretacao_geral": "Você precisa demonstrar atitude para que o novo surja;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 16,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 35,
+    "carta2": 1,
+    "interpretacao_geral": "Momento de paz e principalmente segurança.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 16,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 1,
+    "carta2": 36,
+    "interpretacao_geral": "Você pode e precisa superar os momentos de dor e angústia;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 16,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 36,
+    "carta2": 1,
+    "interpretacao_geral": "O que era ruim se foi, agora um momento de paz e alegria surgirá.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 16,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 2,
+    "carta2": 3,
+    "interpretacao_geral": "Alguns desafios ou surpresas negativas em uma viagem;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 18,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 3,
+    "carta2": 2,
+    "interpretacao_geral": "Qualquer que seja o problema, se mantenha longe;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 18,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 2,
+    "carta2": 4,
+    "interpretacao_geral": "Ter mais cuidado com suas relações familiares;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 18,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 4,
+    "carta2": 2,
+    "interpretacao_geral": "Problema no imóvel ou casa que reside.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 18,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 2,
+    "carta2": 5,
+    "interpretacao_geral": "Novos obstáculos que tirarão você do equilíbrio;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 19,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 2,
+    "interpretacao_geral": "Lembre-se das suas raízes para afastar os problemas;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 19,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 2,
+    "carta2": 6,
+    "interpretacao_geral": "Problemas que estão te deixando confusa, livre-se deles;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 19,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 6,
+    "carta2": 2,
+    "interpretacao_geral": "Lembre-se de quem você realmente é, pense muito bem antes de agir;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 19,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 2,
+    "carta2": 7,
+    "interpretacao_geral": "Aviso de falsidade e traição;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 19,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 7,
+    "carta2": 2,
+    "interpretacao_geral": "PRESTE ATENÇÃO NOS SEUS AMIGOS, SITUAÇÃO TRAIÇOEIRA PODE CHEGAR ATÉ VOCÊ.",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 19,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 2,
+    "carta2": 8,
+    "interpretacao_geral": "Os atuais problemas trarão mais momentos negativos;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 20,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 2,
+    "interpretacao_geral": "As mudanças que ocorreram foram feitas de forma problemática;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 20,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 2,
+    "carta2": 9,
+    "interpretacao_geral": "Todos os seus problemas estão sendo superados com equilíbrio, continue assim;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 20,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 9,
+    "carta2": 2,
+    "interpretacao_geral": "Muito cuidado, está com falta de equilíbrio emocional;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 20,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 2,
+    "carta2": 10,
+    "interpretacao_geral": "Você está conseguindo controlar os problemas;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 20,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 2,
+    "interpretacao_geral": "Por esse lado, você está colhendo os problemas que plantou;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 20,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
   }
 ];
