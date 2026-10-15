@@ -1,4 +1,4 @@
-/* Combinações documentadas por fonte e categoria. */
+/* Combinações documentadas por ordem, categoria e fonte */
 window.COMBINACOES_DOCUMENTADAS=[
   {
     "carta1": 1,
@@ -6889,5 +6889,295 @@ window.COMBINACOES_DOCUMENTADAS=[
     "pagina": 90,
     "transcricao": "texto documentado ou paráfrase curta conferida visualmente",
     "observacao": "Interpretação simbólica, não comprovação de gravidez, condição pessoal ou evento."
+  },
+  {
+    "carta1": 1,
+    "carta2": 16,
+    "categoria": "espiritualidade",
+    "interpretacao_geral": "Mensagem espiritual ou destino se aproximando.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 8,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 2,
+    "carta2": 16,
+    "categoria": "espiritualidade",
+    "interpretacao_geral": "Inspiração divina, sorte espiritual e encontro guiado pelo destino.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 9,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 2,
+    "carta2": 36,
+    "categoria": "espiritualidade",
+    "interpretacao_geral": "Sorte no destino e superação de provações espirituais.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 9,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 2,
+    "carta2": 9,
+    "categoria": "espiritualidade",
+    "interpretacao_geral": "Uso de amuleto, plantas, ervas medicinais ou óleos aromáticos.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 9,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 3,
+    "carta2": 16,
+    "categoria": "espiritualidade",
+    "interpretacao_geral": "Evolução espiritual e expansão de consciência.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 10,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 3,
+    "carta2": 36,
+    "categoria": "espiritualidade",
+    "interpretacao_geral": "Viagem kármica e mudanças profundas inevitáveis.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 10,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 4,
+    "carta2": 5,
+    "categoria": "espiritualidade",
+    "interpretacao_geral": "Ancestrais familiares.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 11,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 4,
+    "carta2": 16,
+    "categoria": "espiritualidade",
+    "interpretacao_geral": "Conexão com antepassados.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 11,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 4,
+    "carta2": 23,
+    "categoria": "espiritualidade",
+    "interpretacao_geral": "Desgaste energético no ambiente doméstico, falta de firmeza espiritual.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 11,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 5,
+    "carta2": 15,
+    "categoria": "espiritualidade",
+    "interpretacao_geral": "Força física e ancestralidade materna marcante.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 12,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 5,
+    "carta2": 30,
+    "categoria": "espiritualidade",
+    "interpretacao_geral": "Sabedoria ancestral profunda.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 12,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 5,
+    "carta2": 36,
+    "categoria": "espiritualidade",
+    "interpretacao_geral": "Ligação e resgate de alma ancestral.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 12,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 6,
+    "carta2": 8,
+    "categoria": "espiritualidade",
+    "interpretacao_geral": "Alerta para a presença de espíritos perturbadores.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 13,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 6,
+    "carta2": 16,
+    "categoria": "espiritualidade",
+    "interpretacao_geral": "Perda de direção ou intuição temporariamente bloqueada.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 13,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 6,
+    "carta2": 30,
+    "categoria": "espiritualidade",
+    "interpretacao_geral": "Paz após a tempestade e dissipação de problemas espirituais.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 13,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 7,
+    "carta2": 24,
+    "categoria": "infidelidade (simbólico)",
+    "interpretacao_geral": "Traição amorosa. Alguém pode estar vivendo uma paixão extraconjugal.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 54,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 24,
+    "carta2": 7,
+    "categoria": "infidelidade (simbólico)",
+    "interpretacao_geral": "Sentimento traído ou amor traiçoeiro.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 54,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 7,
+    "carta2": 28,
+    "categoria": "infidelidade (simbólico)",
+    "interpretacao_geral": "Traição por parte de um homem.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 55,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 28,
+    "carta2": 7,
+    "categoria": "infidelidade (simbólico)",
+    "interpretacao_geral": "Homem traído, sedutor ou desonesto.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 55,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 7,
+    "carta2": 29,
+    "categoria": "infidelidade (simbólico)",
+    "interpretacao_geral": "Traição por parte de uma mulher.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 56,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 29,
+    "carta2": 7,
+    "categoria": "infidelidade (simbólico)",
+    "interpretacao_geral": "Mulher traída, sedutora ou desonesta.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 56,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 7,
+    "carta2": 25,
+    "categoria": "infidelidade (simbólico)",
+    "interpretacao_geral": "Alguém pode estar vivendo sedução e desejo fora da relação.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 57,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 25,
+    "carta2": 7,
+    "categoria": "infidelidade (simbólico)",
+    "interpretacao_geral": "Alguém está de olho no relacionamento; relação ingrata e/ou infiel.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 57,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 20,
+    "carta2": 12,
+    "categoria": "coletividade",
+    "interpretacao_geral": "Muitas pessoas conversando ou comentando.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 69,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 34,
+    "carta2": 20,
+    "categoria": "coletividade",
+    "interpretacao_geral": "Grande circulação de pessoas ou consumidores.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 70,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 23,
+    "carta2": 20,
+    "categoria": "coletividade",
+    "interpretacao_geral": "Grupo de pessoas que causam problemas, conflitos ou desgaste.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 71,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 31,
+    "carta2": 4,
+    "categoria": "espiritualidade e prosperidade no lar",
+    "interpretacao_geral": "Felicidade no lar, família próspera.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 126,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 16,
+    "carta2": 31,
+    "categoria": "espiritualidade e prosperidade no lar",
+    "interpretacao_geral": "Realização de sonhos, proteção divina no sucesso.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 126,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 4,
+    "carta2": 16,
+    "categoria": "espiritualidade e prosperidade no lar",
+    "interpretacao_geral": "Lar abençoado, espiritualidade em casa.",
+    "fonte": "NOVOS 4.pdf",
+    "pagina": 126,
+    "transcricao": "trecho do PDF conferido visualmente",
+    "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
   }
 ];
