@@ -69,7 +69,8 @@ for(const el of ["busca","filtro"])document.getElementById(el).addEventListener(
 for(const id of ["carta1","carta2"]){const s=document.getElementById(id);s.innerHTML=cartas.map(c=>'<option value="'+c.id+'">'+esc(nome(c))+'</option>').join("")}document.getElementById("carta2").value="24";
 function leitura(){const a=cartas[+document.getElementById("carta1").value-1],b=cartas[+document.getElementById("carta2").value-1];document.getElementById("leitura").innerHTML='<div class="panel"><h3>'+esc(a.nome)+" → "+esc(b.nome)+'</h3><p><strong>Primeira carta (assunto):</strong> '+esc(a.geral)+'</p><p><strong>Segunda carta (modificação):</strong> '+esc(b.geral)+'</p><p><strong>Conselho de análise:</strong> '+esc(a.conselho)+" "+esc(b.conselho)+'</p><p class="muted">Esta é uma leitura estruturada dos significados individuais, não uma combinação específica documental. A transcrição e indexação integral das combinações dos PDFs está pendente.</p></div>'}
 document.getElementById("carta1").onchange=leitura;document.getElementById("carta2").onchange=leitura;document.getElementById("inverter").onclick=()=>{const a=document.getElementById("carta1"),b=document.getElementById("carta2");[a.value,b.value]=[b.value,a.value];leitura()};mostrar();leitura();
-</script><script src="./dados/guia-didatico-36.js"></script>
+</script><script src="./dados/combinacoes-direcionais-pdf.js"></script>
+<script src="./dados/guia-didatico-36.js"></script>
 <script>
 (function(){
 const base=window.GUIA_DIDATICO_36||[];
@@ -99,5 +100,27 @@ window.mostrar= function(){
 document.getElementById("busca").addEventListener("input",window.mostrar);
 document.getElementById("filtro").addEventListener("input",window.mostrar);
 window.mostrar();leitura();
+})();
+</script><script>
+(function(){
+const registros=window.COMBINACOES_DOCUMENTADAS||[];
+if(!registros.length)return;
+const seletor1=document.getElementById('carta1'),seletor2=document.getElementById('carta2'),saida=document.getElementById('leitura');
+const safe=s=>String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const originalLeitura=window.leitura;
+function atualizar(){
+ const a=Number(seletor1.value),b=Number(seletor2.value);
+ const matched=registros.filter(x=>x.carta1===a&&x.carta2===b);
+ if(!matched.length){originalLeitura();return;}
+ const c1=cartas[a-1],c2=cartas[b-1];
+ saida.innerHTML='<div class="panel"><h3>'+safe(c1.nome)+' → '+safe(c2.nome)+'</h3>'+
+ '<p class="muted">Interpretação específica documentada: '+matched.length+' registro(s)</p>'+
+ matched.map(x=>'<p><strong>Interpretação geral:</strong> '+safe(x.interpretacao_geral)+'</p><p class="muted">Fonte: '+safe(x.fonte)+', página '+x.pagina+'.</p>').join('')+
+ '<p class="muted">As demais categorias só serão exibidas quando constarem da fonte. A redação do PDF é apresentada como interpretação oracular, não como certeza factual.</p></div>';
+}
+seletor1.addEventListener('change',atualizar);
+seletor2.addEventListener('change',atualizar);
+document.getElementById('inverter').addEventListener('click',atualizar);
+atualizar();
 })();
 </script></body></html>
