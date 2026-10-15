@@ -1,4 +1,4 @@
-/* Variações documentadas sem sobrescrever a interpretação principal */
+/* Variações reais de interpretação documentadas; repetições literais arquivadas por origem. */
 window.VARIACOES_COMBINACOES_DOCUMENTADAS=[
   {
     "carta1": 5,
@@ -622,19 +622,6 @@ window.VARIACOES_COMBINACOES_DOCUMENTADAS=[
     "tipo": "variação documentada"
   },
   {
-    "carta1": 4,
-    "carta2": 9,
-    "interpretacao_geral": "Família equilibrada e feliz.",
-    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
-    "pagina": 110,
-    "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica do material.",
-    "pagina_original": 46,
-    "interpretacao_original": "Família equilibrada e feliz;",
-    "tipo": "variação documentada"
-  },
-  {
     "carta1": 9,
     "carta2": 5,
     "interpretacao_geral": "Crescimento harmonioso, saúde e equilíbrio;",
@@ -1233,19 +1220,6 @@ window.VARIACOES_COMBINACOES_DOCUMENTADAS=[
     "tipo": "variação documentada"
   },
   {
-    "carta1": 12,
-    "carta2": 1,
-    "interpretacao_geral": "O seu forte neste momento é o diálogo, ele lhe trará bons resultados independente de qual seja a questão.",
-    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
-    "pagina": 148,
-    "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte.",
-    "pagina_original": 8,
-    "interpretacao_original": "O seu forte neste momento é o diálogo; ele lhe trará bons resultados, independente de qual seja a questão.",
-    "tipo": "variação documentada"
-  },
-  {
     "carta1": 1,
     "carta2": 12,
     "interpretacao_geral": "Boas novidades surgirão.",
@@ -1282,58 +1256,6 @@ window.VARIACOES_COMBINACOES_DOCUMENTADAS=[
     "observacao": "Interpretação simbólica da fonte.",
     "pagina_original": 21,
     "interpretacao_original": "Conversas tensas, inquietação e ansiedade podem surgir;",
-    "tipo": "variação documentada"
-  },
-  {
-    "carta1": 12,
-    "carta2": 3,
-    "interpretacao_geral": "Tente evoluir sua comunicação",
-    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
-    "pagina": 148,
-    "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte.",
-    "pagina_original": 34,
-    "interpretacao_original": "Tente evoluir sua comunicação;",
-    "tipo": "variação documentada"
-  },
-  {
-    "carta1": 3,
-    "carta2": 12,
-    "interpretacao_geral": "Acontecerá uma ótima viagem com amigos e familiares.",
-    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
-    "pagina": 148,
-    "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte.",
-    "pagina_original": 34,
-    "interpretacao_original": "Acontecerá uma ótima viagem com amigos e familiares;",
-    "tipo": "variação documentada"
-  },
-  {
-    "carta1": 12,
-    "carta2": 4,
-    "interpretacao_geral": "Muita fofoca e intriga familiar.",
-    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
-    "pagina": 149,
-    "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte.",
-    "pagina_original": 47,
-    "interpretacao_original": "Muita fofoca e intriga familiar;",
-    "tipo": "variação documentada"
-  },
-  {
-    "carta1": 4,
-    "carta2": 12,
-    "interpretacao_geral": "Romance e prosperidade.",
-    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
-    "pagina": 149,
-    "categoria": "geral",
-    "transcricao": "revisada visualmente",
-    "observacao": "Interpretação simbólica da fonte.",
-    "pagina_original": 47,
-    "interpretacao_original": "Romance e prosperidade;",
     "tipo": "variação documentada"
   },
   {
