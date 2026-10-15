@@ -26,3 +26,11 @@ O `index.html` principal não foi alterado: integrar a biblioteca, verificar ace
 
 ## Proteção da publicação
 Tudo foi feito em `feature/biblioteca-orientacoes-pdfs-20261015`, para revisão no PR #2, sem mesclar à `main`.
+
+## Continuação da auditoria de fidelidade — lote 1 (15/10/2026)
+- PDF: `COMBINAÇÕES DAS CARTAS (2) (1).pdf`, páginas 5–9, inspecionadas visualmente.
+- 30 registros principais cotejados, correspondentes aos pares Cavaleiro (01) + Trevo (02) até Estrelas (16), incluindo cada direção.
+- 0 correções de conteúdo aplicadas: não foram encontradas divergências materiais que justificassem substituir os textos. A análise não atesta identidade tipográfica de pontuação e espaçamento.
+- Status alterado de `conferência literal pendente` para `cotejo visual concluído (páginas 5–9)` nesses 30 registros; 630 permanecem pendentes do cotejo visual.
+- Totais estruturais preservados: 772 combinações únicas, 108 variações distintas e nove ocorrências repetidas arquivadas.
+- Próximo lote: páginas 10–16 e 18–20, seguido dos demais registros históricos. A página 17 é uma ficha individual, não um par.
