@@ -75,6 +75,73 @@
     .navLinks { grid-template-columns:minmax(0,1fr); }
     .brand { font-size:19px; }
   }
+
+  /* V18 — identidade visual editorial rosa, sem alterar lógica da aplicação */
+  button { -webkit-appearance:none; appearance:none; }
+  button.hubCard, button.hubCard strong, button.hubCard span {
+    color:var(--ink);
+    text-decoration:none;
+    -webkit-text-fill-color:currentColor;
+  }
+  button.hubCard span { color:var(--muted); }
+  button.hubCard:focus-visible, .mobileMenuButton:focus-visible,
+  .navLinks button:focus-visible { outline:3px solid var(--rose); outline-offset:3px; }
+  @media (max-width:700px) {
+    :root { --shadow:0 8px 24px rgba(107,61,79,.075); }
+    html { scroll-padding-top:95px; }
+    body { background:linear-gradient(180deg,#fff9fc 0%,#fff3f8 46%,#fff 100%); }
+    header { background:rgba(255,249,252,.98); border-bottom:1px solid #f0d9e2; }
+    .top { column-gap:8px; padding-block:10px; }
+    .brand { font-family:Georgia,serif; font-weight:700; letter-spacing:-.025em;
+      font-size:clamp(18px,5vw,22px); overflow-wrap:normal; }
+    .mobileMenuButton { background:var(--ink); color:#fff; border-color:var(--ink);
+      border-radius:12px; box-shadow:0 4px 12px rgba(67,47,55,.12); }
+    .navLinks { box-shadow:0 12px 24px rgba(67,47,55,.10); padding:12px; }
+    .navLinks button { font-weight:600; color:var(--ink); background:#fff9fc;
+      border-color:#efd6df; border-radius:12px; }
+    .navLinks button.active { background:var(--ink);color:#fff; }
+    .accountMini { font-size:12px; }
+    .accountMini button { border-radius:12px; color:var(--ink); background:white; }
+    .appView { padding-top:12px; }
+    .hero { padding:16px 2px 4px; }
+    .hero small, .kicker { font-size:10px; letter-spacing:.14em; }
+    .hero h1 { font-family:Georgia,serif; font-weight:600;
+      font-size:clamp(27px,7.2vw,36px); line-height:1.16;
+      letter-spacing:-.028em; color:var(--ink); margin-bottom:12px; }
+    .hero p,.detailLead { font-size:15px; line-height:1.64; max-width:65ch; }
+    .notice { background:#fff1f7; border:1px solid #edcbda; color:#794c60;
+      box-shadow:none; border-radius:16px; padding:14px 16px;
+      font-size:14px; line-height:1.6; }
+    .hubGrid { margin:16px 0 32px; gap:12px; }
+    button.hubCard { position:relative; display:block; text-align:left; width:100%;
+      background:#fff; border:1px solid #efd7e1; border-radius:18px;
+      padding:20px 44px 18px 17px; min-height:112px; box-shadow:0 7px 20px rgba(96,51,70,.065);
+      -webkit-tap-highlight-color:transparent; transform:none; }
+    button.hubCard:active { background:#fff4f9; transform:scale(.995); }
+    button.hubCard::after { content:"›"; position:absolute; right:15px; top:16px;
+      width:23px; height:23px; display:grid; place-items:center;
+      border-radius:50%; background:#fbe8f0; color:#9f5873;
+      font:700 25px/1 Georgia,serif; }
+    button.hubCard strong { display:block; font:600 21px/1.25 Georgia,serif;
+      margin:0 0 8px; color:#693d50 !important; -webkit-text-fill-color:#693d50; }
+    button.hubCard span { display:block; font:400 14px/1.58 Inter,Arial,sans-serif;
+      color:#75616b !important; -webkit-text-fill-color:#75616b; }
+    .panel { background:#fff; border-color:#efd7e1; box-shadow:var(--shadow); }
+    .sectionTitle { font-family:Georgia,serif; color:var(--ink); }
+    .flowStep, .flowStageCard, .textCard, .method, .areaCard, .metaCard {
+      box-shadow:0 3px 14px rgba(96,51,70,.035); }
+    .goldBtn { min-height:46px; }
+    input, select, textarea { font-size:16px; } /* previne zoom de foco no iPhone */
+    .flowNav button,.controls button,.smallBtn { min-height:44px; }
+    .flowResult,.readingGuide,.comboNarrative { font-size:14px; line-height:1.65; }
+    .footerNote { margin-top:25px; padding:10px 2px; }
+    #pwaInstallBtn { max-width:calc(100vw - 24px);
+      font-size:12px; padding:10px 12px; opacity:.94; }
+    .cardTabs { top:0; position:relative; }
+  }
+  @media (prefers-reduced-motion:reduce) {
+    .hubCard,.flowStep { transition:none!important; }
+  }
   `;
   function init() {
     if (document.getElementById("mobileV17Styles")) return;
