@@ -2039,5 +2039,305 @@ window.COMBINACOES_DOCUMENTADAS=[
     "categoria": "geral",
     "transcricao": "revisada visualmente",
     "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 4,
+    "carta2": 5,
+    "interpretacao_geral": "O ambiente que você vive será próspero e fortalecido;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 45,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 5,
+    "carta2": 4,
+    "interpretacao_geral": "Crescimento e evolução familiar;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 45,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 4,
+    "carta2": 6,
+    "interpretacao_geral": "Lar com momentos de complicações e desafios;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 45,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 6,
+    "carta2": 4,
+    "interpretacao_geral": "Desequilíbrio e desafios;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 45,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 4,
+    "carta2": 7,
+    "interpretacao_geral": "Simboliza traição, conselho para buscar equilíbrio interno;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 45,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 7,
+    "carta2": 4,
+    "interpretacao_geral": "Traição familiar;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 45,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 4,
+    "carta2": 8,
+    "interpretacao_geral": "Grandes mudanças familiares;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 46,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 8,
+    "carta2": 4,
+    "interpretacao_geral": "Separação e renovação;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 46,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 4,
+    "carta2": 9,
+    "interpretacao_geral": "Família equilibrada e feliz;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 46,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 9,
+    "carta2": 4,
+    "interpretacao_geral": "Felicidade e realização familiar;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 46,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 4,
+    "carta2": 10,
+    "interpretacao_geral": "Separação / corte e separação familiar;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 46,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 10,
+    "carta2": 4,
+    "interpretacao_geral": "Venda da casa ou imóvel;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 46,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 4,
+    "carta2": 11,
+    "interpretacao_geral": "Agressão familiar;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 47,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 11,
+    "carta2": 4,
+    "interpretacao_geral": "Novas situações familiares;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 47,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 4,
+    "carta2": 12,
+    "interpretacao_geral": "Romance e prosperidade;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 47,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 12,
+    "carta2": 4,
+    "interpretacao_geral": "Muita fofoca e intriga familiar;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 47,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 4,
+    "carta2": 13,
+    "interpretacao_geral": "Indica gravidez ou novo nascimento;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 47,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 13,
+    "carta2": 4,
+    "interpretacao_geral": "Chegada de crianças;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 47,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 4,
+    "carta2": 14,
+    "interpretacao_geral": "Roubo e obstáculos;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 48,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 14,
+    "carta2": 4,
+    "interpretacao_geral": "Usar da sabedoria para conseguir um imóvel;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 48,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 4,
+    "carta2": 15,
+    "interpretacao_geral": "Família que é protegida;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 48,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 15,
+    "carta2": 4,
+    "interpretacao_geral": "Dinheiro investido na área imobiliária;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 48,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 4,
+    "carta2": 16,
+    "interpretacao_geral": "Indica a família espiritual, os ancestrais;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 48,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 16,
+    "carta2": 4,
+    "interpretacao_geral": "Realização e alegria;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 48,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 4,
+    "carta2": 17,
+    "interpretacao_geral": "Reforma e mudanças;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 49,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 17,
+    "carta2": 4,
+    "interpretacao_geral": "Mudança de lar;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 49,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 4,
+    "carta2": 18,
+    "interpretacao_geral": "Família unida e feliz;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 49,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 18,
+    "carta2": 4,
+    "interpretacao_geral": "Pessoas da família surpreendendo;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 49,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 4,
+    "carta2": 19,
+    "interpretacao_geral": "Equilíbrio e fortaleza;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 49,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
+  },
+  {
+    "carta1": 19,
+    "carta2": 4,
+    "interpretacao_geral": "Busca de autoconhecimento e reequilíbrio energético;",
+    "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
+    "pagina": 49,
+    "categoria": "geral",
+    "transcricao": "revisada visualmente",
+    "observacao": "Linguagem do documento; não representa constatação factual."
   }
 ];
