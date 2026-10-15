@@ -1,4 +1,4 @@
-/* Combinações documentadas por ordem, categoria e fonte */
+/* Combinações documentadas por ordem, categoria e fonte. */
 window.COMBINACOES_DOCUMENTADAS=[
   {
     "carta1": 1,
@@ -7179,5 +7179,315 @@ window.COMBINACOES_DOCUMENTADAS=[
     "pagina": 126,
     "transcricao": "trecho do PDF conferido visualmente",
     "observacao": "Interpretação oracular simbólica; não prova fatos, traições ou intervenções espirituais."
+  },
+  {
+    "carta1": 24,
+    "carta2": 34,
+    "categoria": "amor e desejo",
+    "interpretacao_geral": "Paixão intensa, desejo que não se contém, envolvimento profundo.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 5,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 34,
+    "carta2": 33,
+    "categoria": "amor e desejo",
+    "interpretacao_geral": "Virada na vida sexual/afetiva, destravar algo que estava reprimido.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 5,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 24,
+    "carta2": 33,
+    "categoria": "amor e desejo",
+    "interpretacao_geral": "Sentimento verdadeiro que finalmente encontra solução, resposta que o coração esperava.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 5,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 28,
+    "carta2": 6,
+    "categoria": "descrição de pessoas",
+    "interpretacao_geral": "Um homem inseguro, ansioso, preocupado, instável, em dúvida.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 9,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 28,
+    "carta2": 24,
+    "categoria": "descrição de pessoas",
+    "interpretacao_geral": "Um homem amoroso, apaixonado, empático, sensível, carinhoso.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 9,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 28,
+    "carta2": 31,
+    "categoria": "descrição de pessoas",
+    "interpretacao_geral": "Um homem alegre, iluminado, alto astral, expansivo, solar.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 9,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 29,
+    "carta2": 5,
+    "categoria": "descrição de pessoas",
+    "interpretacao_geral": "Uma mulher saudável, equilibrada, forte, em ascensão.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 11,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 29,
+    "carta2": 26,
+    "categoria": "descrição de pessoas",
+    "interpretacao_geral": "Uma mulher educada, interessante, culta, misteriosa, estudiosa.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 11,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 29,
+    "carta2": 7,
+    "categoria": "descrição de pessoas",
+    "interpretacao_geral": "Uma mulher sedutora, ingrata, invejosa, tóxica, desleal.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 11,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 26,
+    "carta2": 15,
+    "categoria": "trabalho, saúde e segredos",
+    "interpretacao_geral": "A relação não está clara; dedicação ao aprimoramento profissional levantando a questão de competir no trabalho; doença escondida ou necessidade de investigar.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 73,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 26,
+    "carta2": 34,
+    "categoria": "trabalho e finanças",
+    "interpretacao_geral": "Interesse por condições materiais no parceiro; trabalho trazendo prosperidade; trabalho bem remunerado; doença não detectada; controle das finanças e herança liberada.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 74,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 30,
+    "carta2": 7,
+    "categoria": "trabalho e saúde",
+    "interpretacao_geral": "Traição mantida em segredo, caso extraconjugal, projeto profissional que precisa mudar, tratamentos interrompidos e cautela diante de situações difíceis.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 75,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 26,
+    "carta2": 9,
+    "categoria": "trabalho, estudo e saúde",
+    "interpretacao_geral": "Proposta de trabalho; bolsa de estudos; estudos concluídos; relação que cresce; recompensa do estudo; investigação de problemas físicos; formatura.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 76,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 26,
+    "carta2": 21,
+    "categoria": "trabalho e obstáculos",
+    "interpretacao_geral": "Doença escondida gerando problemas; segredos que prejudicam relação; questões jurídicas complicadas; dificuldades de formação e trabalho.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 77,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 26,
+    "carta2": 30,
+    "categoria": "estudo e maturidade",
+    "interpretacao_geral": "Uso de sabedoria, estudo em instituição, segredos revelados pela maturidade e dedicação profissional para aprimoramento.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 78,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 26,
+    "carta2": 31,
+    "categoria": "segredos e realização",
+    "interpretacao_geral": "Algo guardado ou escondido aparece na relação; sucesso e realização profissional baseada no conhecimento; cuidados de saúde revelados.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 78,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 26,
+    "carta2": 32,
+    "categoria": "segredos e reconhecimento",
+    "interpretacao_geral": "Relação secreta; pessoa guardada; reconhecimento profissional pelaquilo que faz; uso de clareza ao buscar ajuda médica.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 79,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 26,
+    "carta2": 19,
+    "categoria": "estudo e espiritualidade",
+    "interpretacao_geral": "Estudos e dedicação ampliam conhecimentos; segredo causando isolamento do casal; doença escondida; estudo ou conhecimento espiritual.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 79,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 11,
+    "carta2": 16,
+    "categoria": "espiritualidade (simbólico)",
+    "interpretacao_geral": "Movimentar intenção e espiritualidade; a combinação também pode simbolizar perseguir sonhos, buscar reconhecimento ou praticar atividade física à noite.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 88,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 11,
+    "carta2": 23,
+    "categoria": "espiritualidade (simbólico)",
+    "interpretacao_geral": "Na tradição ilustrada, pode simbolizar espíritos de baixa vibração ou confusão espiritual.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 93,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 11,
+    "carta2": 25,
+    "categoria": "espiritualidade (simbólico)",
+    "interpretacao_geral": "No contexto do material, pode simbolizar rituais de manipulação energética ou amarração.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 94,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 11,
+    "carta2": 8,
+    "categoria": "espiritualidade (simbólico)",
+    "interpretacao_geral": "No contexto do material, pode representar necromancia ou ritual destrutivo.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 95,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 11,
+    "carta2": 7,
+    "categoria": "espiritualidade (simbólico)",
+    "interpretacao_geral": "O material associa o par a hipnose e feitiços, ou ação espiritual motivada por vingança.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 96,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 3,
+    "carta2": 26,
+    "categoria": "Livro antes/depois — segredo",
+    "interpretacao_geral": "Viagem para localidade desconhecida ou negócios relacionados ao ocultismo; leitura exemplificada como carta antes do Livro.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 100,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 4,
+    "carta2": 26,
+    "categoria": "Livro antes/depois — segredo",
+    "interpretacao_geral": "Aspectos da vida pessoal ou da casa permanecem em sigilo; leitura exemplificada como carta antes do Livro.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 100,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 5,
+    "carta2": 26,
+    "categoria": "Livro antes/depois — segredo",
+    "interpretacao_geral": "Esconder estado de saúde ou segredo ligado à própria vida; leitura exemplificada como carta antes do Livro.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 100,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 13,
+    "carta2": 26,
+    "categoria": "Livro antes/depois — segredo",
+    "interpretacao_geral": "Algo novo em segredo; leitura exemplificada como carta antes do Livro.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 100,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 23,
+    "carta2": 26,
+    "categoria": "Livro antes/depois — segredo",
+    "interpretacao_geral": "Pouco será revelado; leitura exemplificada como carta antes do Livro.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 100,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 25,
+    "carta2": 26,
+    "categoria": "Livro antes/depois — segredo",
+    "interpretacao_geral": "Contrato ou relacionamento em sigilo, cláusulas restritas; leitura exemplificada como carta antes do Livro.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 100,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 27,
+    "carta2": 26,
+    "categoria": "Livro antes/depois — segredo",
+    "interpretacao_geral": "Contato ou mensagem confidencial, comunicação anônima; leitura exemplificada como carta antes do Livro.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 100,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
+  },
+  {
+    "carta1": 35,
+    "carta2": 26,
+    "categoria": "Livro antes/depois — segredo",
+    "interpretacao_geral": "Segredo profissional ou tarefa em sigilo; leitura exemplificada como carta antes do Livro.",
+    "fonte": "NOVOS 5.pdf",
+    "pagina": 100,
+    "transcricao": "síntese conferida visualmente; não literal integral",
+    "observacao": "Interpretação simbólica; não comprova fatos, sentimentos de terceiros ou ocorrências sobrenaturais."
   }
 ];
