@@ -1,4 +1,4 @@
-/* Dados documentados e status de auditoria de fidelidade textual. */
+/* Combinações documentadas por fonte e status de revisão visual. */
 window.COMBINACOES_DOCUMENTADAS=[
   {
     "carta1": 1,
@@ -2455,9 +2455,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 45,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 5,
@@ -2466,9 +2467,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 45,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2477,9 +2479,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 45,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 6,
@@ -2488,9 +2491,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 45,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2499,9 +2503,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 45,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 7,
@@ -2510,9 +2515,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 45,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2521,9 +2527,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 46,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 8,
@@ -2532,9 +2539,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 46,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2543,9 +2551,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 46,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 9,
@@ -2554,9 +2563,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 46,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2565,9 +2575,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 46,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 10,
@@ -2576,9 +2587,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 46,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2587,9 +2599,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 47,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 11,
@@ -2598,9 +2611,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 47,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2609,9 +2623,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 47,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 12,
@@ -2620,9 +2635,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 47,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2631,9 +2647,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 47,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 13,
@@ -2642,9 +2659,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 47,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2653,9 +2671,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 48,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 14,
@@ -2664,9 +2683,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 48,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2675,9 +2695,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 48,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 15,
@@ -2686,9 +2707,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 48,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2697,9 +2719,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 48,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 16,
@@ -2708,9 +2731,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 48,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2719,9 +2743,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 49,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 17,
@@ -2730,9 +2755,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 49,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2741,9 +2767,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 49,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 18,
@@ -2752,9 +2779,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 49,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2763,9 +2791,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 49,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 19,
@@ -2774,9 +2803,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 49,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2785,9 +2815,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 50,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 20,
@@ -2796,9 +2827,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 50,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2807,9 +2839,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 50,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 21,
@@ -2818,9 +2851,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 50,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2829,9 +2863,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 50,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 22,
@@ -2840,9 +2875,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 50,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2851,9 +2887,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 51,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 23,
@@ -2862,9 +2899,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 51,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2873,9 +2911,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 51,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 24,
@@ -2884,9 +2923,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 51,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2895,9 +2935,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 51,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 25,
@@ -2906,9 +2947,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 51,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2917,9 +2959,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 52,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 26,
@@ -2928,9 +2971,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 52,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2939,9 +2983,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 52,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 27,
@@ -2950,9 +2995,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 52,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2961,9 +3007,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 52,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 28,
@@ -2972,9 +3019,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 52,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -2983,9 +3031,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 53,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 29,
@@ -2994,9 +3043,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 53,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -3005,9 +3055,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 53,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 30,
@@ -3016,9 +3067,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 53,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -3027,9 +3079,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 53,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 31,
@@ -3038,9 +3091,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 53,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -3049,9 +3103,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 54,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 32,
@@ -3060,9 +3115,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 54,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -3071,9 +3127,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 54,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 33,
@@ -3082,9 +3139,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 54,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -3093,9 +3151,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 54,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 34,
@@ -3104,9 +3163,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 54,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -3115,9 +3175,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 55,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 35,
@@ -3126,9 +3187,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 55,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 4,
@@ -3137,9 +3199,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 55,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 36,
@@ -3148,9 +3211,10 @@ window.COMBINACOES_DOCUMENTADAS=[
     "fonte": "COMBINAÇÕES DAS CARTAS (2) (1).pdf",
     "pagina": 55,
     "categoria": "geral",
-    "transcricao": "conferência literal pendente",
+    "transcricao": "cotejo visual concluído (páginas 45–55)",
     "observacao": "Linguagem do documento; não representa constatação factual.",
-    "auditoria_fidelidade": "Importação histórica: ainda não confirmado se redação literal ou paráfrase; cotejar imagem da página antes de certificar."
+    "auditoria_fidelidade": "Cotejado visualmente com a imagem do PDF na página indicada; nenhuma divergência material comprovada neste lote. Pontuação e espaçamento não certificados caracter por caracter.",
+    "auditoria_data": "2026-10-15"
   },
   {
     "carta1": 5,
