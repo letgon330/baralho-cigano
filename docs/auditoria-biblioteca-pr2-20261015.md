@@ -34,3 +34,10 @@ Tudo foi feito em `feature/biblioteca-orientacoes-pdfs-20261015`, para revisão 
 - Status alterado de `conferência literal pendente` para `cotejo visual concluído (páginas 5–9)` nesses 30 registros; 630 permanecem pendentes do cotejo visual.
 - Totais estruturais preservados: 772 combinações únicas, 108 variações distintas e nove ocorrências repetidas arquivadas.
 - Próximo lote: páginas 10–16 e 18–20, seguido dos demais registros históricos. A página 17 é uma ficha individual, não um par.
+
+## Continuação — cotejo literal do lote 2 (15/10/2026)
+- Páginas 10–20 do PDF `COMBINAÇÕES DAS CARTAS (2) (1).pdf`, excluindo p. 17 (ficha individual).
+- 56 combinações direcionais cotejadas, 2 transcrições corrigidas com evidência visual: Cavaleiro + Livro (p. 13: “Você se deparará”) e Chave + Cavaleiro (p. 15: “a partir daqui”). As 54 demais permaneceram sem alteração textual.
+- Resultado acumulado: **86 de 660 históricos cotejados; 574 ainda pendentes; 2 correções textuais neste lote**.
+- Relatório de alterações antes/depois: `docs/auditoria-fidelidade-lote2-20261015.md`.
+- Permanecem 772 combinações, 108 variações e 9 ocorrências repetidas arquivadas. A identidade tipográfica de pontuação/espaçamento não foi certificada.
