@@ -1,4 +1,4 @@
-const CACHE_NAME = enciclopedia-cigana-pwa-v9-abrir-jogo;
+const CACHE_NAME = 'enciclopedia-cigana-biblioteca-v10';
 const APP_SHELL = [
   './',
   './index.html',
@@ -35,10 +35,10 @@ self.addEventListener('fetch', event => {
       fetch(req)
         .then(resp => {
           const copy = resp.clone();
-          caches.open(CACHE_NAME).then(cache => cache.put('./index.html', copy));
+          caches.open(CACHE_NAME).then(cache => cache.put(req, copy));
           return resp;
         })
-        .catch(() => caches.match('./index.html').then(r => r || caches.match('./')))
+        .catch(() => caches.match(req).then(r => r || caches.match('./index.html')))
     );
     return;
   }
