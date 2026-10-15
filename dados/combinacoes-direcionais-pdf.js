@@ -6729,5 +6729,55 @@ window.COMBINACOES_DOCUMENTADAS=[
     "pagina": 29,
     "transcricao": "trecho curto registrado após conferência visual",
     "observacao": "Associação simbólica da fonte, sem servir de prova de infidelidade ou da intenção de terceiros."
+  },
+  {
+    "carta1": 31,
+    "carta2": 4,
+    "categoria": "prosperidade no lar",
+    "interpretacao_geral": "Felicidade no lar, família próspera.",
+    "fonte": "NOVOS 2.pdf",
+    "pagina": 58,
+    "transcricao": "trecho do material, revisado visualmente",
+    "observacao": "Leitura simbólica, não confirmação factual de violência, relações ou espiritualidade."
+  },
+  {
+    "carta1": 16,
+    "carta2": 31,
+    "categoria": "prosperidade no lar",
+    "interpretacao_geral": "Realização de sonhos, proteção divina no sucesso.",
+    "fonte": "NOVOS 2.pdf",
+    "pagina": 58,
+    "transcricao": "trecho do material, revisado visualmente",
+    "observacao": "Leitura simbólica, não confirmação factual de violência, relações ou espiritualidade."
+  },
+  {
+    "carta1": 4,
+    "carta2": 16,
+    "categoria": "prosperidade no lar",
+    "interpretacao_geral": "Lar abençoado, espiritualidade em casa.",
+    "fonte": "NOVOS 2.pdf",
+    "pagina": 58,
+    "transcricao": "trecho do material, revisado visualmente",
+    "observacao": "Leitura simbólica, não confirmação factual de violência, relações ou espiritualidade."
+  },
+  {
+    "carta1": 11,
+    "carta2": 15,
+    "categoria": "alertas sobre conflitos (simbólico)",
+    "interpretacao_geral": "Indica agressão física e imposição pela força. Pode revelar situações de abuso ou violência doméstica. Alerta para relações de poder desequilibradas e conflitos severos.",
+    "fonte": "NOVOS 2.pdf",
+    "pagina": 69,
+    "transcricao": "trecho do material, revisado visualmente",
+    "observacao": "Leitura simbólica, não confirmação factual de violência, relações ou espiritualidade."
+  },
+  {
+    "carta1": 15,
+    "carta2": 11,
+    "categoria": "alertas sobre conflitos (simbólico)",
+    "interpretacao_geral": "Mostra agressividade partindo de quem detém poder. Pode simbolizar abuso, manipulação e intimidação. Reforça o risco de violência física ou psicológica.",
+    "fonte": "NOVOS 2.pdf",
+    "pagina": 70,
+    "transcricao": "trecho do material, revisado visualmente",
+    "observacao": "Leitura simbólica, não confirmação factual de violência, relações ou espiritualidade."
   }
 ];
