@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#faf3f5">
+  <meta name="description" content="Lunária — Biblioteca Arcana. Um universo de magia, mistérios e sabedoria ancestral em 20 áreas de conhecimento.">
+  <title>Lunária — Biblioteca Arcana</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,500;1,600&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+  <script defer src="./app.js"></script>
+</head>
+<body>
+<div class="ribbon">✧ &nbsp; UM UNIVERSO DE MAGIA, CONHECIMENTO E DESCOBERTAS &nbsp; ✧</div>
+<header class="site-header">
+  <div class="container header-row">
+    <a href="#inicio" class="brand" aria-label="Lunária: início">
+      <span class="brand-icon" aria-hidden="true"><svg viewBox="0 0 48 48"><path fill="currentColor" d="M32 5A19 19 0 1 0 43 34 20 20 0 0 1 32 5Z"/><path fill="#c69a63" d="m36 12 1.6 4.4L41 18l-3.4 1.6L36 24l-1.6-4.4L31 18l3.4-1.6Z"/></svg></span>
+      <span><b>LUNÁRIA</b><small>BIBLIOTECA ARCANA</small></span>
+    </a>
+    <nav class="main-nav" aria-label="Menu principal">
+      <a href="#inicio">Início</a><a href="#biblioteca">Biblioteca</a><a href="#categorias">Categorias</a><a href="#trilhas">Trilhas</a><a href="#sobre">Sobre</a>
+    </nav>
+    <a href="#santuario" class="nav-santuary">♡ <span>Meu Santuário</span> <b id="favCount">0</b></a>
+    <button type="button" id="menuButton" class="menu-button" aria-label="Abrir menu" aria-controls="mobileNav" aria-expanded="false">☰</button>
+  </div>
+  <nav id="mobileNav" class="mobile-nav" hidden aria-label="Menu para celular">
+    <a href="#inicio">Início</a><a href="#biblioteca">Biblioteca</a><a href="#categorias">Categorias</a><a href="#trilhas">Trilhas de Aprendizado</a><a href="#santuario">Meu Santuário</a><a href="#sobre">Sobre a Lunária</a>
+  </nav>
+</header>
+<main>
+  <section id="inicio" class="hero">
+    <div class="container hero-inner">
+      <div class="hero-text">
+        <p class="eyebrow">✦ &nbsp; BEM-VINDA AO SEU UNIVERSO ARCANO</p>
+        <h1>Entre páginas,<br><em>floresce o mistério.</em></h1>
+        <p class="lead">Explore os mistérios do universo, descubra tradições ancestrais e desperte sua sabedoria interior. Cada livro é um novo portal.</p>
+        <form id="heroSearchForm" class="hero-search" role="search">
+          <span aria-hidden="true">⌕</span><input id="heroSearch" type="search" aria-label="Buscar livros" placeholder="Qual mistério você quer descobrir?"><button type="submit">Buscar ↗</button>
+        </form>
+        <div class="hero-ctas"><a href="#biblioteca" class="button primary">Explorar biblioteca ↗</a><a class="text-link" href="#categorias">Conhecer as categorias →</a></div>
+        <div class="hero-numbers"><div><strong>20</strong><span>áreas de estudo</span></div><div><strong id="heroCount">—</strong><span>livros no catálogo</span></div><div><strong>∞</strong><span>novas descobertas</span></div></div>
+      </div>
+      <div class="hero-art">
+        <span class="hero-star star1">✦</span><span class="hero-star star2">✧</span><span class="hero-star star3">✶</span><span class="hero-star star4">✦</span>
+        <svg viewBox="0 0 480 560" role="img" aria-label="Ilustração de lua brilhante e livro aberto entre ramos de flores">
+          <defs><linearGradient id="goldMoon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff2cd"/><stop offset="1" stop-color="#c8a16c"/></linearGradient><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffbef"/><stop offset="1" stop-color="#e1cbb9"/></linearGradient><radialGradient id="glow"><stop stop-color="#f5d5c1" stop-opacity=".58"/><stop offset="1" stop-color="#f5d5c1" stop-opacity="0"/></radialGradient></defs>
+          <ellipse cx="240" cy="236" rx="200" ry="196" fill="url(#glow)"/>
+          <circle cx="261" cy="163" r="109" fill="url(#goldMoon)"/><path d="M290 56a109 109 0 1 0 76 179A110 110 0 0 1 290 56" fill="#463147" opacity=".47"/>
+          <g fill="#ffedc2"><path d="m100 145 4 12 12 4-12 4-4 12-4-12-12-4 12-4Z"/><path d="m403 192 3 11 11 3-11 3-3 11-3-11-11-3 11-3Z"/><circle cx="118" cy="95" r="2"/><circle cx="394" cy="98" r="2.5"/></g>
+          <g stroke="#c29b78" stroke-width="2.4" fill="none" stroke-linecap="round"><path d="M90 457Q113 350 142 241M112 370Q70 348 66 316M120 330q34-19 43-42M94 420Q49 401 47 369M367 458Q344 352 323 242M344 354q32-21 37-50M358 409q32-23 37-53M333 315q-32-11-41-41"/></g>
+          <g fill="#c49ca1"><ellipse cx="67" cy="319" rx="12" ry="28" transform="rotate(-41 67 319)"/><ellipse cx="161" cy="291" rx="12" ry="27" transform="rotate(43 161 291)"/><ellipse cx="47" cy="374" rx="10" ry="26" transform="rotate(-53 47 374)"/><ellipse cx="380" cy="309" rx="11" ry="28" transform="rotate(43 380 309)"/><ellipse cx="393" cy="363" rx="11" ry="29" transform="rotate(45 393 363)"/><ellipse cx="291" cy="273" rx="10" ry="27" transform="rotate(-37 291 273)"/></g>
+          <g transform="translate(52 319)"><ellipse cx="197" cy="168" rx="176" ry="20" fill="#201624" opacity=".22"/><path d="M15 39Q101-12 186 40Q272-10 372 38L357 153Q274 123 186 174Q97 124 28 151Z" fill="#965e70" stroke="#c8a16c" stroke-width="3"/><path d="M30 27Q110-4 184 45L184 159Q109 116 31 141Z" fill="url(#paper)" stroke="#bd9e88" stroke-width="2"/><path d="M188 44Q276-4 357 26L351 140Q263 114 188 159Z" fill="url(#paper)" stroke="#bd9e88" stroke-width="2"/><path d="M186 45V169" stroke="#a37b81" stroke-width="3.5"/><g stroke="#bda493" stroke-width="1.4" opacity=".7" fill="none"><path d="M42 44Q111 22 166 56M43 62Q112 40 166 74M44 80Q110 60 164 91M45 99Q111 82 162 110M45 117Q109 102 158 125M204 56Q267 23 338 41M205 75Q268 44 337 60M206 95Q269 65 336 82M206 114Q267 88 335 102M206 133Q265 106 330 119"/></g><path d="M187 45q-9-27-17-39" stroke="#d2b277" stroke-width="3" fill="none"/><path d="m170 6-6-9 14 4Z" fill="#d2b277"/></g>
+          <g fill="#e1bc85"><path d="m269 283 3 9 9 3-9 3-3 9-3-9-9-3 9-3Z"/><path d="m192 248 2 7 7 2-7 2-2 7-2-7-7-2 7-2Z"/></g>
+        </svg>
+        <div class="art-caption">✦ &nbsp; Um livro, um portal.<small>Uma descoberta de cada vez.</small></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="destaques" class="section featured">
+    <div class="container"><div class="section-heading"><div><p class="kicker">✦ CURADORIA LUNÁRIA</p><h2>Destaques <em>da Lua</em></h2><p>Uma seleção especial para inspirar sua próxima leitura.</p></div><a href="#biblioteca" class="section-link">Ver toda a biblioteca →</a></div><div id="featuredGrid" class="featured-grid"></div></div>
+  </section>
+
+  <section id="categorias" class="section categories">
+    <div class="container"><div class="centered heading"><p class="kicker">✧ CAMINHOS DO CONHECIMENTO</p><h2>Explore seu <em>universo</em></h2><p>Vinte portais para diferentes tradições e formas de sabedoria.</p></div><div id="categoryGrid" class="category-grid"></div></div>
+  </section>
+
+  <section id="biblioteca" class="section library">
+    <div class="container">
+      <div class="section-heading library-heading"><div><p class="kicker">✦ GRIMÓRIOS E SABERES</p><h2>Biblioteca <em>Mística</em></h2><p>Encontre seu próximo livro e organize seu acervo pessoal.</p></div><div class="library-actions"><button id="importButton" type="button" class="button outline">↥ Importar catálogo</button><button id="addBookButton" type="button" class="button primary">＋ Adicionar livro</button></div></div>
+      <div class="filterbar"><label class="search-input"><span>⌕</span><input id="librarySearch" type="search" placeholder="Busque por título ou autor..." aria-label="Pesquisar livros"></label><label class="select-label"><small>Categoria</small><select id="categoryFilter"><option value="">Todas</option></select></label><label class="select-label"><small>Ordenar por</small><select id="sortSelect"><option value="az">Título A–Z</option><option value="za">Título Z–A</option><option value="author">Autor A–Z</option></select></label><label class="select-label"><small>Status</small><select id="statusFilter"><option value="">Todos</option><option value="lendo">Lendo</option><option value="concluido">Concluídos</option><option value="favoritos">Favoritos</option></select></label></div>
+      <div class="resultline"><span id="resultsLabel" aria-live="polite"></span><button id="clearFilters" type="button">Limpar filtros ×</button></div>
+      <div id="libraryGrid" class="library-grid"></div>
+      <div id="emptyState" class="empty-state" hidden><span>☾</span><h3>Nenhum livro encontrado</h3><p>Tente outro termo ou escolha uma categoria diferente.</p><button id="emptyClear" type="button" class="button outline">Ver todos os livros</button></div>
+      <div class="library-tail"><button id="loadMore" type="button" class="button outline">Carregar mais livros ↓</button><p>Os títulos iniciais são referências bibliográficas. Os arquivos PDF não são publicados automaticamente.</p></div>
+      <div class="import-hint"><span>✧</span><p><strong>Seu acervo, do seu jeito.</strong> Importe uma lista CSV ou JSON, adicione links aos livros e salve favoritos e leituras neste navegador. <button type="button" id="exportButton">Exportar meu catálogo →</button></p></div>
+    </div>
+  </section>
+
+  <section id="trilhas" class="section trails">
+    <div class="container"><div class="centered heading"><p class="kicker">✧ TRILHAS DE APRENDIZADO</p><h2>O conhecimento é <em>uma jornada</em></h2><p>Comece por onde você está. Cada descoberta abre um novo caminho.</p></div>
+      <div class="trail-grid">
+        <article class="trail-card"><span class="trail-label">01 / O DESPERTAR</span><span class="trail-icon">✧</span><h3>Primeiros Passos</h3><p>Conheça os fundamentos e abra as portas do conhecimento arcano.</p><small>Autoconhecimento · Wicca · Magia natural</small><button type="button" data-trail="2">Explorar trilha inicial ↗</button></article>
+        <article class="trail-card featured-trail"><span class="trail-label">02 / A DESCOBERTA</span><span class="trail-icon">☽</span><h3>Entre Símbolos</h3><p>Aprofunde sua leitura sobre oráculos, correspondências e tradições.</p><small>Tarot · Astrologia · Mitologia</small><button type="button" data-trail="7">Explorar trilha intermediária ↗</button></article>
+        <article class="trail-card"><span class="trail-label">03 / OS MISTÉRIOS</span><span class="trail-icon">✦</span><h3>Saberes Profundos</h3><p>Explore os textos clássicos da tradição esotérica ocidental.</p><small>Hermetismo · Alquimia · Magia cerimonial</small><button type="button" data-trail="13">Explorar trilha avançada ↗</button></article>
+      </div>
+    </div>
+  </section>
+
+  <section id="santuario" class="section sanctuary">
+    <div class="container sanctuary-grid"><div><p class="kicker">✦ MEU SANTUÁRIO</p><h2>Seu cantinho <em>de leitura.</em></h2><p>Guarde seus favoritos, acompanhe as leituras e volte sempre de onde parou.</p><div class="sanctuary-stats"><div><strong id="favStat">0</strong><span>favoritos</span></div><div><strong id="readingStat">0</strong><span>em leitura</span></div><div><strong id="doneStat">0</strong><span>concluídos</span></div></div><p class="local-note">♡ Preferências salvas neste navegador. Sem cadastro e sem sincronização entre dispositivos.</p></div><div class="sanctuary-panel"><div class="panel-title">♡ Seus livros especiais <a href="#biblioteca">Explorar mais →</a></div><div id="sanctuaryBooks"></div></div></div>
+  </section>
+
+  <section id="sobre" class="about">
+    <div class="container about-grid"><div class="about-icon">☾<small>✧</small></div><div><p class="kicker">SOBRE A LUNÁRIA</p><h2>Uma biblioteca para quem <em>nunca para de descobrir.</em></h2><p>A Lunária reúne referências sobre magia, bruxaria, oráculos, espiritualidade, história e saberes ancestrais. Um espaço para aprender, respeitar diferentes tradições e cultivar a curiosidade pelo desconhecido.</p><blockquote>“Cada livro é um portal. Cada página, uma nova descoberta.”</blockquote></div></div>
+  </section>
+</main>
+
+<footer><div class="container footer-grid"><div><strong>☾ LUNÁRIA</strong><p>Biblioteca Arcana<br>Onde a magia encontra o conhecimento.</p></div><nav aria-label="Menu do rodapé"><a href="#inicio">Início</a><a href="#biblioteca">Biblioteca</a><a href="#categorias">Categorias</a><a href="#santuario">Meu Santuário</a></nav><p class="footer-note">✧ Feito para almas curiosas.<br><small>Referências para estudo. Não hospedamos PDFs protegidos por direitos autorais.</small></p></div><div class="container footer-bottom"><span>© <span id="year"></span> Lunária — Biblioteca Arcana.</span><a href="#inicio">Voltar ao topo ↑</a></div></footer>
+
+<dialog id="bookDialog" class="modal" aria-label="Detalhes do livro"><button class="close-dialog" type="button" data-close="bookDialog" aria-label="Fechar">×</button><div id="bookDetails"></div></dialog>
+<dialog id="addDialog" class="modal form-modal" aria-labelledby="addDialogTitle"><button class="close-dialog" type="button" data-close="addDialog" aria-label="Fechar">×</button><p class="kicker">✦ EXPANDA SUA BIBLIOTECA</p><h2 id="addDialogTitle">Adicionar <em>um livro</em></h2><form id="bookForm"><input type="hidden" id="bookId"><label>Título do livro *<input id="bookTitle" type="text" maxlength="200" required placeholder="Ex.: Meu grimório favorito"></label><label>Autor(a)<input id="bookAuthor" type="text" maxlength="150" placeholder="Nome do autor"></label><label>Categoria *<select id="bookCategory" required></select></label><label>Link para o livro (opcional)<input id="bookUrl" type="url" placeholder="https://drive.google.com/..."></label><label>Observações<textarea id="bookDescription" rows="3" maxlength="700" placeholder="Sobre este livro..."></textarea></label><button class="button primary form-save" type="submit">Salvar na biblioteca ✧</button></form><p class="form-note">Os dados ficam neste navegador. Para adicionar PDFs, informe um link de uma hospedagem onde você tenha permissão para disponibilizá-los.</p></dialog>
+<input id="importInput" type="file" accept=".csv,.tsv,.json,text/csv,application/json" hidden>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
