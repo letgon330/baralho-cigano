@@ -80,7 +80,6 @@
     ["Wicca — Crenças e Práticas","Gary Cantrell",2],
     ["Wicca — A Bruxaria Saindo das Sombras","MillenniuM",2],
     ["O Livro das Religiões","",20],
-    ["Visão Espírita do Sono e dos Sonhos","Carlos Bernardo Loureiro",9],
     ["As Mulheres Celtas","",11]
   ].map((a,i) => ({id:"seed-"+i,title:a[0],author:a[1],category:a[2],description:"Referência bibliográfica do acervo Lunária.",url:"",origin:"seed"}));
 
@@ -254,7 +253,7 @@
   }
   function identifyCategory(raw) {
     if(Number.isInteger(Number(raw))&&Number(raw)>=1&&Number(raw)<=20)return Number(raw);
-    const match=text(raw).match(/(?:aba\s*)?0?([1-9]|1[0-9]|20)/i);
+    const match=text(raw).match(/(?:aba\s*)?0?(20|1[0-9]|[1-9])/i);
     if(match && /aba/i.test(raw))return Number(match[1]);
     const n=normal(raw);
     const c=CATEGORIES.find(c=>normal(c.name)===n || normal(c.name).includes(n)&&n.length>=5);
@@ -290,7 +289,16 @@
         const input=JSON.parse(body);
         if(Array.isArray(input)){importItems(input);return;}
         if(input && Array.isArray(input.customBooks)) {
-          importItems(input.customBooks);
+          const known=new Set(allBooks().map(b=>normal(b.title)+"|"+normal(b.author)));
+          let restored=0;
+          for(const raw of input.customBooks) {
+            const b=parseImportedBook(raw);if(!b)continue;
+            const id=text(raw.id).startsWith("personal-")?text(raw.id):"personal-"+Date.now()+"-"+Math.floor(Math.random()*1000000);
+            const key=normal(b.title)+"|"+normal(b.author);
+            const existing=state.customBooks.findIndex(x=>x.id===id);
+            if(existing>=0){state.customBooks[existing]=Object.assign({id,origin:"custom"},b);restored++;}
+            else if(!known.has(key)){state.customBooks.push(Object.assign({id,origin:"custom"},b));known.add(key);restored++;}
+          }
           if(input.overrides && typeof input.overrides==="object")state.overrides=Object.assign({},state.overrides,input.overrides);
           if(input.statuses && typeof input.statuses==="object")state.statuses=Object.assign({},state.statuses,input.statuses);
           if(Array.isArray(input.favorites))state.favorites=Array.from(new Set(state.favorites.concat(input.favorites))).filter(x=>getBook(x));
