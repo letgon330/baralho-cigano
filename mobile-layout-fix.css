@@ -1,131 +1,70 @@
-/* Correção responsiva do Baralho Cigano — mobile e PWA */
+/* Layout didático para celular e PWA do Baralho Cigano. */
 @media (max-width: 700px) {
   *, *::before, *::after { box-sizing: border-box; }
-  html, body { width: 100%; max-width: 100%; overflow-x: hidden; }
+  html, body { width:100%; max-width:100%; overflow-x:hidden; }
+  body { font-size:16px; }
 
-  header { width: 100%; }
+  header { width:100%; position:sticky; top:0; z-index:50; backdrop-filter:blur(12px); }
   header .wrap.top {
-    width: 100%;
-    max-width: none;
-    display: flex;
-    flex-direction: column;
-    align-items: stretch;
-    gap: 10px;
-    padding: 14px 14px 12px;
+    width:100%; max-width:none; padding:10px 12px 12px; gap:8px;
+    display:flex; flex-direction:column; align-items:stretch;
   }
 
   .brand {
-    width: 100%;
-    font-size: clamp(22px, 7vw, 30px) !important;
-    line-height: 1.12;
-    text-align: center;
-    overflow-wrap: anywhere;
+    width:100%; text-align:center; font-size:clamp(21px, 6.2vw, 28px)!important;
+    line-height:1.12; overflow-wrap:anywhere; margin:0;
   }
-
-  header .badge {
-    align-self: center;
-    max-width: 100%;
-    font-size: 13px;
-    line-height: 1.2;
-  }
+  header .badge { align-self:center; margin:0; font-size:12px; line-height:1.15; padding:5px 10px; }
+  header .badge + .badge { display:none; }
 
   #accountMini {
-    width: 100%;
-    display: flex !important;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 7px;
+    width:100%; display:flex!important; flex-wrap:nowrap; justify-content:center; align-items:center; gap:6px;
   }
-
-  #accountMiniText {
-    max-width: 100%;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    text-align: center;
-  }
+  #accountMiniText { max-width:46%; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; text-align:center; font-size:13px; }
+  #accountMini button { min-height:36px; padding:7px 11px; font-size:13px; }
 
   .navLinks {
-    width: 100%;
-    display: grid !important;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 8px;
-    margin: 0;
+    width:100%; display:grid!important; grid-template-columns:repeat(2,minmax(0,1fr));
+    gap:7px; margin:0; padding:0;
   }
-
   .navLinks button {
-    width: 100%;
-    min-width: 0;
-    min-height: 44px;
-    margin: 0;
-    padding: 9px 7px;
-    font-size: 15px;
-    line-height: 1.15;
-    white-space: normal;
-    overflow-wrap: anywhere;
+    width:100%; min-width:0; min-height:42px; margin:0; padding:8px 7px;
+    font-size:14px; line-height:1.15; white-space:normal; overflow-wrap:anywhere;
   }
+  /* Hierarquia visual: primeiro as ações principais. */
+  .navLinks button[data-view="inicio"],
+  .navLinks button[data-view="fluxo"] { grid-column:1/-1; min-height:46px; font-size:15px; font-weight:600; }
+  .navLinks button[data-view="orientacoes"] { grid-column:1/-1; }
 
-  main.wrap {
-    width: 100%;
-    max-width: none;
-    padding: 0 14px 28px;
-  }
+  main.wrap { width:100%; max-width:none; padding:0 12px 28px; }
+  .appView { width:100%; max-width:100%; }
 
-  .hero, .notice, .hubGrid, .card, .panel, .section, details {
-    max-width: 100%;
-  }
+  .hero, .notice, .panel, .card, .section, .hubGrid, details { width:100%; max-width:100%; }
+  .hero { margin-top:12px; padding:18px 15px; border-radius:18px; }
+  .hero h1 { font-size:clamp(24px,7.2vw,32px); line-height:1.14; margin-top:6px; }
+  .hero p, .notice, .card p, .panel p { font-size:15.5px; line-height:1.5; }
+  .notice { margin:10px 0 12px; padding:14px 15px; border-radius:16px; }
 
-  .hero {
-    margin-top: 14px;
-    padding: 20px 16px;
-  }
+  .hubGrid { display:grid; grid-template-columns:1fr!important; gap:10px; }
+  .hubGrid > * { min-width:0; }
 
-  .hero h1 {
-    font-size: clamp(25px, 7.5vw, 34px);
-    line-height: 1.15;
-  }
+  .controls, .comboControls { display:flex!important; flex-direction:column; align-items:stretch; width:100%; gap:8px; }
+  .controls > *, .comboControls > *, select, input, textarea, button { max-width:100%; }
+  input, select, textarea { width:100%; min-width:0; font-size:16px; }
 
-  .hero p, .notice, .card p, .panel p {
-    font-size: 16px;
-    line-height: 1.55;
-  }
+  .comboGroup, .methodGuideGrid, .themeTabs { width:100%; min-width:0; overflow-wrap:anywhere; }
+  .methodGuideGrid { display:grid; grid-template-columns:1fr!important; gap:10px; }
+  .themeTabs { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:7px; }
+  .themeTabs button { min-width:0; width:100%; min-height:42px; padding:8px; white-space:normal; }
+  details.acc summary, details summary { white-space:normal; overflow-wrap:anywhere; line-height:1.35; }
 
-  .notice {
-    margin: 12px 0;
-    padding: 16px;
-  }
+  /* Áreas de conteúdo: uma coluna, leitura confortável e sem cortes laterais. */
+  .cardGrid, .cardsGrid, .resultsGrid { grid-template-columns:1fr!important; }
+  .card, .panel { padding:15px; }
+  table { display:block; max-width:100%; overflow-x:auto; }
+  img, svg, video, canvas { max-width:100%; height:auto; }
+}
 
-  .hubGrid {
-    grid-template-columns: 1fr !important;
-    gap: 12px;
-  }
-
-  .controls, .comboControls {
-    display: flex !important;
-    flex-direction: column;
-    align-items: stretch;
-    width: 100%;
-    gap: 8px;
-  }
-
-  .controls > *, .comboControls > *, select, input, textarea, button {
-    max-width: 100%;
-  }
-
-  input, select, textarea {
-    width: 100%;
-    min-width: 0;
-  }
-
-  .comboGroup {
-    min-width: 0;
-    width: 100%;
-    overflow-wrap: anywhere;
-  }
-
-  details.acc summary {
-    white-space: normal;
-    overflow-wrap: anywhere;
-  }
+@media (min-width:701px) {
+  /* O layout desktop permanece inalterado. */
 }
