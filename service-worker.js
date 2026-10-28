@@ -1,9 +1,11 @@
 /*
- * Service worker desativado.
+ * Service worker de compatibilidade.
  *
  * A aplicação é estática e deve ser carregada diretamente pela Vercel.
- * Este arquivo apenas remove caches/registro antigos para impedir que
- * uma versão anterior do service worker interfira no carregamento.
+ * O service worker não intercepta requisições nem assume o controle da página.
+ * Isso evita recarregamentos inesperados no Safari/iPhone e no PWA,
+ * especialmente enquanto campos de formulário recebem foco e o teclado
+ * virtual altera o viewport.
  */
 
 self.addEventListener('install', event => {
@@ -19,8 +21,10 @@ self.addEventListener('activate', event => {
       console.warn('Limpeza do cache antigo não concluída:', error);
     }
 
+    // Não usar clients.claim() aqui.
+    // O index.html possui tratamento de controllerchange que recarrega a página.
+    // Em iOS isso pode causar uma navegação/reload inesperado no PWA.
     try {
-      await self.clients.claim();
       await self.registration.unregister();
     } catch (error) {
       console.warn('Desregistro do service worker não concluído:', error);
