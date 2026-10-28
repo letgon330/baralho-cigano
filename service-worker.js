@@ -1,12 +1,10 @@
 /*
- * Service worker de compatibilidade.
- *
- * A aplicação é estática e deve ser carregada diretamente pela Vercel.
- * O service worker não intercepta requisições nem assume o controle da página.
- * Isso evita recarregamentos inesperados no Safari/iPhone e no PWA,
- * especialmente enquanto campos de formulário recebem foco e o teclado
- * virtual altera o viewport.
+ * Service worker do Baralho Cigano.
+ * Mantém a aplicação estática estável e injeta apenas a correção
+ * responsiva do layout em páginas HTML, sem alterar os dados da aplicação.
  */
+
+const MOBILE_LAYOUT_CSS = './mobile-layout-fix.css';
 
 self.addEventListener('install', event => {
   event.waitUntil(self.skipWaiting());
@@ -20,14 +18,42 @@ self.addEventListener('activate', event => {
     } catch (error) {
       console.warn('Limpeza do cache antigo não concluída:', error);
     }
+  })());
+});
 
-    // Não usar clients.claim() aqui.
-    // O index.html possui tratamento de controllerchange que recarrega a página.
-    // Em iOS isso pode causar uma navegação/reload inesperado no PWA.
+self.addEventListener('fetch', event => {
+  const request = event.request;
+
+  if (request.method !== 'GET' || request.mode !== 'navigate') return;
+
+  event.respondWith((async () => {
     try {
-      await self.registration.unregister();
+      const response = await fetch(request);
+      const contentType = response.headers.get('content-type') || '';
+
+      if (!contentType.includes('text/html')) return response;
+
+      const html = await response.text();
+      const tag = `<link rel="stylesheet" href="${MOBILE_LAYOUT_CSS}">`;
+
+      if (html.includes('mobile-layout-fix.css')) {
+        return new Response(html, {
+          status: response.status,
+          statusText: response.statusText,
+          headers: response.headers
+        });
+      }
+
+      const updatedHtml = html.replace(/<\/head>/i, `${tag}</head>`);
+
+      return new Response(updatedHtml, {
+        status: response.status,
+        statusText: response.statusText,
+        headers: response.headers
+      });
     } catch (error) {
-      console.warn('Desregistro do service worker não concluído:', error);
+      console.warn('Falha ao aplicar correção responsiva:', error);
+      return fetch(request);
     }
   })());
 });
