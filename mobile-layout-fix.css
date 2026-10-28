@@ -1,0 +1,131 @@
+/* Correção responsiva do Baralho Cigano — mobile e PWA */
+@media (max-width: 700px) {
+  *, *::before, *::after { box-sizing: border-box; }
+  html, body { width: 100%; max-width: 100%; overflow-x: hidden; }
+
+  header { width: 100%; }
+  header .wrap.top {
+    width: 100%;
+    max-width: none;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    padding: 14px 14px 12px;
+  }
+
+  .brand {
+    width: 100%;
+    font-size: clamp(22px, 7vw, 30px) !important;
+    line-height: 1.12;
+    text-align: center;
+    overflow-wrap: anywhere;
+  }
+
+  header .badge {
+    align-self: center;
+    max-width: 100%;
+    font-size: 13px;
+    line-height: 1.2;
+  }
+
+  #accountMini {
+    width: 100%;
+    display: flex !important;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+  }
+
+  #accountMiniText {
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-align: center;
+  }
+
+  .navLinks {
+    width: 100%;
+    display: grid !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+    margin: 0;
+  }
+
+  .navLinks button {
+    width: 100%;
+    min-width: 0;
+    min-height: 44px;
+    margin: 0;
+    padding: 9px 7px;
+    font-size: 15px;
+    line-height: 1.15;
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+
+  main.wrap {
+    width: 100%;
+    max-width: none;
+    padding: 0 14px 28px;
+  }
+
+  .hero, .notice, .hubGrid, .card, .panel, .section, details {
+    max-width: 100%;
+  }
+
+  .hero {
+    margin-top: 14px;
+    padding: 20px 16px;
+  }
+
+  .hero h1 {
+    font-size: clamp(25px, 7.5vw, 34px);
+    line-height: 1.15;
+  }
+
+  .hero p, .notice, .card p, .panel p {
+    font-size: 16px;
+    line-height: 1.55;
+  }
+
+  .notice {
+    margin: 12px 0;
+    padding: 16px;
+  }
+
+  .hubGrid {
+    grid-template-columns: 1fr !important;
+    gap: 12px;
+  }
+
+  .controls, .comboControls {
+    display: flex !important;
+    flex-direction: column;
+    align-items: stretch;
+    width: 100%;
+    gap: 8px;
+  }
+
+  .controls > *, .comboControls > *, select, input, textarea, button {
+    max-width: 100%;
+  }
+
+  input, select, textarea {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .comboGroup {
+    min-width: 0;
+    width: 100%;
+    overflow-wrap: anywhere;
+  }
+
+  details.acc summary {
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+}
