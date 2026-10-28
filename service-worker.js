@@ -1,55 +1,33 @@
-const CACHE_NAME = enciclopedia-cigana-pwa-v9-abrir-jogo;
-const APP_SHELL = [
-  './',
-  './index.html',
-  './manifest.webmanifest',
-  './icon-192.png',
-  './icon-512.png',
-  './apple-touch-icon.png'
-];
+/*
+ * Service worker de compatibilidade.
+ *
+ * A aplicação é estática e deve ser carregada diretamente pela Vercel.
+ * O service worker não intercepta requisições nem assume o controle da página.
+ * Isso evita recarregamentos inesperados no Safari/iPhone e no PWA,
+ * especialmente enquanto campos de formulário recebem foco e o teclado
+ * virtual altera o viewport.
+ */
 
 self.addEventListener('install', event => {
-  event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(APP_SHELL)));
-});
-
-
-self.addEventListener('message', event => {
-  if (event.data && event.data.type === 'SKIP_WAITING') {
-    self.skipWaiting();
-  }
+  event.waitUntil(self.skipWaiting());
 });
 
 self.addEventListener('activate', event => {
-  event.waitUntil(
-    caches.keys().then(keys => Promise.all(keys.filter(k => k !== CACHE_NAME).map(k => caches.delete(k))))
-      .then(() => self.clients.claim())
-  );
-});
+  event.waitUntil((async () => {
+    try {
+      const keys = await caches.keys();
+      await Promise.all(keys.map(key => caches.delete(key)));
+    } catch (error) {
+      console.warn('Limpeza do cache antigo não concluída:', error);
+    }
 
-self.addEventListener('fetch', event => {
-  const req = event.request;
-  if (req.method !== 'GET') return;
-
-  if (req.mode === 'navigate') {
-    event.respondWith(
-      fetch(req)
-        .then(resp => {
-          const copy = resp.clone();
-          caches.open(CACHE_NAME).then(cache => cache.put('./index.html', copy));
-          return resp;
-        })
-        .catch(() => caches.match('./index.html').then(r => r || caches.match('./')))
-    );
-    return;
-  }
-
-  event.respondWith(
-    caches.match(req).then(cached => cached || fetch(req).then(resp => {
-      if (resp && resp.status === 200 && resp.type === 'basic') {
-        const copy = resp.clone();
-        caches.open(CACHE_NAME).then(cache => cache.put(req, copy));
-      }
-      return resp;
-    }))
-  );
+    // Não usar clients.claim() aqui.
+    // O index.html possui tratamento de controllerchange que recarrega a página.
+    // Em iOS isso pode causar uma navegação/reload inesperado no PWA.
+    try {
+      await self.registration.unregister();
+    } catch (error) {
+      console.warn('Desregistro do service worker não concluído:', error);
+    }
+  })());
 });
