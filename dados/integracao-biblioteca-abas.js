@@ -42,7 +42,8 @@ renderCardDetail=function(c){
  const why=(basis?.fundamentos||[]).map(x=>x.associacao+': '+x.motivo).join('\\n\\n')||'O material consultado não apresenta uma justificativa simbólica específica cadastrada para esta carta.';
  const place=extra?.lugar?(extra.lugar+(extra.lugar_nota?'\\n\\n'+extra.lugar_nota:'')):'Os PDFs consultados não indicam um lugar específico para esta carta isoladamente. Quando aplicável, a localização depende da pergunta e das combinações documentadas.';
  const who=[extra?.quem,guide?.caracteristicas?'Características registradas no Guia Didático: '+guide.caracteristicas:''].filter(Boolean).join('\\n\\n')||'Não há descrição específica de pessoa cadastrada para esta carta nos materiais consultados.';
- const timing=time?(time.interpretacao_temporal+'\\n\\n'+(time.metodo||'Técnica temporal específica do material; não é regra universal.')):'Não há previsão temporal específica cadastrada para esta carta nos materiais consultados.';
+ const timingBase=time?(time.interpretacao_temporal+'\\n\\n'+(time.metodo||'Técnica temporal específica do material; não é regra universal.')):'Não há previsão temporal específica cadastrada para esta carta nos materiais consultados.';
+ const timing=id===34?timingBase+'\\n\\nVariação registrada nos materiais: uma ficha descreve Peixes como rápida; outro método não a considera relevante para definir o tempo. As duas leituras devem ser consideradas alternativas.':timingBase;
  const fields=[
   ['Do que a carta fala',guide?.geral||c.generalMeaning||'Não localizado nos PDFs cadastrados.'],
   ['De que modo se deu ou pode acontecer',extra?.manifestacao||'Não localizado nos PDFs cadastrados.'],
