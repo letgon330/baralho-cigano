@@ -361,3 +361,153 @@ window.SENTIMENTOS_36=[
     "pagina": 7
   }
 ];
+
+
+/* Explica a lógica simbólica das fichas de sentimentos: carta + camada do naipe comum. */
+window.FUNDAMENTOS_SENTIMENTOS_36=[
+  {
+    "id": 1,
+    "motivo": "O Cavaleiro acrescenta movimento, iniciativa e vontade de aproximação. A correspondência com Copas acrescenta a camada afetiva, pois esse naipe é associado a emoções e vínculos. A junção explica o entusiasmo e o desejo de procurar o outro."
+  },
+  {
+    "id": 2,
+    "motivo": "O Trevo fala de oportunidade leve e passageira. Ouros acrescenta a dimensão prática da troca e da reciprocidade. Por isso, o interesse pode ser agradável e otimista, mas depender das circunstâncias."
+  },
+  {
+    "id": 3,
+    "motivo": "O Navio simboliza distância, viagem e mudança. Espadas acrescenta pensamentos, decisões e possíveis afastamentos. A combinação ajuda a explicar saudade, distância emocional e a necessidade de seguir outro rumo."
+  },
+  {
+    "id": 4,
+    "motivo": "A Casa representa proteção, intimidade e segurança. Copas acrescenta afeto e emoção. Essa junção sustenta a ideia de carinho protetor, familiar e nem sempre demonstrado de forma expansiva."
+  },
+  {
+    "id": 5,
+    "motivo": "A Árvore representa raízes, crescimento e tempo. Copas acrescenta o campo emocional e os desejos internos. Por isso, os sentimentos podem criar raízes, mas também se misturar a fantasias e idealizações."
+  },
+  {
+    "id": 6,
+    "motivo": "As Nuvens encobrem a visão e simbolizam falta de clareza. Paus acrescenta impulso, desejo e energia. A combinação explica uma atração intensa que ainda não está emocionalmente organizada."
+  },
+  {
+    "id": 7,
+    "motivo": "A Cobra é associada a sedução, desejo e magnetismo. Paus reforça ação, impulso e energia sexual. A junção sustenta forte atração, mas pode ganhar um lado possessivo ou competitivo conforme as cartas vizinhas."
+  },
+  {
+    "id": 8,
+    "motivo": "O Caixão representa encerramento e transformação. Ouros acrescenta independência e questões concretas. A combinação pode indicar alguém tentando encerrar um ciclo e recuperar autonomia emocional."
+  },
+  {
+    "id": 9,
+    "motivo": "O Buquê representa encanto, beleza e admiração. Espadas acrescenta racionalidade, análise e reserva. Assim, pode existir apreciação genuína, mas acompanhada de controle emocional."
+  },
+  {
+    "id": 10,
+    "motivo": "A Foice simboliza corte e decisão rápida. Ouros acrescenta avaliação prática e investimento. A combinação explica a análise sobre continuar ou interromper o investimento afetivo."
+  },
+  {
+    "id": 11,
+    "motivo": "O Chicote representa repetição, tensão e intensidade. Paus acrescenta desejo, ação e força vital. Isso explica a mistura possível de química, provocação e conflito repetitivo."
+  },
+  {
+    "id": 12,
+    "motivo": "Os Pássaros simbolizam conversa, troca e inquietação. Ouros acrescenta expectativa e avaliação prática. A combinação pode mostrar alguém que pensa sobre a relação e espera sinais concretos."
+  },
+  {
+    "id": 13,
+    "motivo": "A Criança representa começo, curiosidade e pouca experiência. Espadas acrescenta observação e análise mental. A junção explica o interesse recente, ainda cauteloso e pouco desenvolvido."
+  },
+  {
+    "id": 14,
+    "motivo": "A Raposa representa cautela, estratégia e autoproteção. Paus acrescenta esforço e defesa. Por isso, o interesse pode existir, mas a pessoa permanece atenta antes de confiar."
+  },
+  {
+    "id": 15,
+    "motivo": "O Urso simboliza força, proteção e apego. Paus acrescenta esforço, ação e energia. Essa combinação pode mostrar cuidado intenso, mas também o peso de tentar controlar ou sustentar a relação."
+  },
+  {
+    "id": 16,
+    "motivo": "As Estrelas representam esperança e orientação. Copas acrescenta afeto e memória emocional. A junção sustenta carinho, ternura, nostalgia e expectativa de reconexão."
+  },
+  {
+    "id": 17,
+    "motivo": "A Cegonha representa mudança e renovação. Copas acrescenta sensibilidade e sentimentos. Por isso, a leitura aponta emoções que se transformam, amadurecem ou iniciam uma nova fase."
+  },
+  {
+    "id": 18,
+    "motivo": "O Cão simboliza lealdade e companheirismo. Copas acrescenta afeto e vínculo emocional. A combinação sustenta confiança e permanência, embora possa representar amizade profunda em vez de paixão."
+  },
+  {
+    "id": 19,
+    "motivo": "A Torre representa distância, isolamento e reserva. Espadas acrescenta pensamento e decisão. A junção explica a necessidade de espaço para refletir ou se afastar emocionalmente."
+  },
+  {
+    "id": 20,
+    "motivo": "O Jardim representa convivência e exposição pública. Espadas acrescenta preocupação mental e sensação de limitação. Assim, pode haver interesse, mas também receio da opinião alheia ou de assumir a relação."
+  },
+  {
+    "id": 21,
+    "motivo": "A Montanha representa barreira e resistência. Paus acrescenta impulso e vontade de agir. A combinação mostra desejo de avançar que encontra obstáculos ou frustração."
+  },
+  {
+    "id": 22,
+    "motivo": "Os Caminhos representam opções e decisões. Ouros acrescenta avaliação prática e segurança. A junção explica alguém que considera possibilidades antes de definir o que deseja."
+  },
+  {
+    "id": 23,
+    "motivo": "Os Ratos simbolizam desgaste gradual. Paus acrescenta esforço e defesa. Por isso, pode haver preocupação e tentativa de proteger o que resta da relação, mesmo com a sensação de desgaste."
+  },
+  {
+    "id": 24,
+    "motivo": "O Coração é o símbolo direto do afeto e da vida emocional. Copas reforça essa mesma camada de sentimentos. A combinação explica abertura emocional, carinho e desejo de demonstrar o que sente."
+  },
+  {
+    "id": 25,
+    "motivo": "O Anel representa vínculo, continuidade e compromisso. Paus acrescenta impulso, desejo e iniciativa. Essa junção pode indicar vontade de transformar a atração em um vínculo definido."
+  },
+  {
+    "id": 26,
+    "motivo": "O Livro representa conhecimento guardado e segredo. Ouros acrescenta estabilidade e construção concreta. A combinação pode indicar sentimentos consistentes, porém reservados ou ainda não revelados."
+  },
+  {
+    "id": 27,
+    "motivo": "A Carta representa mensagem e comunicação. Espadas acrescenta pensamento, estratégia e análise. A junção pode indicar vontade de conversar, mas com cuidado sobre o que será revelado."
+  },
+  {
+    "id": 28,
+    "motivo": "O Homem funciona como carta significadora de uma pessoa. Copas acrescenta a dimensão afetiva. Quando o Homem representa alguém específico, a combinação pode apontar abertura emocional dessa pessoa, sempre conforme o contexto."
+  },
+  {
+    "id": 29,
+    "motivo": "A Mulher funciona como carta significadora de uma pessoa. Espadas acrescenta clareza mental e decisão. A combinação pode mostrar uma figura feminina avaliando ou definindo o que sente, sem fixar uma personalidade universal."
+  },
+  {
+    "id": 30,
+    "motivo": "Os Lírios representam maturidade, tranquilidade e harmonia. Espadas acrescenta racionalidade e controle mental. A junção explica um afeto mais reservado, ponderado e demonstrado por atitudes equilibradas."
+  },
+  {
+    "id": 31,
+    "motivo": "O Sol representa clareza, energia e satisfação. Ouros acrescenta concretude e segurança material. A combinação pode indicar felicidade acompanhada da percepção de que existe potencial real para construir algo."
+  },
+  {
+    "id": 32,
+    "motivo": "A Lua representa ciclos, sensibilidade e emoções profundas. Copas reforça a dimensão afetiva. A combinação pode expressar romantismo e saudade, mas também melancolia e oscilação emocional."
+  },
+  {
+    "id": 33,
+    "motivo": "A Chave representa solução, abertura e certeza. Ouros acrescenta esforço e construção prática. A junção pode indicar que a pessoa está compreendendo melhor o que sente e disposta a investir na relação."
+  },
+  {
+    "id": 34,
+    "motivo": "Os Peixes representam fluxo, abundância e autonomia. Ouros reforça segurança e dimensão concreta. A combinação pode mostrar interesse estável, mas com valorização da liberdade e da independência."
+  },
+  {
+    "id": 35,
+    "motivo": "A Âncora representa fixação e permanência. Espadas acrescenta pensamentos e preocupações. A junção explica apego e dificuldade de se desligar, mas também ansiedade e medo de perder a segurança."
+  },
+  {
+    "id": 36,
+    "motivo": "A Cruz representa peso, responsabilidade e provação. Paus acrescenta ação e esforço. A combinação pode indicar um sentimento vivido como algo sério, que exige superação, mas não deve ser interpretado como sofrimento inevitável."
+  }
+];
+window.FUNDAMENTOS_SENTIMENTOS_NOTA='A justificativa combina o símbolo principal com a camada do naipe do baralho comum. Copas enfatiza emoções; Paus, desejo e ação; Espadas, pensamento e decisões; Ouros, segurança e aspectos práticos. O valor da carta comum não recebe aqui uma regra isolada que não esteja documentada.';
