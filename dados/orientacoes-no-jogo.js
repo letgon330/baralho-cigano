@@ -26,6 +26,18 @@ function fundamentoDaCarta(c,ev){
  }
  return html;
 }
+function interpretacaoAmpliadaDaCarta(c){
+ const id=Number(c.id),guide=GUIA_DIDATICO_36.find(x=>x.id===id),extra=(window.INTERPRETACAO_AMPLIADA_36||[]).find(x=>x.id===id),time=(window.TEMPO_METODO_BASE||[]).find(x=>x.numero===id);
+ const blocks=[];
+ if(guide?.geral)blocks.push('<h4>Do que a carta fala</h4>'+paragraph(guide.geral));
+ if(extra?.manifestacao)blocks.push('<h4>De que modo a situação pode acontecer?</h4>'+paragraph(extra.manifestacao));
+ if(time){blocks.push('<h4>Previsão de tempo · método específico</h4>'+paragraph(time.interpretacao_temporal)+'<p>Esta indicação pertence a uma técnica específica do material. Não é uma regra universal nem uma garantia de prazo; deve ser ponderada com a pergunta, as cartas vizinhas e o método utilizado.</p>')}
+ if(id===34)blocks.push('<p><strong>Variação de método:</strong> uma ficha descreve Peixes como rápida; outro método não a considera relevante para definir o tempo. As duas leituras permanecem identificadas como alternativas.</p>');
+ if(extra?.lugar)blocks.push('<h4>Lugar ou ambiente possível</h4>'+paragraph(extra.lugar)+(extra.lugar_nota?paragraph(extra.lugar_nota):''));
+ if(extra?.quem)blocks.push('<h4>De quem podemos estar falando?</h4>'+paragraph(extra.quem));
+ if(extra?.personalidade)blocks.push('<h4>Personalidade</h4>'+paragraph(extra.personalidade));
+ return blocks.join('');
+}
 function fundamentoDaCombinacao(a,b){
  const find=id=>(window.FUNDAMENTOS_SIMBOLICOS_36||[]).find(x=>x.id===Number(id));
  const first=find(a.id),second=find(b.id);
@@ -35,8 +47,8 @@ function fundamentoDaCombinacao(a,b){
 }
 function instructions(ev){const guide=guideFor(ev.methodId);return guide?`<details class="acc gameMethodGuide"><summary>Como interpretar este método: ${esc(guide.title)}</summary><div class="accBody">${renderPdfVisualGuide(guide)}</div></details>`:`<p>Respeite a função de cada posição apresentada no método ${esc(ev.method.name)}.</p>`}
 function readingOrientations(ev){
- let html=`<section class="gameOrientations" aria-label="Orientações desta tiragem"><h3>Orientações para esta tiragem</h3><p>Consulte o método e os conselhos documentados para as cartas selecionadas, relacionando cada orientação à pergunta e à posição.</p>${instructions(ev)}<h4>Conselhos e contexto das cartas</h4>`;
- for(const c of ev.cards){const rows=cardAdvice(c,ev.category),basis=fundamentoDaCarta(c,ev);html+=`<details class="acc"><summary>${esc(c.position)} · ${esc(c.name)}</summary><div class="accBody">${basis}${rows.length?rows.map(x=>`<h4>${esc(publicText(x.title))}</h4>${paragraph(x.body)}`).join(''):'<p>Não há conselho complementar específico cadastrado para esta carta e este contexto. Consulte o significado e a função da posição na leitura acima.</p>'}</div></details>`}
+ let html=`<section class="gameOrientations" aria-label="Orientações desta tiragem"><h3>Orientações para esta tiragem</h3><p>Consulte o método e os conselhos documentados para as cartas selecionadas, relacionando cada orientação à pergunta e à posição. A previsão temporal é apresentada como técnica específica, não como prazo garantido. O campo de lugar só aparece quando há associação registrada no PDF, inclusive quando depender de uma combinação.</p>${instructions(ev)}<h4>Leitura ampliada de cada carta</h4>`;
+ for(const c of ev.cards){const rows=cardAdvice(c,ev.category),basis=fundamentoDaCarta(c,ev),expanded=interpretacaoAmpliadaDaCarta(c);html+=`<details class="acc"><summary>${esc(c.position)} · ${esc(c.name)}</summary><div class="accBody">${expanded}${basis}${rows.length?rows.map(x=>`<h4>${esc(publicText(x.title))}</h4>${paragraph(x.body)}`).join(''):'<p>Não há conselho complementar específico cadastrado para esta carta e este contexto. Consulte o significado e a função da posição na leitura acima.</p>'}</div></details>`}
  const ids=ev.cards.map(c=>Number(c.id)),affective=['amor','sentimentos','relacionamento','ex','reconciliacao'].includes(ev.theme);
  const related=(window.LICOES_ILUSTRADAS_PDFS||[]).filter(l=>{
  if(l.title.startsWith('Raposa no trabalho'))return ids.includes(14)&&ev.theme==='trabalho';
