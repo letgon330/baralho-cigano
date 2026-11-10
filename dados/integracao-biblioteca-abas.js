@@ -26,6 +26,38 @@ if(g){if(key==='geral')add('Do que a carta fala',g.geral);if(key==='pessoa')add(
 if(key==='sentimentos'&&sent){add('Sentimentos',sent.sentimento);add('Aspectos positivos',sent.positivo);add('Aspectos negativos',sent.negativo);if(sentBasis)add('Por que essa leitura de sentimentos?',sentBasis.motivo+'\n\n'+(window.FUNDAMENTOS_SENTIMENTOS_NOTA||''))}
 if(key==='tempo'){const t=TEMPO_METODO_BASE.find(x=>x.numero===id);if(t){add('Previsão de tempo · método específico',t.interpretacao_temporal);add('Observação sobre a técnica temporal',t.metodo||'Esta é uma técnica específica do material, não uma regra universal.')}if(id===34)add('Variação de método registrada para Peixes','Uma ficha específica descreve Peixes como rápida; em outro método temporal, a carta não é considerada relevante para definir o tempo. As duas leituras devem permanecer identificadas como variações.');}
 notes.filter(x=>x.carta===id).forEach(x=>{const k=normal(x.categoria);if(key==='interpretacoes'||key==='conselhos'&&/conselh|alert|atenc/.test(k)||normal(CATEGORY_LABELS[key]||key).split(' ').some(t=>t.length>3&&k.includes(t)))add(x.categoria,x.texto)});return out};
+
+/* Campos ampliados exibidos diretamente no cabeçalho da ficha individual. */
+const originalRenderCardDetail=renderCardDetail;
+renderCardDetail=function(c){
+ originalRenderCardDetail(c);
+ const host=document.querySelector('#cardDetail .detailHero > div:nth-child(2)');
+ if(!host||!c)return;
+ host.querySelector('.expandedCardFields')?.remove();
+ const id=n(c.id);
+ const extra=(window.INTERPRETACAO_AMPLIADA_36||[]).find(x=>x.id===id);
+ const guide=(window.GUIA_DIDATICO_36||[]).find(x=>x.id===id);
+ const time=(window.TEMPO_METODO_BASE||[]).find(x=>x.numero===id);
+ const basis=(window.FUNDAMENTOS_SIMBOLICOS_36||[]).find(x=>x.id===id);
+ const why=(basis?.fundamentos||[]).map(x=>x.associacao+': '+x.motivo).join('\\n\\n')||'O material consultado não apresenta uma justificativa simbólica específica cadastrada para esta carta.';
+ const place=extra?.lugar?(extra.lugar+(extra.lugar_nota?'\\n\\n'+extra.lugar_nota:'')):'Os PDFs consultados não indicam um lugar específico para esta carta isoladamente. Quando aplicável, a localização depende da pergunta e das combinações documentadas.';
+ const who=[extra?.quem,guide?.caracteristicas?'Características registradas no Guia Didático: '+guide.caracteristicas:''].filter(Boolean).join('\\n\\n')||'Não há descrição específica de pessoa cadastrada para esta carta nos materiais consultados.';
+ const timing=time?(time.interpretacao_temporal+'\\n\\n'+(time.metodo||'Técnica temporal específica do material; não é regra universal.')):'Não há previsão temporal específica cadastrada para esta carta nos materiais consultados.';
+ const fields=[
+  ['Do que a carta fala',guide?.geral||c.generalMeaning||'Não localizado nos PDFs cadastrados.'],
+  ['De que modo se deu ou pode acontecer',extra?.manifestacao||'Não localizado nos PDFs cadastrados.'],
+  ['Por quê?',why],
+  ['Previsão de tempo',timing],
+  ['Lugar',place],
+  ['De quem podemos estar falando',who],
+  ['Personalidade',extra?.personalidade||'Não há descrição específica de personalidade cadastrada nos materiais consultados.']
+ ];
+ const section=document.createElement('section');
+ section.className='expandedCardFields';
+ section.innerHTML='<h3 class="sectionTitle" style="font-size:25px;margin:26px 0 12px">Leitura ampliada da carta</h3><div class="metaGrid">'+fields.map(([title,value])=>'<div class="metaCard expandedInfoCard"><strong>'+e(title)+'</strong><span style="white-space:normal">'+e(value).replace(/\\n/g,'<br>')+'</span></div>').join('')+'</div><p class="detailLead" style="font-size:12px;margin-top:12px">Conteúdo organizado com base na Base Mestra e no Guia Didático do Baralho Cigano. As indicações temporais são técnicas do material, não garantias ou regras universais.</p>';
+ const currentMeta=host.querySelector('.metaGrid');
+ if(currentMeta)currentMeta.insertAdjacentElement('afterend',section);else host.append(section);
+};
 const oldSearch=renderCardGrid;
 renderCardGrid=function(){const query=state.query;if(query){const ids=cards.filter(c=>normal(JSON.stringify(c,(k,v)=>/image|fonte|pagina|source/i.test(k)?undefined:v)+' '+JSON.stringify(notes.filter(x=>x.carta===n(c.id)))+' '+JSON.stringify(GUIA_DIDATICO_36.find(x=>x.id===n(c.id)))).includes(normal(query))).map(c=>c.id);state.query='';oldSearch();state.query=query;document.querySelectorAll('#cardGrid [data-card]').forEach(el=>{el.hidden=!ids.includes(el.dataset.card)})}else oldSearch()};
 const panel=document.querySelector('#view-combinacoes .panel');const browse=document.createElement('section');browse.className='comboGroup';browse.innerHTML=`<h3>Pesquisar na biblioteca</h3><p>${COMBINACOES_DOCUMENTADAS.length} combinações e ${VARIACOES_COMBINACOES_DOCUMENTADAS.length} variações. Selecione as cartas acima ou pesquise todos os registros abaixo.</p><div class="controls"><input id="librarySearch" class="search" type="search" aria-label="Pesquisar interpretações" placeholder="Buscar interpretação ou contexto"><select id="libraryCategory" class="select" aria-label="Categoria"><option value="">Todas as categorias</option>${[...new Set(all.map(x=>x.categoria))].sort().map(x=>`<option>${e(x)}</option>`).join('')}</select></div><p id="libraryCount" aria-live="polite"></p><div id="libraryResults"></div>`;panel.append(browse);
