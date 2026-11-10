@@ -252,3 +252,149 @@
  observer.observe(document.body,{childList:true,subtree:true});
  refresh();
 })();
+
+/* V23 — Biblioteca de técnicas complementares do Baralho Cigano */
+(() => {
+  "use strict";
+  const combinations = [
+    {a:"32",b:"07",label:"Lua + Cobra / Serpente",meaning:"Emoções intensas e magnetismo podem se misturar a intenções pouco claras ou a jogos emocionais ocultos. A combinação pede discernimento para não confundir intensidade com verdade.",caution:"Não confirma traição nem revela, sozinha, a intenção de outra pessoa."},
+    {a:"07",b:"25",label:"Cobra + Anel / Aliança",meaning:"Pode representar uma terceira influência, um triângulo afetivo ou um compromisso atravessado por segredos, rivalidade ou ambivalência.",caution:"É uma possibilidade simbólica, não uma prova de infidelidade."},
+    {a:"07",b:"24",label:"Cobra + Coração",meaning:"Pode simbolizar atração intensa, desejo, paixão reservada ou conflito entre afeto e tentação.",caution:"A pergunta e as cartas vizinhas determinam se o foco está no desejo, no conflito ou na transformação do vínculo."},
+    {a:"07",b:"32",label:"Cobra + Lua",meaning:"Pode apontar magnetismo, atração secreta ou emoções que não são expressas com clareza.",caution:"Não transforma suspeitas em fatos."},
+    {a:"26",b:"07",label:"Livro + Cobra / Serpente",meaning:"Pode sugerir uma relação reservada, um segredo afetivo ou uma informação importante que ainda não foi revelada.",caution:"Não comprova a existência de um relacionamento paralelo."},
+    {a:"26",b:"14",label:"Livro + Raposa",meaning:"Pode indicar omissão, estratégia discreta ou uma informação mantida em segredo.",caution:"A leitura deve distinguir reserva, planejamento e possível engano conforme o contexto."},
+    {a:"26",b:"24",label:"Livro + Coração",meaning:"Pode representar sentimento guardado, amor platônico ou afeto que ainda não foi comunicado.",caution:"A combinação não permite afirmar, por si só, o que outra pessoa sente."},
+    {a:"22",b:"07",label:"Caminhos + Cobra / Serpente",meaning:"Pode indicar uma escolha afetiva complexa, uma relação paralela como possibilidade simbólica ou a necessidade de decidir diante de uma atração.",caution:"Não é confirmação automática de infidelidade."},
+    {a:"22",b:"25",label:"Caminhos + Anel / Aliança",meaning:"Pode simbolizar dúvida sobre compromisso, alternativas de vínculo ou uma decisão importante sobre a continuidade da relação.",caution:"Não indica automaticamente separação ou rompimento."}
+  ];
+
+  const esc = value => String(value ?? "").replace(/[&<>"']/g, ch => ({
+    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
+  }[ch]));
+
+  const viewMarkup = [
+    '<section id="view-tecnicas" class="appView"><div class="panel">',
+    '<div class="kicker">Biblioteca complementar</div>',
+    '<h2 class="sectionTitle" style="margin-top:0">Técnicas complementares</h2>',
+    '<p class="detailLead">Recursos adicionais para aprofundar a interpretação sem substituir o significado das cartas, a função de cada posição ou a pergunta da consulta.</p>',
+    '<div class="notice"><strong>Regra de leitura:</strong> preserve a ordem das cartas, o método escolhido e o contexto. Quando houver interpretações diferentes, elas aparecem como variações, não como uma regra universal.</div>',
+    '<div class="grid2">',
+    '<div class="infoBlock"><h4>Carta Oculta</h4><p>A Carta Oculta é uma camada complementar obtida a partir da soma das demais cartas de uma tiragem. O material recomenda seu uso especialmente em leituras de pares e trios, para aprofundar o sentido do conjunto e observar influências menos evidentes, motivações que não aparecem de imediato, possíveis desfechos ou conselhos.</p><p><strong>Como usar:</strong> interprete primeiro as cartas nas posições originais. Depois, consulte a Carta Oculta como informação adicional, sem deixar que ela substitua a leitura principal.</p><p><strong>Limite do material:</strong> a fonte não detalha uma regra universal de redução numérica para todos os casos. Por isso, o site não calcula automaticamente a Carta Oculta; siga a convenção da escola utilizada e deixe claro qual regra foi adotada.</p><p><strong>Exemplo ilustrativo:</strong> Urso + Coração + Foice, com Cobra como Carta Oculta, pode levantar uma reflexão sobre desejo, corte e influência externa. Isso não comprova a existência de uma terceira pessoa.</p></div>',
+    '<div class="infoBlock"><h4>Leitura em camadas</h4><p>Além do significado básico, uma carta pode ser observada por outras dimensões: número, pessoa ou arquétipo, polaridade, velocidade, tema principal, direção do olhar ou movimento, cores, elementos e correspondência com o baralho comum, quando aplicável.</p><p>Nem todas as dimensões estão preenchidas para todas as cartas. O site mantém apenas os dados documentados e não completa campos ausentes por suposição.</p></div>',
+    '<div class="infoBlock"><h4>Os Caminhos: lado luz e lado sombra</h4><p><strong>Lado luz:</strong> mudança, escolhas, decisões, direção, alternativas e jornada.</p><p><strong>Lado sombra:</strong> hesitação, caminho equivocado, indecisão, mudança forçada e necessidade de desistir de uma opção.</p><p>A leitura depende da pergunta e das cartas vizinhas: a carta pode mostrar liberdade de escolha ou dificuldade de decidir.</p></div>',
+    '<div class="infoBlock"><h4>Sentimentos e baralho comum</h4><p>A correspondência das 36 cartas com o baralho comum já está integrada às fichas individuais. Abra <strong>36 Cartas</strong>, escolha uma carta e consulte a aba <strong>Sentimentos</strong>.</p><p>Como camada complementar, Copas enfatiza afeto e emoção; Paus, desejo e impulso; Espadas, pensamentos, medos e decisões; Ouros, segurança e expressão prática. Essas associações não são uma regra universal obrigatória.</p></div>',
+    '<div class="infoBlock"><h4>Infidelidade e relações triangulares</h4><p>Algumas combinações podem levantar temas de segredo, atração, omissão, divisão afetiva ou influência externa. Uma carta isolada, um par ou uma tiragem não constituem prova de traição. Observe padrões, posições, pergunta e contexto antes de formular qualquer hipótese.</p></div>',
+    '<div class="infoBlock"><h4>Vícios e comportamentos compulsivos</h4><p>Os materiais associam simbolicamente Cobra, Ratos, Raposa, Urso, Chicote e Peixes a temas como excesso, repetição, perda de controle, desgaste, manipulação ou consumo exagerado.</p><p>Essas associações são apenas linguagem oracular. Não diagnosticam dependência, transtorno, uso de substâncias ou comportamento real de uma pessoa.</p></div>',
+    '<div class="infoBlock"><h4>Encerramentos e temas delicados</h4><p>Caixão, Foice, Cruz e Estrelas podem participar de leituras sobre encerramentos, cortes, provações, transformação, orientação e recomeço. Não devem ser interpretadas automaticamente como morte física.</p><p>Em temas de morte, saúde, gravidez, violência ou outras situações delicadas, evite previsões categóricas. Trate a consulta com empatia e não apresente símbolos como diagnóstico ou confirmação factual.</p></div>',
+    '</div><h3 class="sectionTitle">Variações de combinações</h3>',
+    '<p class="detailLead">As interpretações abaixo complementam o banco já existente. Elas preservam diferenças entre materiais e devem ser lidas na ordem indicada.</p>',
+    '<div id="complementaryCombosMount"></div></div></section>'
+  ].join("");
+
+  function renderComplementaryTechniques() {
+    const mount = document.getElementById("complementaryCombosMount");
+    if (!mount) return;
+    mount.innerHTML = combinations.map(item =>
+      '<div class="comboGroup"><h4>' + esc(item.label) +
+      '</h4><div class="comboLine"><span class="comboLabel">Leitura complementar</span>' +
+      esc(item.meaning) + '</div><div class="comboLine"><span class="comboLabel">Cuidado</span>' +
+      esc(item.caution) + '</div></div>'
+    ).join("");
+  }
+
+  function renderComplementaryCardCombinations(id) {
+    const list = combinations.filter(item => item.a === id || item.b === id);
+    if (!list.length) return "";
+    return '<details class="acc"><summary>Variações complementares de combinações</summary><div class="accBody">' +
+      list.map(item => '<div class="comboLine"><span class="comboLabel">' + esc(item.label) +
+        '</span>' + esc(item.meaning) + '<br><small>' + esc(item.caution) + '</small></div>').join("") +
+      '</div></details>';
+  }
+
+  function renderComplementaryPairBlock(a,b) {
+    const list = combinations.filter(item => item.a === a && item.b === b);
+    if (!list.length) return "";
+    return list.map(item => '<div class="comboLine"><span class="comboLabel">Variação complementar — ' +
+      esc(item.label) + '</span>' + esc(item.meaning) + '<br><small>' + esc(item.caution) +
+      '</small></div>').join("");
+  }
+
+  function showTechniques() {
+    if (typeof window.showView === "function") window.showView("tecnicas");
+    else {
+      document.querySelectorAll(".appView").forEach(view => view.classList.toggle("active",view.id === "view-tecnicas"));
+      document.querySelectorAll("#mainNav [data-view]").forEach(button => button.classList.toggle("active",button.dataset.view === "tecnicas"));
+      window.scrollTo({top:0,behavior:"smooth"});
+    }
+    renderComplementaryTechniques();
+  }
+
+  function inject() {
+    const nav = document.getElementById("mainNav");
+    const homeGrid = document.querySelector("#view-inicio .hubGrid");
+    const studyView = document.getElementById("view-estudo");
+    if (!nav || !homeGrid || !studyView) return;
+
+    if (!document.getElementById("view-tecnicas")) studyView.insertAdjacentHTML("afterend",viewMarkup);
+
+    let navButton = nav.querySelector('[data-view="tecnicas"]');
+    if (!navButton) {
+      navButton = document.createElement("button");
+      navButton.type = "button";
+      navButton.dataset.view = "tecnicas";
+      navButton.textContent = "Técnicas";
+      const after = nav.querySelector('[data-view="estudo"]');
+      if (after) after.insertAdjacentElement("afterend",navButton);
+      else nav.append(navButton);
+    }
+    if (!navButton.dataset.techniquesBound) {
+      navButton.addEventListener("click",showTechniques);
+      navButton.dataset.techniquesBound = "1";
+    }
+
+    let homeCard = homeGrid.querySelector('[data-go="tecnicas"]');
+    if (!homeCard) {
+      homeCard = document.createElement("button");
+      homeCard.type = "button";
+      homeCard.className = "hubCard";
+      homeCard.dataset.go = "tecnicas";
+      homeCard.innerHTML = "<strong>Técnicas complementares</strong><span>Carta Oculta, camadas de leitura, variações de combinações e cuidados em temas sensíveis.</span>";
+      homeGrid.append(homeCard);
+    }
+    if (!homeCard.dataset.techniquesBound) {
+      homeCard.addEventListener("click",showTechniques);
+      homeCard.dataset.techniquesBound = "1";
+    }
+
+    if (typeof window.renderCardCombinations === "function" && !window.renderCardCombinations.__techniquesWrapped) {
+      const original = window.renderCardCombinations;
+      const wrapped = function(id) { return original.apply(this,arguments) + renderComplementaryCardCombinations(id); };
+      wrapped.__techniquesWrapped = true;
+      window.renderCardCombinations = wrapped;
+    }
+
+    if (typeof window.pairBlock === "function" && !window.pairBlock.__techniquesWrapped) {
+      const original = window.pairBlock;
+      const wrapped = function(a,b) {
+        const html = original.apply(this,arguments);
+        const extra = renderComplementaryPairBlock(a,b);
+        if (!extra) return html;
+        const marker = '<div class="comboContext">';
+        const at = html.indexOf(marker);
+        return at < 0 ? html : html.slice(0,at) + extra + html.slice(at);
+      };
+      wrapped.__techniquesWrapped = true;
+      window.pairBlock = wrapped;
+    }
+
+    if (new URLSearchParams(location.search).get("view") === "tecnicas") showTechniques();
+  }
+
+  const style = document.createElement("style");
+  style.id = "complementaryTechniquesStyles";
+  style.textContent = "#view-tecnicas .infoBlock{padding:16px;border:1px solid var(--line);border-radius:16px;background:#fff;margin:0 0 12px}#view-tecnicas .infoBlock h4{font:600 19px Georgia,serif;color:#83465f;margin:0 0 8px}#view-tecnicas .infoBlock p{margin:7px 0;color:var(--muted);line-height:1.6}#view-tecnicas .comboGroup{margin:12px 0}";
+  document.head.append(style);
+
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded",inject,{once:true});
+  else inject();
+})();

@@ -1,4 +1,4 @@
-const CACHE_NAME = enciclopedia-cigana-pwa-v9-abrir-jogo;
+const CACHE_NAME = 'enciclopedia-cigana-pwa-v17-tecnicas-complementares';
 const APP_SHELL = [
   './',
   './index.html',
