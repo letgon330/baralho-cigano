@@ -16,10 +16,27 @@ function cardAdvice(c,category){
  const matching=observations.filter(x=>x.carta===Number(c.id)&&(/conselh|alert|atenc|cuidad/.test(norm(x.categoria))||aliases[category]?.test(norm(x.categoria)))).map(x=>({title:x.categoria,body:x.texto}));
  return unique([...advice,...matching]).filter(x=>x.body);
 }
+function fundamentoDaCarta(c,ev){
+ const item=(window.FUNDAMENTOS_SIMBOLICOS_36||[]).find(x=>x.id===Number(c.id));
+ const rows=item?.fundamentos||[];
+ let html=rows.length?'<h4>Por que a carta pode representar esses significados?</h4><ul>'+rows.map(x=>'<li><strong>'+esc(publicText(x.associacao))+':</strong> '+esc(publicText(x.motivo))+'</li>').join('')+'</ul>':'';
+ if(/amor|sentiment|relacion|reconcilia|ex/.test(norm((ev.theme||'')+' '+(ev.category||'')))){
+  const feeling=(window.FUNDAMENTOS_SENTIMENTOS_36||[]).find(x=>x.id===Number(c.id));
+  if(feeling)html+='<h4>Fundamento da leitura de sentimentos</h4>'+paragraph(feeling.motivo)+'<p>'+esc(window.FUNDAMENTOS_SENTIMENTOS_NOTA||'A leitura combina o símbolo principal com a camada do naipe do baralho comum.')+'</p>';
+ }
+ return html;
+}
+function fundamentoDaCombinacao(a,b){
+ const find=id=>(window.FUNDAMENTOS_SIMBOLICOS_36||[]).find(x=>x.id===Number(id));
+ const first=find(a.id),second=find(b.id);
+ const list=item=>(item?.fundamentos||[]).map(x=>'<li><strong>'+esc(publicText(x.associacao))+':</strong> '+esc(publicText(x.motivo))+'</li>').join('');
+ if(!first&&!second)return '';
+ return '<h4>Por que essa combinação pode produzir essa interpretação?</h4><p>A primeira carta estabelece o tema inicial. A segunda acrescenta, modifica ou direciona esse tema. A ordem é importante: inverter as cartas altera a narrativa.</p><h5>Contribuição de '+esc(a.name)+'</h5><ul>'+list(first)+'</ul><h5>Contribuição de '+esc(b.name)+'</h5><ul>'+list(second)+'</ul>';
+}
 function instructions(ev){const guide=guideFor(ev.methodId);return guide?`<details class="acc gameMethodGuide"><summary>Como interpretar este método: ${esc(guide.title)}</summary><div class="accBody">${renderPdfVisualGuide(guide)}</div></details>`:`<p>Respeite a função de cada posição apresentada no método ${esc(ev.method.name)}.</p>`}
 function readingOrientations(ev){
  let html=`<section class="gameOrientations" aria-label="Orientações desta tiragem"><h3>Orientações para esta tiragem</h3><p>Consulte o método e os conselhos documentados para as cartas selecionadas, relacionando cada orientação à pergunta e à posição.</p>${instructions(ev)}<h4>Conselhos e contexto das cartas</h4>`;
- for(const c of ev.cards){const rows=cardAdvice(c,ev.category);html+=`<details class="acc"><summary>${esc(c.position)} · ${esc(c.name)}</summary><div class="accBody">${rows.length?rows.map(x=>`<h4>${esc(publicText(x.title))}</h4>${paragraph(x.body)}`).join(''):'<p>Não há conselho complementar específico cadastrado para esta carta e este contexto. Consulte o significado e a função da posição na leitura acima.</p>'}</div></details>`}
+ for(const c of ev.cards){const rows=cardAdvice(c,ev.category),basis=fundamentoDaCarta(c,ev);html+=`<details class="acc"><summary>${esc(c.position)} · ${esc(c.name)}</summary><div class="accBody">${basis}${rows.length?rows.map(x=>`<h4>${esc(publicText(x.title))}</h4>${paragraph(x.body)}`).join(''):'<p>Não há conselho complementar específico cadastrado para esta carta e este contexto. Consulte o significado e a função da posição na leitura acima.</p>'}</div></details>`}
  const ids=ev.cards.map(c=>Number(c.id)),affective=['amor','sentimentos','relacionamento','ex','reconciliacao'].includes(ev.theme);
  const related=(window.LICOES_ILUSTRADAS_PDFS||[]).filter(l=>{
  if(l.title.startsWith('Raposa no trabalho'))return ids.includes(14)&&ev.theme==='trabalho';
@@ -34,7 +51,7 @@ function readingOrientations(ev){
  if(related.length)html+='<h4>Orientações ilustradas relacionadas</h4><p>Os exemplos de estudo abaixo são explicações complementares; não representam cartas extras retiradas neste jogo.</p>'+related.map(l=>`<details class="acc gameStudyLesson"><summary>${esc(l.title)}</summary><div class="accBody">${renderPdfIllustratedLesson(l)}</div></details>`).join('');
  // Somente pares adjacentes na ordem efetiva da tiragem. Variações ficam identificadas.
  const adjacent=ev.cards.slice(0,-1).map((a,i)=>({a,b:ev.cards[i+1],rows:unique(pairs.filter(x=>x.carta1===Number(a.id)&&x.carta2===Number(ev.cards[i+1].id)).map(x=>({title:x.categoria||'Geral',body:x.interpretacao_geral})))})).filter(x=>x.rows.length);
- if(adjacent.length){html+='<h4>Biblioteca complementar na ordem das cartas</h4>';for(const x of adjacent)html+=`<details class="acc"><summary>${esc(x.a.name)} + ${esc(x.b.name)} · ${x.rows.length} interpretação(ões)</summary><div class="accBody"><p>Consulte as categorias abaixo conforme o assunto da pergunta. As variantes são alternativas documentadas, não conclusões cumulativas.</p>${x.rows.map(row=>`<h4>${esc(publicText(row.title))}</h4>${paragraph(row.body)}`).join('')}</div></details>`}
+ if(adjacent.length){html+='<h4>Biblioteca complementar na ordem das cartas</h4>';for(const x of adjacent)html+=`<details class="acc"><summary>${esc(x.a.name)} + ${esc(x.b.name)} · ${x.rows.length} interpretação(ões)</summary><div class="accBody"><p>Consulte as categorias abaixo conforme o assunto da pergunta. As variantes são alternativas documentadas, não conclusões cumulativas.</p>${fundamentoDaCombinacao(x.a,x.b)}${x.rows.map(row=>`<h4>${esc(publicText(row.title))}</h4>${paragraph(row.body)}`).join('')}</div></details>`}
  if(ev.cards.length===3){const rows=trios.filter(x=>x.cartas.every((id,i)=>id===Number(ev.cards[i].id)));if(rows.length)html+='<h4>Sequência completa documentada</h4>'+unique(rows.map(x=>({title:x.categoria,body:x.interpretacao}))).map(x=>`<details class="acc"><summary>${esc(publicText(x.title))}</summary><div class="accBody">${paragraph(x.body)}</div></details>`).join('')}
  return html+'<p>Use as orientações como leitura simbólica contextual. Elas não comprovam fatos sobre terceiros.</p></section>';
 }
