@@ -27,13 +27,15 @@ if(key==='sentimentos'&&sent){add('Sentimentos',sent.sentimento);add('Aspectos p
 if(key==='tempo'){const t=TEMPO_METODO_BASE.find(x=>x.numero===id);if(t){add('Previsão de tempo · método específico',t.interpretacao_temporal);add('Observação sobre a técnica temporal',t.metodo||'Esta é uma técnica específica do material, não uma regra universal.')}if(id===34)add('Variação de método registrada para Peixes','Uma ficha específica descreve Peixes como rápida; em outro método temporal, a carta não é considerada relevante para definir o tempo. As duas leituras devem permanecer identificadas como variações.');}
 notes.filter(x=>x.carta===id).forEach(x=>{const k=normal(x.categoria);if(key==='interpretacoes'||key==='conselhos'&&/conselh|alert|atenc/.test(k)||normal(CATEGORY_LABELS[key]||key).split(' ').some(t=>t.length>3&&k.includes(t)))add(x.categoria,x.texto)});return out};
 
-/* Campos ampliados exibidos diretamente no cabeçalho da ficha individual. */
+/* Campos ampliados exibidos logo abaixo do cabeçalho da ficha individual. */
 const originalRenderCardDetail=renderCardDetail;
 renderCardDetail=function(c){
  originalRenderCardDetail(c);
- const host=document.querySelector('#cardDetail .detailHero > div:nth-child(2)');
- if(!host||!c)return;
- host.querySelector('.expandedCardFields')?.remove();
+ const detail=document.querySelector('#cardDetail');
+ if(!detail||!c)return;
+ detail.querySelector('.expandedCardFields')?.remove();
+ const hero=detail.querySelector('.detailHero');
+ const host=hero||detail;
  const id=n(c.id);
  const extra=(window.INTERPRETACAO_AMPLIADA_36||[]).find(x=>x.id===id);
  const guide=(window.GUIA_DIDATICO_36||[]).find(x=>x.id===id);
@@ -56,8 +58,7 @@ renderCardDetail=function(c){
  const section=document.createElement('section');
  section.className='expandedCardFields';
  section.innerHTML='<h3 class="sectionTitle" style="font-size:25px;margin:26px 0 12px">Leitura ampliada da carta</h3><div class="metaGrid">'+fields.map(([title,value])=>'<div class="metaCard expandedInfoCard"><strong>'+e(title)+'</strong><span style="white-space:normal">'+e(value).replace(/\\n/g,'<br>')+'</span></div>').join('')+'</div><p class="detailLead" style="font-size:12px;margin-top:12px">Conteúdo organizado com base na Base Mestra e no Guia Didático do Baralho Cigano. As indicações temporais são técnicas do material, não garantias ou regras universais.</p>';
- const currentMeta=host.querySelector('.metaGrid');
- if(currentMeta)currentMeta.insertAdjacentElement('afterend',section);else host.append(section);
+ if(hero)hero.insertAdjacentElement('afterend',section);else host.append(section);
 };
 const oldSearch=renderCardGrid;
 renderCardGrid=function(){const query=state.query;if(query){const ids=cards.filter(c=>normal(JSON.stringify(c,(k,v)=>/image|fonte|pagina|source/i.test(k)?undefined:v)+' '+JSON.stringify(notes.filter(x=>x.carta===n(c.id)))+' '+JSON.stringify(GUIA_DIDATICO_36.find(x=>x.id===n(c.id)))).includes(normal(query))).map(c=>c.id);state.query='';oldSearch();state.query=query;document.querySelectorAll('#cardGrid [data-card]').forEach(el=>{el.hidden=!ids.includes(el.dataset.card)})}else oldSearch()};
