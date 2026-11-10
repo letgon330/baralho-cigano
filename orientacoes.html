@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Orientações | Baralho Cigano</title>
+<style>
+:root{--rosa:#f8dce8;--vinho:#823b5d;--texto:#493442;--bord:#eed5df}*{box-sizing:border-box}body{margin:0;background:#fff8fb;color:var(--texto);font:16px/1.6 system-ui,Arial}header{padding:24px 18px;background:linear-gradient(110deg,#f4c9db,#fff3f7);border-bottom:1px solid var(--bord)}main{max-width:1060px;margin:auto;padding:18px}h1,h2,h3{font-family:Georgia,serif;color:var(--vinho)}a{color:var(--vinho)}.intro{max-width:750px}.panel{border:1px solid var(--bord);border-radius:18px;background:white;padding:18px;margin:15px 0;box-shadow:0 6px 20px #773b5911}input,select,button{font:inherit;border:1px solid #dbb7c9;border-radius:11px;padding:10px;background:white;color:var(--texto)}button{cursor:pointer}button:hover,button:focus-visible{background:#ffebf3}input{width:100%}.filters{display:flex;gap:10px;flex-wrap:wrap}.filters>*{flex:1;min-width:180px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}.card{border:1px solid var(--bord);padding:16px;border-radius:15px;background:white}.card h3{margin:0 0 8px}.muted{font-size:.9rem;color:#77616d}.tabs{display:flex;gap:8px;flex-wrap:wrap;margin:16px 0}.tabs button[aria-selected=true]{background:#813957;color:white}.hidden{display:none}.pill{display:inline-block;background:#fff1f6;padding:2px 10px;border-radius:100px;margin:3px 4px 3px 0;font-size:.88rem}.notice{border-left:4px solid #c484a3;padding:10px;background:#fff5f9}details{margin-top:10px}summary{cursor:pointer;font-weight:600}footer{padding:24px;text-align:center;color:#826875}@media(max-width:640px){header{padding:20px 15px}main{padding:12px}}
+</style></head><body><header><a href="./index.html">← Voltar ao site</a><h1>Orientações</h1><p>Significados, conselhos, métodos e combinações documentadas em um só lugar.</p><p class="intro">Biblioteca didática de interpretação do Baralho Cigano. Cada símbolo deve ser lido de acordo com a pergunta, posição, ordem e cartas vizinhas.</p></header>
+<main><nav class="tabs" aria-label="Seções"><button data-tab="cartas" aria-selected="true">As 36 cartas</button><button data-tab="combinacoes" aria-selected="false">Combinações</button><button data-tab="orientacoes" aria-selected="false">Conselhos e técnicas</button></nav>
+<section id="cartas"><div class="panel filters"><input id="busca" type="search" placeholder="Buscar carta ou significado..." aria-label="Buscar cartas"><select id="filtro"><option value="">Todas as cartas</option><option value="favoravel">Potenciais favoráveis</option><option value="atencao">Pontos de atenção</option></select></div><p id="contagem" class="muted"></p><div id="lista" class="grid"></div></section>
+<section id="combinacoes" class="hidden"><div class="panel"><h2>Interpretar duas cartas sem perder a ordem</h2><p>Selecione as duas cartas. As descrições apresentadas distinguem o símbolo original, a influência da segunda carta e a interpretação construída para o par. Não são atribuídas interpretações tradicionais fixas sem documentação.</p><div class="filters"><select id="carta1" aria-label="Primeira carta"></select><select id="carta2" aria-label="Segunda carta"></select><button id="inverter">Inverter ordem</button></div><div id="leitura"></div></div></section>
+<section id="orientacoes" class="hidden"><div class="panel"><h2>Como construir uma leitura contextual</h2><p><strong>1. Formule uma pergunta:</strong> separe sentimento de ação, evitando duas questões na mesma frase.</p><p><strong>2. Respeite o método:</strong> a função de cada posição altera a leitura.</p><p><strong>3. Relacione as cartas:</strong> na leitura de três cartas, observe 1+2, depois 2+3 e então a narrativa completa.</p><p><strong>4. Preserve a ordem:</strong> A+B pode enfatizar algo diferente de B+A.</p><p><strong>5. Não transforme símbolos em provas:</strong> cartas isoladas não confirmam traições, diagnósticos, gravidez, morte ou sentimentos de terceiros.</p><p><strong>6. Diferencie fontes:</strong> quando escolas divergem, apresente as variações em vez de apagar alguma delas.</p><h3>Perguntas que ajudam a interpretar</h3><p>O que está começando? O que impede o movimento? A carta mostra sentimento, intenção ou atitude? Qual carta modifica a outra? Há um conselho prático coerente com a situação?</p></div></section>
+<section class="panel" id="material-novo"><h2>Estudos complementares</h2><p>Os tópicos abaixo ampliam a interpretação de cartas, vínculos, compromissos e conselhos. Eles preservam a distinção entre vínculos e compromissos, bem como as alternativas contextuais da carta Urso.</p>
+<details><summary>Urso (15): proteção, posse e autoridade</summary>
+<p>O mesmo símbolo pode representar proteção, segurança, autoridade, força ou controle. Para perguntas sobre comportamentos, Urso + Chicote abre uma análise sobre disputas de poder, conflitos e cobranças. Para perguntas sobre construção de vínculo, Urso + Casa enfatiza proteção, segurança, estabilidade ou necessidade de preservar o espaço familiar. O contexto diferencia as leituras.</p>
+<p><strong>Orientação:</strong> antes de atribuir ciúme ou possessividade, identifique o tema da pergunta e observe quais cartas qualificam o Urso.</p></details>
+<details><summary>Cão (18) e Anel (25): vínculo não é compromisso</summary>
+<p>O Cão focaliza confiança, companheirismo e lealdade; o Anel focaliza acordos, compromisso e continuidade. As duas cartas podem falar de vínculos, mas não são sinônimas. Em perguntas afetivas, distinga amizade, confiança, fidelidade e decisão de assumir compromisso.</p></details>
+<details><summary>Pássaros (12) e Chave (33): o diálogo pode abrir caminhos</summary>
+<p>O par aproxima comunicação e esclarecimento. O assunto conversado, o grau de abertura e o resultado dependem da pergunta, da função das posições e das cartas vizinhas. O material ilustra possibilidades de esclarecimento, conversa decisiva e entendimento, mas também recomenda analisar interferências das demais cartas.</p></details>
+<details><summary>Perguntas de autoconhecimento</summary>
+<p>Como posso fortalecer minha autoestima? O que preciso mudar na maneira de me enxergar? Como parar de buscar validação nos outros? O que impede que eu reconheça meu próprio valor? Qual atitude prática pode destravar minha prosperidade?</p>
+</details><p class="muted">Fonte: pdf24_convertido (1).pdf, 72 páginas, capturas de materiais ilustrados. Esta seção contém sínteses contextualizadas de temas visíveis; a revisão integral do arquivo ainda é necessária.</p></section>
+<section class="panel" id="trios-novos3"><h2>Sequências documentadas de três cartas</h2><p>Exemplos completos de sequências documentadas. Não são combinações de duas cartas.</p><div id="trios-lista"></div></section>
+<p class="notice"><strong>Sobre esta versão:</strong> as fichas a seguir são um primeiro índice interpretativo baseado no Guia Didático do projeto. A importação integral, conferência de duplicidades e catalogação de todas as fontes ainda estão em andamento. Conselhos são aplicações contextuais, não transcrições literais das fontes.</p>
+</main><footer>Baralho Cigano · Biblioteca de consulta simbólica e educativa</footer>
+<script>
+const raw=[
+["Cavaleiro","Movimento, aproximação, notícias, iniciativa e conquista.","Abertura de contatos, ação e novidades.","Pressa, impulsividade e entusiasmo passageiro.","Observe a direção e distinga notícia de compromisso."],
+["Trevo","Oportunidades inesperadas, pequenos obstáculos e acontecimentos passageiros.","Sorte rápida, oportunidade e adaptação.","Instabilidade ou ocasiões fugazes.","Pergunte se a chance é duradoura ou precisa ser aproveitada logo."],
+["Navio","Viagem, distância, mudança, expansão e liberdade.","Novos horizontes e movimento.","Saudade, afastamento e demora.","Investigue se a distância é física ou emocional."],
+["Casa","Lar, família, estrutura, proteção e segurança.","Estabilidade e construção de base.","Rotina rígida e apego à zona de conforto.","Observe que aspecto da vida precisa de segurança."],
+["Árvore","Raízes, crescimento, saúde simbólica e duração.","Desenvolvimento gradual e amadurecimento.","Lentidão, estagnação e padrões antigos.","Considere o tempo de maturação e evite previsões médicas."],
+["Nuvens","Dúvida, confusão, oscilação e falta de clareza.","Pausa útil antes de decidir.","Incerteza, mal-entendidos e instabilidade.","Procure as cartas que esclarecem a situação."],
+["Cobra","Sedução, astúcia, desejo, caminhos complexos e atenção.","Estratégia, inteligência e magnetismo.","Ciúme, manipulação e conflitos.","Não conclua traição por uma carta isolada."],
+["Caixão","Encerramento, transformação, finalização e renascimento.","Libertação e início após o fim de um ciclo.","Perda, esgotamento e resistência a mudanças.","Pergunte o que precisa terminar; não associe automaticamente à morte."],
+["Buquê","Alegria, reconhecimento, gentileza e surpresas.","Presentes, convites, simpatia e gratidão.","Aparência agradável que pode ser passageira.","Observe se o gesto se sustenta em atitudes."],
+["Foice","Corte, colheita, decisão e mudança súbita.","Decisão necessária e encerramento do que prejudica.","Ruptura brusca e impulsividade.","Analise a posição da lâmina e a convenção do método."],
+["Chicote","Repetição, intensidade, discussões e tensão.","Energia, persistência e química.","Brigas, desgaste e ciclos repetitivos.","Diferencie atração de conflito repetido."],
+["Pássaros","Conversas, comunicação, ansiedade e agitação.","Troca de ideias e diálogo.","Preocupação e ruído de comunicação.","Pergunte sobre a qualidade da conversa, não só a existência dela."],
+["Criança","Início, novidade, curiosidade e ingenuidade.","Recomeço e descoberta.","Imaturidade e pouca experiência.","Identifique o que ainda está no começo."],
+["Raposa","Cautela, estratégia, inteligência e observação.","Discernimento e habilidade prática.","Desconfiança e interesses ocultos.","Não reduza Raposa a mentira automática."],
+["Urso","Força, proteção, poder e presença marcante.","Segurança e capacidade de sustentar desafios.","Controle, imposição e ciúmes.","Diferencie proteção de posse, considerando as cartas vizinhas."],
+["Estrelas","Esperança, inspiração, objetivos e orientação.","Fé simbólica, perspectiva e confiança.","Idealização e expectativas distantes.","Conecte a esperança a passos concretos."],
+["Cegonha","Mudança, transição e renovação.","Evolução e nova fase.","Oscilações e mudanças não planejadas.","Não trate a carta isolada como confirmação de gravidez."],
+["Cão","Lealdade, amizade, confiança e apoio.","Companheirismo e vínculo confiável.","Dependência e lealdade sem reciprocidade.","Distinga amizade, apoio e compromisso amoroso."],
+["Torre","Instituições, estrutura, limites e isolamento.","Autonomia e organização.","Frieza, solidão e distanciamento.","Veja se a necessidade é proteção ou afastamento."],
+["Jardim","Vida social, encontros, público e convivência.","Visibilidade e novas conexões.","Exposição e influência de terceiros.","Pergunte como o ambiente social modifica a situação."],
+["Montanha","Barreiras, obstáculos, demora e resistência.","Persistência diante de desafios.","Bloqueio e paralisia.","Observe se há rota alternativa ou espera necessária."],
+["Caminhos","Alternativas, escolhas e decisões.","Autonomia e abertura de possibilidades.","Indecisão e dispersão.","Identifique o motivo da escolha e a consequência indicada."],
+["Ratos","Desgaste, redução, perda e preocupação.","Reconhecimento do que precisa ser protegido.","Consumo gradual de energia e recursos.","Observe o que está sendo corroído e em qual direção."],
+["Coração","Afeto, emoção, paixão e envolvimento.","Carinho e expressão emocional.","Excessos, idealização e sofrimento afetivo.","Sentir intensamente não equivale a compromisso saudável."],
+["Anel","Vínculo, acordo, compromisso e continuidade.","Parceria e compromisso assumido.","Obrigações ou ciclos repetidos.","Não conclua casamento; primeiro descubra a natureza do vínculo."],
+["Livro","Conhecimento, estudo, segredo e descoberta.","Aprendizado e aprofundamento.","Informações desconhecidas e reserva.","Diferencie privacidade de ocultação prejudicial."],
+["Carta","Mensagem, documento, informação e comunicação.","Contato, convite e esclarecimento.","Formalidade ou notícias incompletas.","Observe quem comunica e o que é comunicado."],
+["Homem","Figura masculina relevante na questão.","Identificação do personagem central.","Confusão sobre quem é representado.","Defina o significador segundo o método antes da leitura."],
+["Mulher","Figura feminina relevante na questão.","Identificação da personagem central.","Confusão sobre quem é representada.","Defina o significador segundo o método antes da leitura."],
+["Lírios","Paz, maturidade, ética e harmonia.","Serenidade, respeito e equilíbrio.","Passividade ou formalidade excessiva.","Investigue como a maturidade afeta a questão."],
+["Sol","Clareza, vitalidade, sucesso e realização.","Otimismo e reconhecimento.","Excesso de confiança ou exposição.","Verifique o que está sendo iluminado na tiragem."],
+["Lua","Emoções, intuição, ciclos e reconhecimento.","Sensibilidade e percepção subjetiva.","Ilusões, oscilação e insegurança.","Separe percepção interna de fatos verificáveis."],
+["Chave","Solução, abertura e possibilidade de resolução.","Destravamento e resposta importante.","Certeza apressada sem examinar o contexto.","Identifique qual questão encontra uma solução."],
+["Peixes","Fluxo, recursos, dinheiro e abundância.","Circulação de recursos e autonomia.","Excesso, dispersão e instabilidade financeira.","Distinga fluxo de prosperidade efetiva."],
+["Âncora","Estabilidade, permanência, trabalho e persistência.","Constância e construção de longo prazo.","Apego, rotina rígida e estagnação.","Pergunte se permanecer favorece ou impede o avanço."],
+["Cruz","Responsabilidade, peso, desafio e aprendizado.","Resiliência e sentido diante das dificuldades.","Sobrecarga, culpa e sacrifício excessivo.","Identifique o peso real sem transformar sofrimento em destino."]
+];
+const cartas=raw.map((a,i)=>({id:i+1,nome:a[0],geral:a[1],favoravel:a[2],atencao:a[3],conselho:a[4]}));
+const nome=c=>String(c.id).padStart(2,"0")+" · "+c.nome;
+const esc=s=>String(s).replace(/[&<>"]/g,x=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[x]));
+function mostrar(){const q=document.querySelector("#busca").value.toLocaleLowerCase("pt-BR"),f=document.querySelector("#filtro").value;const itens=cartas.filter(c=>(nome(c)+" "+Object.values(c).join(" ")).toLocaleLowerCase("pt-BR").includes(q)&&(!f||c[f]));document.querySelector("#contagem").textContent=itens.length+" cartas encontradas";document.querySelector("#lista").innerHTML=itens.map(c=>'<article class="card"><h3>'+esc(nome(c))+'</h3><p>'+esc(c.geral)+'</p><details><summary>Potenciais favoráveis e atenção</summary><p><strong>Favorável:</strong> '+esc(c.favoravel)+'</p><p><strong>Atenção:</strong> '+esc(c.atencao)+'</p></details><details><summary>Conselho de interpretação</summary><p>'+esc(c.conselho)+'</p></details></article>').join("")}
+for(const t of document.querySelectorAll("[data-tab]"))t.onclick=()=>{for(const b of document.querySelectorAll("[data-tab]"))b.setAttribute("aria-selected",String(b===t));for(const s of ["cartas","combinacoes","orientacoes"])document.getElementById(s).classList.toggle("hidden",s!==t.dataset.tab)};
+for(const el of ["busca","filtro"])document.getElementById(el).addEventListener("input",()=>((window.mostrar||mostrar)()));
+for(const id of ["carta1","carta2"]){const s=document.getElementById(id);s.innerHTML=cartas.map(c=>'<option value="'+c.id+'">'+esc(nome(c))+'</option>').join("")}document.getElementById("carta2").value="24";
+function leitura(){const a=cartas[+document.getElementById("carta1").value-1],b=cartas[+document.getElementById("carta2").value-1];document.getElementById("leitura").innerHTML='<div class="panel"><h3>'+esc(a.nome)+" → "+esc(b.nome)+'</h3><p><strong>Primeira carta (assunto):</strong> '+esc(a.geral)+'</p><p><strong>Segunda carta (modificação):</strong> '+esc(b.geral)+'</p><p><strong>Conselho de análise:</strong> '+esc(a.conselho)+" "+esc(b.conselho)+'</p><p class="muted">Esta é uma leitura estruturada dos significados individuais, não uma combinação específica documental. A transcrição e indexação integral das combinações dos PDFs está pendente.</p></div>'}
+document.getElementById("carta1").onchange=leitura;document.getElementById("carta2").onchange=leitura;document.getElementById("inverter").onclick=()=>{const a=document.getElementById("carta1"),b=document.getElementById("carta2");[a.value,b.value]=[b.value,a.value];leitura()};mostrar();leitura();
+</script><script src="./dados/combinacoes-direcionais-pdf.js"></script>
+<script src="./dados/variacoes-combinacoes-pdf.js"></script>
+<script src="./dados/auditoria-ocorrencias-repetidas.js"></script>
+<script src="./dados/guia-didatico-36.js"></script>
+<script src="./dados/sentimentos-36.js"></script>
+<script src="./dados/tempo-metodo-base-mestra.js"></script>
+<script src="./dados/tecnicas-complementares-fontes.js"></script>
+<script src="./dados/novos-observacoes-por-carta.js"></script>
+<script src="./dados/novos2-observacoes-por-carta.js"></script>
+<script src="./dados/novos3-observacoes-por-carta.js"></script>
+<script src="./dados/novos3-trios-documentados.js"></script>
+<script src="./dados/novos4-observacoes-por-carta.js"></script>
+<script src="./dados/novos4-trios-documentados.js"></script>
+<script src="./dados/novos4-metodos-complementares.js"></script>
+<script src="./dados/novos5-observacoes-por-carta.js"></script>
+<script src="./dados/novos5-trios-documentados.js"></script>
+<script src="./dados/novos5-metodos-complementares.js"></script>
+<script src="./dados/novos6-observacoes-por-carta.js"></script>
+<script src="./dados/novos6-metodos-complementares.js"></script>
+<script src="./dados/novos7-observacoes-por-carta.js"></script>
+<script src="./dados/novos7-metodos-complementares.js"></script>
+<script>
+(function(){
+const base=window.GUIA_DIDATICO_36||[];
+if(base.length!==36)return;
+const safe=s=>String(s||"").replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+for(const x of base){
+const c=cartas[x.id-1]; if(!c)continue;
+c.geral=x.geral;
+c.caracteristicas=x.caracteristicas;
+c.amor=x.amor;
+c.sexualidade=x.sexualidade;
+c.palavras_chave=x.palavras_chave;
+c.fonte=x.fonte;
+const senti=(window.SENTIMENTOS_36||[]).find(z=>z.id===c.id);if(senti){c.sentimento=senti.sentimento;c.sentimento_positivo=senti.positivo;c.sentimento_negativo=senti.negativo;c.naipe=senti.naipe_e_valor;c.fonte_sentimentos=senti.fonte;c.pagina_sentimentos=senti.pagina;} const temp=(window.TEMPO_METODO_BASE||[]).find(z=>z.numero===c.id);if(temp){c.tempo=temp.interpretacao_temporal;c.fonte_tempo=temp.fonte;c.pagina_tempo=temp.pagina;}
+}
+window.mostrar= function(){
+ const q=document.getElementById("busca").value.toLocaleLowerCase("pt-BR"),f=document.getElementById("filtro").value;
+ const itens=cartas.filter(c=>Object.values(c).join(" ").toLocaleLowerCase("pt-BR").includes(q)&&(!f||c[f]));
+ document.getElementById("contagem").textContent=itens.length+" cartas encontradas";
+ document.getElementById("lista").innerHTML=itens.map(c=>'<article class="card"><h3>'+safe(nome(c))+'</h3><p>'+safe(c.geral)+'</p>'+
+ '<details><summary>Características de pessoas</summary><p>'+safe(c.caracteristicas)+'</p></details>'+
+ '<details><summary>Amor e relacionamentos</summary><p>'+safe(c.amor)+'</p></details>'+
+ '<details><summary>Sexualidade</summary><p>'+safe(c.sexualidade)+'</p></details>'+ 
+ '<details><summary>Sentimentos e naipe correspondente</summary><p><strong>Correspondência:</strong> '+safe(c.naipe)+'</p><p>'+safe(c.sentimento)+'</p>'+(c.sentimento_positivo?'<p><strong>Em positivo:</strong> '+safe(c.sentimento_positivo)+'</p>':'')+(c.sentimento_negativo?'<p><strong>Em negativo:</strong> '+safe(c.sentimento_negativo)+'</p>':'')+'<p class="muted">Fonte: '+safe(c.fonte_sentimentos)+', página '+safe(c.pagina_sentimentos)+'.</p></details>'+
+ '<details><summary>Palavras-chave</summary><p>'+safe(c.palavras_chave)+'</p></details>'+
+ [...(window.NOVOS_OBSERVACOES||[]),...(window.NOVOS2_OBSERVACOES||[]),...(window.NOVOS3_OBSERVACOES||[]),...(window.NOVOS4_OBSERVACOES||[]),...(window.NOVOS5_OBSERVACOES||[]),...(window.NOVOS6_OBSERVACOES||[]),...(window.NOVOS7_OBSERVACOES||[])].filter(z=>z.carta===c.id).map(z=>'<details><summary>'+safe(z.categoria)+' — '+safe(z.fonte)+'</summary><p>'+safe(z.texto)+'</p><p class="muted">Fonte: '+safe(z.fonte)+', página '+z.pagina+'. Interpretação contextual; não afirmação factual.</p></details>').join('')+ 
+ '<details><summary>Técnica de tempo (método específico)</summary><p>'+safe(c.tempo)+'</p><p class="muted">Fonte: '+safe(c.fonte_tempo)+', página '+safe(c.pagina_tempo)+'. Não é uma previsão temporal comprovada.</p></details>'+
+ '<details><summary>Aspectos e conselhos contextuais</summary><p><strong>Favorável:</strong> '+safe(c.favoravel)+'</p><p><strong>Atenção:</strong> '+safe(c.atencao)+'</p><p><strong>Dica:</strong> '+safe(c.conselho)+'</p><p class="muted">Dicas redigidas como aplicação interpretativa, não como citação do guia.</p></details>'+
+ '<p class="muted">Fonte das categorias: '+safe(c.fonte)+'</p></article>').join("");
+ };
+// Os filtros utilizam os listeners do script inicial, que chamam window.mostrar.
+window.mostrar();leitura();
+})();
+</script><script>
+(function(){
+const registros=window.COMBINACOES_DOCUMENTADAS||[];
+if(!registros.length)return;
+const seletor1=document.getElementById('carta1'),seletor2=document.getElementById('carta2'),saida=document.getElementById('leitura');
+const safe=s=>String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const originalLeitura=window.leitura;
+function atualizar(){
+ const a=Number(seletor1.value),b=Number(seletor2.value);
+ const matched=registros.filter(x=>x.carta1===a&&x.carta2===b);
+ if(!matched.length){originalLeitura();return;}
+ const c1=cartas[a-1],c2=cartas[b-1];
+ saida.innerHTML='<div class="panel"><h3>'+safe(c1.nome)+' → '+safe(c2.nome)+'</h3>'+
+ '<p class="muted">Interpretação específica documentada: '+matched.length+' registro(s)</p>'+
+ matched.map(x=>'<div class="card"><p><strong>'+safe(x.categoria||'geral')+':</strong> '+safe(x.interpretacao_geral)+'</p><p class="muted">Fonte: '+safe(x.fonte)+', página '+x.pagina+'.</p>'+(x.auditoria_fidelidade?'<p class="muted">Revisão textual: '+safe(x.transcricao||'pendente')+'.</p>':'')+'</div>').join('')+
+ (window.VARIACOES_COMBINACOES_DOCUMENTADAS||[]).filter(x=>x.carta1===a&&x.carta2===b).map(x=>'<details><summary>Variação documentada (página '+x.pagina+')</summary><p>'+safe(x.interpretacao_geral)+'</p><p class="muted">Fonte: '+safe(x.fonte)+', página '+x.pagina+'; leitura anterior preservada da página '+x.pagina_original+'.</p></details>').join('')+
+ (window.AUDITORIA_OCORRENCIAS_REPETIDAS||[]).filter(x=>x.carta1===a&&x.carta2===b).map(x=>'<details><summary>Outra ocorrência da mesma interpretação — '+safe(x.fonte)+', p. '+x.pagina+'</summary><p>'+safe(x.texto)+'</p><p class="muted">Categoria da fonte: '+safe(x.categoria)+'. Registro consolidado sem perda da referência.</p></details>').join('')+
+ '<p class="muted">Cada interpretação identifica sua categoria, fonte e página; esta consulta não comprova fatos reais.</p></div>';
+}
+seletor1.addEventListener('change',atualizar);
+seletor2.addEventListener('change',atualizar);
+document.getElementById('inverter').addEventListener('click',atualizar);
+atualizar();
+})();
+</script><script>
+(function(){
+ const root=document.querySelector('#orientacoes .panel');if(!root||!window.TECNICAS_COMPLEMENTARES)return;
+ const sec=document.createElement('section');sec.innerHTML='<h2>Técnicas complementares documentadas</h2><p>Orientações separadas por método, sem presumir que escolas diferentes são equivalentes.</p>';
+ const safe=s=>String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+ for(const x of window.TECNICAS_COMPLEMENTARES){
+  const d=document.createElement('details');
+  d.innerHTML='<summary>'+safe(x.nome)+' — '+safe(x.categoria)+'</summary><p>'+safe(x.orientacao)+'</p><p class="muted">Fonte: '+safe(x.fonte)+', página '+safe(x.pagina)+'</p>';
+  sec.appendChild(d);
+ }
+ root.appendChild(sec);
+})();
+</script><script>
+(function(){const root=document.getElementById("trios-lista");if(!root)return;const safe=s=>String(s||"").replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));root.innerHTML=[...(window.NOVOS3_TRIOS||[]),...(window.NOVOS4_TRIOS||[]),...(window.NOVOS5_TRIOS||[])].map(x=>'<details><summary>'+x.cartas.map(n=>{const c=window.GUIA_DIDATICO_36?.find(z=>z.id===n);return safe(c?.nome||n)}).join(' + ')+'</summary><p>'+safe(x.interpretacao)+'</p><p class="muted">Fonte: '+safe(x.fonte)+', p. '+x.pagina+'. Categoria: '+safe(x.categoria)+'.</p></details>').join('');})();
+</script><script>(function(){const r=document.querySelector('#orientacoes .panel');if(!r)return;const safe=s=>String(s||"").replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));const section=document.createElement("section");section.innerHTML="<h2>Métodos complementares</h2>";for(const x of (window.NOVOS4_METODOS||[])){const d=document.createElement("details");d.innerHTML="<summary>"+safe(x.nome)+"</summary><p>"+safe(x.descricao)+"</p><p class='muted'>Fonte: "+safe(x.fonte)+", páginas "+safe(x.paginas)+".</p>";section.appendChild(d)}r.appendChild(section)})();</script><script>(function(){const r=document.querySelector('#orientacoes .panel');if(!r)return;const safe=s=>String(s||"").replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));const section=document.createElement('section');section.innerHTML='<h2>Métodos complementares</h2>';for(const x of (window.NOVOS5_METODOS||[])){const d=document.createElement('details');d.innerHTML='<summary>'+safe(x.nome)+'</summary><p>'+safe(x.descricao)+'</p><p class="muted">Fonte: '+safe(x.fonte)+', páginas '+safe(x.paginas)+'.</p>';section.appendChild(d)}r.appendChild(section)})();</script><script>(function(){const root=document.querySelector('#orientacoes .panel');if(!root)return;const esc=s=>String(s||"").replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));const section=document.createElement('section');section.innerHTML='<h2>Métodos complementares</h2>';for(const x of (window.NOVOS6_METODOS||[])){const d=document.createElement('details');d.innerHTML='<summary>'+esc(x.nome)+'</summary><p>'+esc(x.descricao)+'</p><p class="muted">Fonte: '+esc(x.fonte)+', páginas '+esc(x.paginas)+'.</p>';section.appendChild(d)}root.appendChild(section)})();</script><script>(function(){const root=document.querySelector('#orientacoes .panel');if(!root)return;const esc=s=>String(s||"").replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));const sec=document.createElement('section');sec.innerHTML='<h2>Métodos complementares</h2>';for(const x of (window.NOVOS7_METODOS||[])){const d=document.createElement('details');d.innerHTML='<summary>'+esc(x.nome)+'</summary><p>'+esc(x.descricao)+'</p><p class="muted">Fonte: '+esc(x.fonte)+', páginas '+esc(x.paginas)+'.</p>';sec.appendChild(d)}root.appendChild(sec)})();</script><script>
+/* Metadados das fontes permanecem nos arquivos de dados, fora da interface de consulta. */
+(function(){
+ function limparFontes(root){
+  const scope=root&&root.querySelectorAll?root:document;
+  for(const el of scope.querySelectorAll("summary")){
+    if(!el.dataset.nomeLimpo){
+      const t=el.textContent||"";
+      const limpo=t.replace(/\s*[—–-]\s*NOVOS(?:\s+[2-7])?\.pdf\s*$/i,"");
+      if(limpo!==t)el.textContent=limpo;
+      el.dataset.nomeLimpo="1";
+    }
+  }
+  for(const el of scope.querySelectorAll("p")){
+    const t=(el.textContent||"").trim();
+    if((/^Fonte(?: das categorias)?:/i.test(t)||/^Fonte documental:/i.test(t))&&!el.hidden){el.hidden=true;}
+  }
+ }
+ limparFontes(document);
+ const observer=new MutationObserver(list=>{
+  for(const m of list){if(m.addedNodes.length){limparFontes(document);break;}}
+ });
+ observer.observe(document.body,{childList:true,subtree:true});
+})();
+</script><script src="./dados/apresentacao-publica.js"></script></body></html>

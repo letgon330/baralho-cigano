@@ -1,55 +1,60 @@
-const CACHE_NAME = enciclopedia-cigana-pwa-v9-abrir-jogo;
-const APP_SHELL = [
-  './',
-  './index.html',
-  './manifest.webmanifest',
-  './icon-192.png',
-  './icon-512.png',
-  './apple-touch-icon.png'
-];
+/*
+ * Service worker do Baralho Cigano.
+ * Mantém a aplicação estática estável e aplica a versão atual do layout
+ * responsivo em páginas HTML, sem alterar os dados da aplicação.
+ */
+
+const MOBILE_LAYOUT_CSS = './mobile-layout-fix.css?v=20261028-2';
 
 self.addEventListener('install', event => {
-  event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(APP_SHELL)));
-});
-
-
-self.addEventListener('message', event => {
-  if (event.data && event.data.type === 'SKIP_WAITING') {
-    self.skipWaiting();
-  }
+  event.waitUntil(self.skipWaiting());
 });
 
 self.addEventListener('activate', event => {
-  event.waitUntil(
-    caches.keys().then(keys => Promise.all(keys.filter(k => k !== CACHE_NAME).map(k => caches.delete(k))))
-      .then(() => self.clients.claim())
-  );
+  event.waitUntil((async () => {
+    try {
+      const keys = await caches.keys();
+      await Promise.all(keys.map(key => caches.delete(key)));
+      await self.clients.claim();
+    } catch (error) {
+      console.warn('Limpeza do cache antigo não concluída:', error);
+    }
+  })());
 });
 
 self.addEventListener('fetch', event => {
-  const req = event.request;
-  if (req.method !== 'GET') return;
+  const request = event.request;
 
-  if (req.mode === 'navigate') {
-    event.respondWith(
-      fetch(req)
-        .then(resp => {
-          const copy = resp.clone();
-          caches.open(CACHE_NAME).then(cache => cache.put('./index.html', copy));
-          return resp;
-        })
-        .catch(() => caches.match('./index.html').then(r => r || caches.match('./')))
-    );
-    return;
-  }
+  if (request.method !== 'GET' || request.mode !== 'navigate') return;
 
-  event.respondWith(
-    caches.match(req).then(cached => cached || fetch(req).then(resp => {
-      if (resp && resp.status === 200 && resp.type === 'basic') {
-        const copy = resp.clone();
-        caches.open(CACHE_NAME).then(cache => cache.put(req, copy));
+  event.respondWith((async () => {
+    try {
+      const response = await fetch(request);
+      const contentType = response.headers.get('content-type') || '';
+
+      if (!contentType.includes('text/html')) return response;
+
+      const html = await response.text();
+      const tag = `<link rel="stylesheet" href="${MOBILE_LAYOUT_CSS}">`;
+
+      if (html.includes('mobile-layout-fix.css')) {
+        return new Response(html, {
+          status: response.status,
+          statusText: response.statusText,
+          headers: response.headers
+        });
       }
-      return resp;
-    }))
-  );
+
+      const updatedHtml = html.replace(/<\/head>/i, `${tag}</head>`);
+
+      return new Response(updatedHtml, {
+        status: response.status,
+        statusText: response.statusText,
+        headers: response.headers
+      });
+    } catch (error) {
+      console.warn('Falha ao aplicar correção responsiva:', error);
+      return fetch(request);
+    }
+  })());
 });
